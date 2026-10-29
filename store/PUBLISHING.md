@@ -33,12 +33,12 @@ This writes `dist/calm-tab-lite-<version>.zip` with only the files the extension
 
 ## 3. Put the privacy policy online (you)
 
-The store needs a public web address for the policy. Pick one:
-- **GitHub Gist:** paste `PRIVACY.md` into a new public gist at https://gist.github.com and use its link.
-- **GitHub Pages:** add `PRIVACY.md` to a public repository and turn on Pages.
-- **Google Sites or a public Notion page:** paste the text and publish.
+The store needs a public web address for the policy. The GitHub repository (tranqtuan/calm-tab-lite) is private, so its files can't be that address. Pick one:
+- **Google Sites:** create a one-page site, paste `PRIVACY.md`, and publish.
+- **A public Notion page:** paste the text and turn on "Share to web".
+- **A public GitHub Gist:** paste `PRIVACY.md` into a new public gist at https://gist.github.com.
 
-Keep the link; it goes in the Privacy practices tab.
+Your firm may have rules about publishing from a work laptop, so a personal device is the safer choice for this step. Keep the link; it goes in the Privacy practices tab.
 
 ## 4. Upload the item
 

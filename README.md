@@ -208,4 +208,4 @@ Photos from [Unsplash](https://unsplash.com/license) and videos from [Pexels](ht
 
 ## License
 
-Copyright © 2026 Tom Tran. All rights reserved. The code is public so you can see how Calm Tab Lite works and what it does with your data; please don't copy or republish it. See [LICENSE](LICENSE). Install it from the Chrome Web Store.
+Copyright © 2026 Tom Tran. All rights reserved. No part of this code may be copied, changed or republished without written permission. See [LICENSE](LICENSE).
