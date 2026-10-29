@@ -1,0 +1,4187 @@
+[
+ {
+  "word": "ample",
+  "ipa": "/ˈæmpl/",
+  "pos": "adjective",
+  "definition": "more than enough",
+  "example": "There is ample time to finish the assignment.",
+  "vi": "dư dả, phong phú",
+  "exampleVi": "Có dư dả thời gian để hoàn thành bài tập."
+ },
+ {
+  "word": "initiate",
+  "ipa": "/ɪˈnɪʃieɪt/",
+  "pos": "verb",
+  "definition": "to cause a process or action to begin",
+  "example": "The government initiated a series of reforms.",
+  "vi": "khởi xướng, bắt đầu",
+  "exampleVi": "Chính phủ đã khởi xướng một loạt cải cách."
+ },
+ {
+  "word": "ramification",
+  "ipa": "/ˌræm.ɪ.fɪˈkeɪ.ʃən/",
+  "pos": "noun",
+  "definition": "a complex or unwelcome consequence of an action",
+  "example": "Consider the legal ramifications before signing.",
+  "vi": "hệ quả, hậu quả",
+  "exampleVi": "Hãy cân nhắc các hệ quả pháp lý trước khi ký."
+ },
+ {
+  "word": "frank",
+  "ipa": "/fræŋk/",
+  "pos": "adjective",
+  "definition": "honest and direct in speech",
+  "example": "We had a frank discussion about the problems.",
+  "vi": "thẳng thắn",
+  "exampleVi": "Chúng tôi đã có một cuộc thảo luận thẳng thắn về các vấn đề."
+ },
+ {
+  "word": "defer",
+  "ipa": "/dɪˈfɜː(r)/",
+  "pos": "verb",
+  "definition": "to postpone something until later",
+  "example": "They decided to defer the decision until next month.",
+  "vi": "trì hoãn, hoãn lại",
+  "exampleVi": "Họ quyết định hoãn việc ra quyết định đến tháng sau."
+ },
+ {
+  "word": "underscore",
+  "ipa": "/ˌʌn.dəˈskɔːr/",
+  "pos": "verb",
+  "definition": "to emphasize or show the importance of something",
+  "example": "The incident underscores the need for better security.",
+  "vi": "nhấn mạnh",
+  "exampleVi": "Sự việc này nhấn mạnh sự cần thiết phải tăng cường an ninh."
+ },
+ {
+  "word": "nuance",
+  "ipa": "/ˈnjuː.ɑːns/",
+  "pos": "noun",
+  "definition": "a subtle difference in meaning, expression, or tone",
+  "example": "A good translator captures every nuance of the original text.",
+  "vi": "sắc thái",
+  "exampleVi": "Một dịch giả giỏi nắm bắt được mọi sắc thái của văn bản gốc."
+ },
+ {
+  "word": "upheaval",
+  "ipa": "/ʌpˈhiː.vəl/",
+  "pos": "noun",
+  "definition": "a sudden, violent, or disruptive change",
+  "example": "The restructuring caused major upheaval in the company.",
+  "vi": "sự biến động, xáo trộn",
+  "exampleVi": "Việc tái cơ cấu đã gây ra sự xáo trộn lớn trong công ty."
+ },
+ {
+  "word": "negotiate",
+  "ipa": "/nəˈɡəʊ.ʃi.eɪt/",
+  "pos": "verb",
+  "definition": "to discuss something formally in order to reach an agreement",
+  "example": "She negotiated a higher salary before accepting the offer.",
+  "vi": "đàm phán, thương lượng",
+  "exampleVi": "Cô ấy đã đàm phán được mức lương cao hơn trước khi nhận lời mời làm việc."
+ },
+ {
+  "word": "turbulent",
+  "ipa": "/ˈtɜː.bjə.lənt/",
+  "pos": "adjective",
+  "definition": "characterized by conflict, disorder, or instability",
+  "example": "The airline survived a turbulent year.",
+  "vi": "hỗn loạn, sóng gió",
+  "exampleVi": "Hãng hàng không đã vượt qua một năm đầy sóng gió."
+ },
+ {
+  "word": "rationale",
+  "ipa": "/ˌræʃ.əˈnɑːl/",
+  "pos": "noun",
+  "definition": "the set of reasons behind a decision or belief",
+  "example": "Can you explain the rationale behind this decision?",
+  "vi": "lý do cơ bản, cơ sở lý luận",
+  "exampleVi": "Bạn có thể giải thích lý do đằng sau quyết định này không?"
+ },
+ {
+  "word": "juxtapose",
+  "ipa": "/ˌdʒʌkstəˈpəʊz/",
+  "pos": "verb",
+  "definition": "to place things side by side to show contrast",
+  "example": "The exhibition juxtaposes old and new art.",
+  "vi": "đặt cạnh nhau để so sánh",
+  "exampleVi": "Cuộc triển lãm đặt nghệ thuật cũ và mới cạnh nhau để so sánh."
+ },
+ {
+  "word": "reconcile",
+  "ipa": "/ˈrek.ən.saɪl/",
+  "pos": "verb",
+  "definition": "to restore friendly relations or make ideas compatible",
+  "example": "It is hard to reconcile these two different views.",
+  "vi": "hòa giải, dung hòa",
+  "exampleVi": "Thật khó để dung hòa hai quan điểm khác biệt này."
+ },
+ {
+  "word": "wholeheartedly",
+  "ipa": "/ˌhəʊlˈhɑː.tɪd.li/",
+  "pos": "adverb",
+  "definition": "with complete sincerity and commitment",
+  "example": "I wholeheartedly agree with your proposal.",
+  "vi": "hết lòng, toàn tâm toàn ý",
+  "exampleVi": "Tôi hoàn toàn đồng ý với đề xuất của bạn."
+ },
+ {
+  "word": "explicit",
+  "ipa": "/ɪkˈsplɪsɪt/",
+  "pos": "adjective",
+  "definition": "stated clearly and in detail, leaving no doubt",
+  "example": "She gave explicit instructions not to open the box.",
+  "vi": "rõ ràng, tường minh",
+  "exampleVi": "Cô ấy đã dặn rõ ràng là không được mở chiếc hộp."
+ },
+ {
+  "word": "gregarious",
+  "ipa": "/ɡrɪˈɡeəriəs/",
+  "pos": "adjective",
+  "definition": "enjoying the company of other people; sociable",
+  "example": "He is a gregarious person who loves parties.",
+  "vi": "hòa đồng, thích giao du",
+  "exampleVi": "Anh ấy là người hòa đồng, rất thích tiệc tùng."
+ },
+ {
+  "word": "quell",
+  "ipa": "/kwel/",
+  "pos": "verb",
+  "definition": "to put an end to something, such as a rebellion or fear",
+  "example": "The CEO tried to quell fears about layoffs.",
+  "vi": "dập tắt, xoa dịu",
+  "exampleVi": "Vị CEO đã cố gắng xoa dịu nỗi lo về việc cắt giảm nhân sự."
+ },
+ {
+  "word": "unprecedented",
+  "ipa": "/ʌnˈpres.ɪ.den.tɪd/",
+  "pos": "adjective",
+  "definition": "never done or known before",
+  "example": "The pandemic caused unprecedented disruption.",
+  "vi": "chưa từng có",
+  "exampleVi": "Đại dịch đã gây ra sự gián đoạn chưa từng có."
+ },
+ {
+  "word": "hesitant",
+  "ipa": "/ˈhezɪtənt/",
+  "pos": "adjective",
+  "definition": "uncertain or slow to act or speak",
+  "example": "He was hesitant to share his opinion.",
+  "vi": "do dự, ngập ngừng",
+  "exampleVi": "Anh ấy do dự khi chia sẻ ý kiến của mình."
+ },
+ {
+  "word": "prolific",
+  "ipa": "/prəˈlɪf.ɪk/",
+  "pos": "adjective",
+  "definition": "producing a great deal of work or results",
+  "example": "He is a prolific writer with over fifty books.",
+  "vi": "sung mãn, viết nhiều",
+  "exampleVi": "Ông ấy là một nhà văn sung mãn với hơn năm mươi cuốn sách."
+ },
+ {
+  "word": "foresee",
+  "ipa": "/fɔːˈsiː/",
+  "pos": "verb",
+  "definition": "to know or expect that something will happen",
+  "example": "Nobody could have foreseen the crisis.",
+  "vi": "thấy trước, lường trước",
+  "exampleVi": "Không ai có thể lường trước được cuộc khủng hoảng."
+ },
+ {
+  "word": "incessant",
+  "ipa": "/ɪnˈsesnt/",
+  "pos": "adjective",
+  "definition": "continuing without stopping",
+  "example": "The incessant noise kept me awake.",
+  "vi": "không ngừng, liên tục",
+  "exampleVi": "Tiếng ồn không ngừng khiến tôi thức trắng."
+ },
+ {
+  "word": "commence",
+  "ipa": "/kəˈmens/",
+  "pos": "verb",
+  "definition": "to begin or start",
+  "example": "The ceremony will commence at 10 a.m.",
+  "vi": "bắt đầu, khởi đầu",
+  "exampleVi": "Buổi lễ sẽ bắt đầu lúc 10 giờ sáng."
+ },
+ {
+  "word": "integral",
+  "ipa": "/ˈɪntɪɡrəl/",
+  "pos": "adjective",
+  "definition": "necessary and important as a part of a whole",
+  "example": "Music is an integral part of the festival.",
+  "vi": "không thể tách rời, thiết yếu",
+  "exampleVi": "Âm nhạc là một phần không thể tách rời của lễ hội."
+ },
+ {
+  "word": "tarnish",
+  "ipa": "/ˈtɑː.nɪʃ/",
+  "pos": "verb",
+  "definition": "to damage the reputation or quality of something",
+  "example": "The scandal tarnished the company's image.",
+  "vi": "làm hoen ố, làm mất uy tín",
+  "exampleVi": "Vụ bê bối đã làm hoen ố hình ảnh của công ty."
+ },
+ {
+  "word": "anticipate",
+  "ipa": "/ænˈtɪsɪpeɪt/",
+  "pos": "verb",
+  "definition": "to expect or predict something and prepare for it",
+  "example": "We anticipate high demand during the holidays.",
+  "vi": "dự đoán, lường trước",
+  "exampleVi": "Chúng tôi dự đoán nhu cầu sẽ tăng cao trong dịp lễ."
+ },
+ {
+  "word": "alleviate",
+  "ipa": "/əˈliːvieɪt/",
+  "pos": "verb",
+  "definition": "to make suffering or a problem less severe",
+  "example": "The medicine helped alleviate her pain.",
+  "vi": "làm dịu, giảm nhẹ",
+  "exampleVi": "Thuốc đã giúp làm dịu cơn đau của cô ấy."
+ },
+ {
+  "word": "prudent",
+  "ipa": "/ˈpruː.dənt/",
+  "pos": "adjective",
+  "definition": "acting with care and thought for the future",
+  "example": "It would be prudent to save some money for emergencies.",
+  "vi": "thận trọng, khôn ngoan",
+  "exampleVi": "Sẽ là khôn ngoan nếu để dành một ít tiền phòng khi khẩn cấp."
+ },
+ {
+  "word": "flaw",
+  "ipa": "/flɔː/",
+  "pos": "noun",
+  "definition": "a mistake or weakness that makes something imperfect",
+  "example": "There is a serious flaw in your argument.",
+  "vi": "khuyết điểm, sai sót",
+  "exampleVi": "Lập luận của bạn có một sai sót nghiêm trọng."
+ },
+ {
+  "word": "tactful",
+  "ipa": "/ˈtækt.fəl/",
+  "pos": "adjective",
+  "definition": "showing sensitivity in dealing with others or difficult issues",
+  "example": "She gave tactful feedback on his presentation.",
+  "vi": "khéo léo, tế nhị",
+  "exampleVi": "Cô ấy đã góp ý một cách tế nhị về bài thuyết trình của anh ấy."
+ },
+ {
+  "word": "tedious",
+  "ipa": "/ˈtiː.di.əs/",
+  "pos": "adjective",
+  "definition": "too long, slow, or dull; tiresome",
+  "example": "Data entry can be a tedious task.",
+  "vi": "tẻ nhạt, chán ngắt",
+  "exampleVi": "Nhập dữ liệu có thể là một công việc tẻ nhạt."
+ },
+ {
+  "word": "inevitable",
+  "ipa": "/ɪnˈevɪtəbl/",
+  "pos": "adjective",
+  "definition": "certain to happen and unable to be avoided",
+  "example": "Change is inevitable in any organisation.",
+  "vi": "không thể tránh khỏi",
+  "exampleVi": "Thay đổi là điều không thể tránh khỏi trong bất kỳ tổ chức nào."
+ },
+ {
+  "word": "bias",
+  "ipa": "/ˈbaɪəs/",
+  "pos": "noun",
+  "definition": "an unfair preference for or against someone or something",
+  "example": "The study was criticised for its political bias.",
+  "vi": "sự thiên vị, định kiến",
+  "exampleVi": "Nghiên cứu bị chỉ trích vì thiên vị chính trị."
+ },
+ {
+  "word": "proficient",
+  "ipa": "/prəˈfɪʃ.ənt/",
+  "pos": "adjective",
+  "definition": "competent or skilled in doing something",
+  "example": "Applicants must be proficient in English.",
+  "vi": "thành thạo, giỏi",
+  "exampleVi": "Ứng viên phải thành thạo tiếng Anh."
+ },
+ {
+  "word": "lofty",
+  "ipa": "/ˈlɒfti/",
+  "pos": "adjective",
+  "definition": "very high; noble or ambitious in ideas",
+  "example": "The organisation has lofty goals.",
+  "vi": "cao cả, cao xa",
+  "exampleVi": "Tổ chức này có những mục tiêu cao cả."
+ },
+ {
+  "word": "uphold",
+  "ipa": "/ʌpˈhəʊld/",
+  "pos": "verb",
+  "definition": "to maintain or support a law, principle, or decision",
+  "example": "The court upheld the original verdict.",
+  "vi": "duy trì, giữ vững",
+  "exampleVi": "Tòa án đã giữ nguyên phán quyết ban đầu."
+ },
+ {
+  "word": "ingenious",
+  "ipa": "/ɪnˈdʒiːniəs/",
+  "pos": "adjective",
+  "definition": "clever, original, and inventive",
+  "example": "She came up with an ingenious solution.",
+  "vi": "khéo léo, tài tình",
+  "exampleVi": "Cô ấy đã nghĩ ra một giải pháp tài tình."
+ },
+ {
+  "word": "candid",
+  "ipa": "/ˈkændɪd/",
+  "pos": "adjective",
+  "definition": "honest and direct, even when the truth is uncomfortable",
+  "example": "She gave a candid account of her struggles.",
+  "vi": "thẳng thắn, bộc trực",
+  "exampleVi": "Cô ấy đã kể lại một cách thẳng thắn những khó khăn của mình."
+ },
+ {
+  "word": "mercurial",
+  "ipa": "/mɜːˈkjʊə.ri.əl/",
+  "pos": "adjective",
+  "definition": "subject to sudden and unpredictable changes of mood",
+  "example": "His mercurial temper made him difficult to work with.",
+  "vi": "thất thường, hay thay đổi",
+  "exampleVi": "Tính khí thất thường khiến anh ấy khó làm việc cùng."
+ },
+ {
+  "word": "zenith",
+  "ipa": "/ˈzen.ɪθ/",
+  "pos": "noun",
+  "definition": "the time at which something is most powerful or successful",
+  "example": "The empire reached its zenith in the 15th century.",
+  "vi": "đỉnh cao, cực điểm",
+  "exampleVi": "Đế chế đạt đến đỉnh cao vào thế kỷ 15."
+ },
+ {
+  "word": "bland",
+  "ipa": "/blænd/",
+  "pos": "adjective",
+  "definition": "lacking strong features or flavour; uninteresting",
+  "example": "The soup was rather bland.",
+  "vi": "nhạt nhẽo, vô vị",
+  "exampleVi": "Món súp khá nhạt nhẽo."
+ },
+ {
+  "word": "incentive",
+  "ipa": "/ɪnˈsentɪv/",
+  "pos": "noun",
+  "definition": "something that encourages a person to do something",
+  "example": "The bonus is an incentive for staff to work harder.",
+  "vi": "động lực, sự khuyến khích",
+  "exampleVi": "Tiền thưởng là động lực để nhân viên làm việc chăm chỉ hơn."
+ },
+ {
+  "word": "accumulate",
+  "ipa": "/əˈkjuːmjəleɪt/",
+  "pos": "verb",
+  "definition": "to gradually gather or increase in amount",
+  "example": "Dust had accumulated on the shelves over the years.",
+  "vi": "tích lũy, tích tụ",
+  "exampleVi": "Bụi đã tích tụ trên các kệ qua nhiều năm."
+ },
+ {
+  "word": "abundant",
+  "ipa": "/əˈbʌndənt/",
+  "pos": "adjective",
+  "definition": "existing in large quantities; more than enough",
+  "example": "The region has abundant natural resources.",
+  "vi": "dồi dào, phong phú",
+  "exampleVi": "Khu vực này có nguồn tài nguyên thiên nhiên dồi dào."
+ },
+ {
+  "word": "eloquent",
+  "ipa": "/ˈeləkwənt/",
+  "pos": "adjective",
+  "definition": "fluent and persuasive in speaking or writing",
+  "example": "She gave an eloquent speech at the ceremony.",
+  "vi": "hùng hồn, lưu loát",
+  "exampleVi": "Cô ấy đã có một bài phát biểu hùng hồn tại buổi lễ."
+ },
+ {
+  "word": "solicit",
+  "ipa": "/səˈlɪs.ɪt/",
+  "pos": "verb",
+  "definition": "to ask for or try to obtain something from someone",
+  "example": "The team solicited feedback from customers.",
+  "vi": "thu thập, yêu cầu, xin",
+  "exampleVi": "Nhóm đã thu thập ý kiến phản hồi từ khách hàng."
+ },
+ {
+  "word": "discern",
+  "ipa": "/dɪˈsɜːn/",
+  "pos": "verb",
+  "definition": "to notice or understand something that is not obvious",
+  "example": "It was difficult to discern his true intentions.",
+  "vi": "nhận thấy, phân biệt",
+  "exampleVi": "Thật khó để nhận ra ý định thật sự của anh ta."
+ },
+ {
+  "word": "reprimand",
+  "ipa": "/ˈrep.rɪ.mɑːnd/",
+  "pos": "verb",
+  "definition": "to express formal disapproval of someone",
+  "example": "The employee was reprimanded for being late.",
+  "vi": "khiển trách",
+  "exampleVi": "Nhân viên đó đã bị khiển trách vì đi muộn."
+ },
+ {
+  "word": "decisive",
+  "ipa": "/dɪˈsaɪsɪv/",
+  "pos": "adjective",
+  "definition": "able to make decisions quickly; having a clear result",
+  "example": "Good leaders must be decisive in a crisis.",
+  "vi": "quyết đoán, mang tính quyết định",
+  "exampleVi": "Nhà lãnh đạo giỏi phải quyết đoán trong khủng hoảng."
+ },
+ {
+  "word": "adhere",
+  "ipa": "/ədˈhɪə(r)/",
+  "pos": "verb",
+  "definition": "to follow a rule, belief, or agreement closely",
+  "example": "All staff must adhere to the safety guidelines.",
+  "vi": "tuân thủ, tuân theo",
+  "exampleVi": "Tất cả nhân viên phải tuân thủ các hướng dẫn an toàn."
+ },
+ {
+  "word": "stakeholder",
+  "ipa": "/ˈsteɪkˌhəʊl.dər/",
+  "pos": "noun",
+  "definition": "a person or group with an interest or concern in something",
+  "example": "We consulted all key stakeholders before the decision.",
+  "vi": "bên liên quan",
+  "exampleVi": "Chúng tôi đã tham vấn tất cả các bên liên quan chủ chốt trước khi ra quyết định."
+ },
+ {
+  "word": "anomaly",
+  "ipa": "/əˈnɒməli/",
+  "pos": "noun",
+  "definition": "something that is different from what is normal or expected",
+  "example": "The data showed a strange anomaly in March.",
+  "vi": "điều bất thường, dị thường",
+  "exampleVi": "Dữ liệu cho thấy một điểm bất thường lạ vào tháng Ba."
+ },
+ {
+  "word": "undermine",
+  "ipa": "/ˌʌn.dəˈmaɪn/",
+  "pos": "verb",
+  "definition": "to gradually weaken or damage something",
+  "example": "Constant criticism can undermine confidence.",
+  "vi": "làm suy yếu, phá hoại ngầm",
+  "exampleVi": "Việc bị chỉ trích liên tục có thể làm suy yếu sự tự tin."
+ },
+ {
+  "word": "fallacy",
+  "ipa": "/ˈfæləsi/",
+  "pos": "noun",
+  "definition": "a mistaken belief or an error in reasoning",
+  "example": "It is a fallacy that money brings happiness.",
+  "vi": "ngụy biện, quan niệm sai lầm",
+  "exampleVi": "Cho rằng tiền mang lại hạnh phúc là một quan niệm sai lầm."
+ },
+ {
+  "word": "proximity",
+  "ipa": "/prɒkˈsɪm.ə.ti/",
+  "pos": "noun",
+  "definition": "nearness in space, time, or relationship",
+  "example": "The hotel's proximity to the airport is convenient.",
+  "vi": "sự gần gũi, khoảng cách gần",
+  "exampleVi": "Khách sạn nằm gần sân bay nên rất thuận tiện."
+ },
+ {
+  "word": "lavish",
+  "ipa": "/ˈlævɪʃ/",
+  "pos": "adjective",
+  "definition": "very generous, expensive, or elaborate",
+  "example": "They held a lavish reception at the hotel.",
+  "vi": "xa hoa, hào phóng",
+  "exampleVi": "Họ đã tổ chức một buổi tiệc chiêu đãi xa hoa tại khách sạn."
+ },
+ {
+  "word": "outweigh",
+  "ipa": "/ˌaʊtˈweɪ/",
+  "pos": "verb",
+  "definition": "to be greater or more significant than something else",
+  "example": "The benefits of the plan far outweigh the costs.",
+  "vi": "vượt trội hơn, nặng hơn",
+  "exampleVi": "Lợi ích của kế hoạch vượt xa chi phí."
+ },
+ {
+  "word": "exploit",
+  "ipa": "/ɪkˈsplɔɪt/",
+  "pos": "verb",
+  "definition": "to use something fully; to treat someone unfairly for profit",
+  "example": "The company was accused of exploiting its workers.",
+  "vi": "khai thác, bóc lột",
+  "exampleVi": "Công ty bị cáo buộc bóc lột công nhân."
+ },
+ {
+  "word": "novice",
+  "ipa": "/ˈnɒv.ɪs/",
+  "pos": "noun",
+  "definition": "a person who is new to and inexperienced in an activity",
+  "example": "This course is designed for complete novices.",
+  "vi": "người mới bắt đầu",
+  "exampleVi": "Khóa học này được thiết kế cho những người hoàn toàn mới bắt đầu."
+ },
+ {
+  "word": "volatile",
+  "ipa": "/ˈvɒl.ə.taɪl/",
+  "pos": "adjective",
+  "definition": "likely to change suddenly and unpredictably",
+  "example": "Cryptocurrency prices are extremely volatile.",
+  "vi": "biến động, dễ thay đổi",
+  "exampleVi": "Giá tiền mã hóa biến động cực kỳ mạnh."
+ },
+ {
+  "word": "implement",
+  "ipa": "/ˈɪmplɪment/",
+  "pos": "verb",
+  "definition": "to put a plan or decision into effect",
+  "example": "The new rules will be implemented next year.",
+  "vi": "thực hiện, triển khai",
+  "exampleVi": "Các quy định mới sẽ được triển khai vào năm tới."
+ },
+ {
+  "word": "mandate",
+  "ipa": "/ˈmæn.deɪt/",
+  "pos": "noun",
+  "definition": "an official order or authority to do something",
+  "example": "The new government has a clear mandate for reform.",
+  "vi": "sự ủy nhiệm, chỉ thị",
+  "exampleVi": "Chính phủ mới có sự ủy nhiệm rõ ràng để tiến hành cải cách."
+ },
+ {
+  "word": "subtle",
+  "ipa": "/ˈsʌt.əl/",
+  "pos": "adjective",
+  "definition": "so delicate or precise as to be difficult to notice",
+  "example": "There is a subtle difference between the two colours.",
+  "vi": "tinh tế, khó nhận ra",
+  "exampleVi": "Có một sự khác biệt tinh tế giữa hai màu này."
+ },
+ {
+  "word": "affluent",
+  "ipa": "/ˈæfluənt/",
+  "pos": "adjective",
+  "definition": "having a lot of money; wealthy",
+  "example": "They live in an affluent suburb of the city.",
+  "vi": "giàu có, sung túc",
+  "exampleVi": "Họ sống ở một vùng ngoại ô giàu có của thành phố."
+ },
+ {
+  "word": "unequivocal",
+  "ipa": "/ˌʌn.ɪˈkwɪv.ə.kəl/",
+  "pos": "adjective",
+  "definition": "leaving no doubt; completely clear",
+  "example": "The answer was an unequivocal no.",
+  "vi": "rõ ràng, dứt khoát",
+  "exampleVi": "Câu trả lời là một lời từ chối dứt khoát."
+ },
+ {
+  "word": "impartial",
+  "ipa": "/ɪmˈpɑːʃl/",
+  "pos": "adjective",
+  "definition": "treating all sides equally; not biased",
+  "example": "Judges must remain impartial.",
+  "vi": "công bằng, vô tư",
+  "exampleVi": "Thẩm phán phải luôn công bằng, vô tư."
+ },
+ {
+  "word": "eradicate",
+  "ipa": "/ɪˈrædɪkeɪt/",
+  "pos": "verb",
+  "definition": "to destroy or get rid of something completely",
+  "example": "The campaign aims to eradicate malaria.",
+  "vi": "xóa bỏ, diệt trừ",
+  "exampleVi": "Chiến dịch nhằm mục tiêu xóa bỏ bệnh sốt rét."
+ },
+ {
+  "word": "solidarity",
+  "ipa": "/ˌsɒl.ɪˈdær.ə.ti/",
+  "pos": "noun",
+  "definition": "unity and mutual support within a group",
+  "example": "Workers showed solidarity with the striking nurses.",
+  "vi": "tình đoàn kết",
+  "exampleVi": "Công nhân thể hiện tình đoàn kết với các y tá đang đình công."
+ },
+ {
+  "word": "elusive",
+  "ipa": "/iˈluːsɪv/",
+  "pos": "adjective",
+  "definition": "difficult to find, catch, or achieve",
+  "example": "Success remained elusive for the young company.",
+  "vi": "khó nắm bắt, khó đạt được",
+  "exampleVi": "Thành công vẫn khó đạt được đối với công ty non trẻ."
+ },
+ {
+  "word": "detrimental",
+  "ipa": "/ˌdetrɪˈmentl/",
+  "pos": "adjective",
+  "definition": "causing harm or damage",
+  "example": "Smoking is detrimental to your health.",
+  "vi": "có hại, bất lợi",
+  "exampleVi": "Hút thuốc có hại cho sức khỏe của bạn."
+ },
+ {
+  "word": "succinct",
+  "ipa": "/səkˈsɪŋkt/",
+  "pos": "adjective",
+  "definition": "briefly and clearly expressed",
+  "example": "Keep your summary succinct and to the point.",
+  "vi": "ngắn gọn, súc tích",
+  "exampleVi": "Hãy viết bản tóm tắt ngắn gọn, súc tích và đi thẳng vào vấn đề."
+ },
+ {
+  "word": "illuminate",
+  "ipa": "/ɪˈluːmɪneɪt/",
+  "pos": "verb",
+  "definition": "to light up; to help explain or clarify",
+  "example": "The study illuminates the causes of the disease.",
+  "vi": "chiếu sáng, làm sáng tỏ",
+  "exampleVi": "Nghiên cứu làm sáng tỏ nguyên nhân gây ra căn bệnh."
+ },
+ {
+  "word": "allocate",
+  "ipa": "/ˈæləkeɪt/",
+  "pos": "verb",
+  "definition": "to give or distribute resources for a particular purpose",
+  "example": "The government allocated more funds to education.",
+  "vi": "phân bổ, phân bổ ngân sách",
+  "exampleVi": "Chính phủ đã phân bổ thêm ngân sách cho giáo dục."
+ },
+ {
+  "word": "nurture",
+  "ipa": "/ˈnɜː.tʃər/",
+  "pos": "verb",
+  "definition": "to care for and encourage the growth or development of",
+  "example": "Good managers nurture talent within their teams.",
+  "vi": "nuôi dưỡng, vun đắp",
+  "exampleVi": "Những nhà quản lý giỏi biết nuôi dưỡng nhân tài trong đội ngũ của mình."
+ },
+ {
+  "word": "clarify",
+  "ipa": "/ˈklærəfaɪ/",
+  "pos": "verb",
+  "definition": "to make something clearer or easier to understand",
+  "example": "Could you clarify what you mean?",
+  "vi": "làm rõ",
+  "exampleVi": "Bạn có thể làm rõ ý bạn là gì không?"
+ },
+ {
+  "word": "diligent",
+  "ipa": "/ˈdɪlɪdʒənt/",
+  "pos": "adjective",
+  "definition": "showing care and effort in one's work",
+  "example": "He is a diligent worker who rarely makes mistakes.",
+  "vi": "siêng năng, cần cù",
+  "exampleVi": "Anh ấy là một nhân viên siêng năng, hiếm khi mắc lỗi."
+ },
+ {
+  "word": "methodical",
+  "ipa": "/məˈθɒd.ɪ.kəl/",
+  "pos": "adjective",
+  "definition": "done in a careful, orderly, and systematic way",
+  "example": "She took a methodical approach to solving the problem.",
+  "vi": "có phương pháp, ngăn nắp",
+  "exampleVi": "Cô ấy giải quyết vấn đề một cách có phương pháp."
+ },
+ {
+  "word": "impulsive",
+  "ipa": "/ɪmˈpʌlsɪv/",
+  "pos": "adjective",
+  "definition": "acting suddenly without careful thought",
+  "example": "Buying the car was an impulsive decision.",
+  "vi": "bốc đồng, hấp tấp",
+  "exampleVi": "Mua chiếc xe đó là một quyết định bốc đồng."
+ },
+ {
+  "word": "precedent",
+  "ipa": "/ˈpres.ɪ.dənt/",
+  "pos": "noun",
+  "definition": "an earlier event or action used as an example or guide",
+  "example": "The court's ruling set an important precedent.",
+  "vi": "tiền lệ",
+  "exampleVi": "Phán quyết của tòa án đã tạo ra một tiền lệ quan trọng."
+ },
+ {
+  "word": "crucial",
+  "ipa": "/ˈkruːʃl/",
+  "pos": "adjective",
+  "definition": "extremely important; decisive",
+  "example": "Teamwork is crucial to our success.",
+  "vi": "cốt yếu, then chốt",
+  "exampleVi": "Tinh thần đồng đội là yếu tố then chốt cho thành công của chúng tôi."
+ },
+ {
+  "word": "fragile",
+  "ipa": "/ˈfrædʒaɪl/",
+  "pos": "adjective",
+  "definition": "easily broken or damaged",
+  "example": "The economy remains fragile after the recession.",
+  "vi": "mong manh, dễ vỡ",
+  "exampleVi": "Nền kinh tế vẫn còn mong manh sau cuộc suy thoái."
+ },
+ {
+  "word": "fortify",
+  "ipa": "/ˈfɔːtɪfaɪ/",
+  "pos": "verb",
+  "definition": "to make something stronger, especially to protect it",
+  "example": "They fortified the city walls.",
+  "vi": "củng cố, gia cố",
+  "exampleVi": "Họ đã gia cố tường thành."
+ },
+ {
+  "word": "linger",
+  "ipa": "/ˈlɪŋɡə(r)/",
+  "pos": "verb",
+  "definition": "to stay somewhere longer than necessary; to continue to exist",
+  "example": "The smell of smoke lingered in the room.",
+  "vi": "nán lại, kéo dài",
+  "exampleVi": "Mùi khói vẫn còn vương lại trong phòng."
+ },
+ {
+  "word": "enhance",
+  "ipa": "/ɪnˈhɑːns/",
+  "pos": "verb",
+  "definition": "to improve the quality or value of something",
+  "example": "Good lighting can enhance the look of a room.",
+  "vi": "nâng cao, cải thiện",
+  "exampleVi": "Ánh sáng tốt có thể làm tăng vẻ đẹp của căn phòng."
+ },
+ {
+  "word": "deliberate",
+  "ipa": "/dɪˈlɪbərət/",
+  "pos": "adjective",
+  "definition": "done intentionally; careful and unhurried",
+  "example": "It was a deliberate attempt to mislead the public.",
+  "vi": "cố ý, có chủ đích",
+  "exampleVi": "Đó là một nỗ lực cố ý nhằm đánh lừa công chúng."
+ },
+ {
+  "word": "diminish",
+  "ipa": "/dɪˈmɪnɪʃ/",
+  "pos": "verb",
+  "definition": "to become or make something smaller or less important",
+  "example": "The pain will diminish over time.",
+  "vi": "giảm bớt, thu nhỏ",
+  "exampleVi": "Cơn đau sẽ giảm bớt theo thời gian."
+ },
+ {
+  "word": "endeavour",
+  "ipa": "/ɪnˈdevə(r)/",
+  "pos": "noun",
+  "definition": "a serious attempt to achieve something",
+  "example": "Scientific endeavour requires patience.",
+  "vi": "nỗ lực, sự cố gắng",
+  "exampleVi": "Nỗ lực khoa học đòi hỏi sự kiên nhẫn."
+ },
+ {
+  "word": "constraint",
+  "ipa": "/kənˈstreɪnt/",
+  "pos": "noun",
+  "definition": "a limitation or restriction",
+  "example": "Budget constraints forced us to cancel the event.",
+  "vi": "sự hạn chế, ràng buộc",
+  "exampleVi": "Hạn chế về ngân sách buộc chúng tôi phải hủy sự kiện."
+ },
+ {
+  "word": "gradual",
+  "ipa": "/ˈɡrædʒuəl/",
+  "pos": "adjective",
+  "definition": "happening slowly over a long period",
+  "example": "There has been a gradual improvement in sales.",
+  "vi": "dần dần, từ từ",
+  "exampleVi": "Doanh số đã cải thiện dần dần."
+ },
+ {
+  "word": "catalyst",
+  "ipa": "/ˈkætəlɪst/",
+  "pos": "noun",
+  "definition": "a person or event that causes important change",
+  "example": "The protest became a catalyst for political reform.",
+  "vi": "chất xúc tác, nhân tố thúc đẩy",
+  "exampleVi": "Cuộc biểu tình đã trở thành nhân tố thúc đẩy cải cách chính trị."
+ },
+ {
+  "word": "marginal",
+  "ipa": "/ˈmɑː.dʒɪ.nəl/",
+  "pos": "adjective",
+  "definition": "very small in amount or importance",
+  "example": "The new policy led to only marginal improvements.",
+  "vi": "không đáng kể, bên lề",
+  "exampleVi": "Chính sách mới chỉ mang lại những cải thiện không đáng kể."
+ },
+ {
+  "word": "extravagant",
+  "ipa": "/ɪkˈstrævəɡənt/",
+  "pos": "adjective",
+  "definition": "spending or costing too much money",
+  "example": "They threw an extravagant party for her birthday.",
+  "vi": "xa hoa, phung phí",
+  "exampleVi": "Họ đã tổ chức một bữa tiệc xa hoa mừng sinh nhật cô ấy."
+ },
+ {
+  "word": "analogy",
+  "ipa": "/əˈnælədʒi/",
+  "pos": "noun",
+  "definition": "a comparison between two things to explain or clarify an idea",
+  "example": "She drew an analogy between the brain and a computer.",
+  "vi": "sự so sánh, phép loại suy",
+  "exampleVi": "Cô ấy so sánh bộ não với một chiếc máy tính."
+ },
+ {
+  "word": "dwindle",
+  "ipa": "/ˈdwɪndl/",
+  "pos": "verb",
+  "definition": "to gradually become smaller in size or number",
+  "example": "Their savings dwindled during the recession.",
+  "vi": "suy giảm dần, hao hụt",
+  "exampleVi": "Khoản tiết kiệm của họ hao hụt dần trong thời kỳ suy thoái."
+ },
+ {
+  "word": "narrative",
+  "ipa": "/ˈnær.ə.tɪv/",
+  "pos": "noun",
+  "definition": "a story or account of events; a way of explaining something",
+  "example": "The media shaped the public narrative around the crisis.",
+  "vi": "câu chuyện, lối kể",
+  "exampleVi": "Truyền thông đã định hình câu chuyện của công chúng về cuộc khủng hoảng."
+ },
+ {
+  "word": "transparent",
+  "ipa": "/trænˈspær.ənt/",
+  "pos": "adjective",
+  "definition": "open and honest; easy to see through or understand",
+  "example": "Leaders should be transparent about their decisions.",
+  "vi": "minh bạch, trong suốt",
+  "exampleVi": "Các nhà lãnh đạo nên minh bạch về các quyết định của mình."
+ },
+ {
+  "word": "momentum",
+  "ipa": "/məˈmen.təm/",
+  "pos": "noun",
+  "definition": "the force that keeps something moving or developing",
+  "example": "The campaign gained momentum in the final weeks.",
+  "vi": "đà, động lực",
+  "exampleVi": "Chiến dịch đã có thêm đà trong những tuần cuối."
+ },
+ {
+  "word": "futile",
+  "ipa": "/ˈfjuːtaɪl/",
+  "pos": "adjective",
+  "definition": "producing no useful result; pointless",
+  "example": "It was futile to argue with him.",
+  "vi": "vô ích, vô vọng",
+  "exampleVi": "Tranh cãi với anh ta là vô ích."
+ },
+ {
+  "word": "novel",
+  "ipa": "/ˈnɒv.əl/",
+  "pos": "adjective",
+  "definition": "new, original, and unlike anything seen before",
+  "example": "The researchers proposed a novel solution to the problem.",
+  "vi": "mới lạ, độc đáo",
+  "exampleVi": "Các nhà nghiên cứu đã đề xuất một giải pháp mới lạ cho vấn đề."
+ },
+ {
+  "word": "bolster",
+  "ipa": "/ˈbəʊlstə(r)/",
+  "pos": "verb",
+  "definition": "to support or strengthen something",
+  "example": "The good news bolstered investor confidence.",
+  "vi": "củng cố, tăng cường",
+  "exampleVi": "Tin tốt đã củng cố niềm tin của nhà đầu tư."
+ },
+ {
+  "word": "reinforce",
+  "ipa": "/ˌriː.ɪnˈfɔːs/",
+  "pos": "verb",
+  "definition": "to strengthen or support an idea, feeling, or structure",
+  "example": "The results reinforce our original hypothesis.",
+  "vi": "củng cố, tăng cường",
+  "exampleVi": "Kết quả củng cố thêm giả thuyết ban đầu của chúng tôi."
+ },
+ {
+  "word": "zest",
+  "ipa": "/zest/",
+  "pos": "noun",
+  "definition": "great enthusiasm and energy",
+  "example": "He approaches every project with zest.",
+  "vi": "sự say mê, nhiệt huyết",
+  "exampleVi": "Anh ấy tiếp cận mọi dự án với sự say mê."
+ },
+ {
+  "word": "mundane",
+  "ipa": "/mʌnˈdeɪn/",
+  "pos": "adjective",
+  "definition": "ordinary and not interesting or exciting",
+  "example": "He wanted a break from the mundane routine of office life.",
+  "vi": "tẻ nhạt, bình thường",
+  "exampleVi": "Anh ấy muốn thoát khỏi nếp sinh hoạt tẻ nhạt của cuộc sống văn phòng."
+ },
+ {
+  "word": "tremendous",
+  "ipa": "/trɪˈmen.dəs/",
+  "pos": "adjective",
+  "definition": "very great in amount, size, or intensity",
+  "example": "The project required a tremendous amount of effort.",
+  "vi": "to lớn, khủng khiếp",
+  "exampleVi": "Dự án đòi hỏi một lượng công sức to lớn."
+ },
+ {
+  "word": "withstand",
+  "ipa": "/wɪðˈstænd/",
+  "pos": "verb",
+  "definition": "to remain undamaged by or resist something",
+  "example": "The building is designed to withstand earthquakes.",
+  "vi": "chịu đựng, chống chọi",
+  "exampleVi": "Tòa nhà được thiết kế để chống chọi với động đất."
+ },
+ {
+  "word": "diverse",
+  "ipa": "/daɪˈvɜːs/",
+  "pos": "adjective",
+  "definition": "showing a great deal of variety",
+  "example": "London is a culturally diverse city.",
+  "vi": "đa dạng",
+  "exampleVi": "London là một thành phố đa dạng về văn hóa."
+ },
+ {
+  "word": "tranquil",
+  "ipa": "/ˈtræŋ.kwɪl/",
+  "pos": "adjective",
+  "definition": "calm and peaceful",
+  "example": "They found a tranquil spot by the lake.",
+  "vi": "yên bình, tĩnh lặng",
+  "exampleVi": "Họ tìm thấy một chốn yên bình bên hồ."
+ },
+ {
+  "word": "benevolent",
+  "ipa": "/bəˈnevələnt/",
+  "pos": "adjective",
+  "definition": "kind, helpful, and generous",
+  "example": "A benevolent donor paid for the new library.",
+  "vi": "nhân từ, rộng lượng",
+  "exampleVi": "Một nhà hảo tâm rộng lượng đã chi trả cho thư viện mới."
+ },
+ {
+  "word": "adequate",
+  "ipa": "/ˈædɪkwət/",
+  "pos": "adjective",
+  "definition": "enough or good enough for a particular purpose",
+  "example": "The room has adequate lighting for reading.",
+  "vi": "đầy đủ, thỏa đáng",
+  "exampleVi": "Căn phòng có đủ ánh sáng để đọc sách."
+ },
+ {
+  "word": "vicinity",
+  "ipa": "/vəˈsɪn.ə.ti/",
+  "pos": "noun",
+  "definition": "the area near or surrounding a particular place",
+  "example": "There are several hotels in the vicinity of the airport.",
+  "vi": "vùng lân cận",
+  "exampleVi": "Có một số khách sạn ở vùng lân cận sân bay."
+ },
+ {
+  "word": "wistful",
+  "ipa": "/ˈwɪst.fəl/",
+  "pos": "adjective",
+  "definition": "having a feeling of vague or regretful longing",
+  "example": "She gave a wistful smile as she remembered her childhood.",
+  "vi": "bâng khuâng, đăm chiêu",
+  "exampleVi": "Cô ấy nở một nụ cười bâng khuâng khi nhớ lại thời thơ ấu."
+ },
+ {
+  "word": "rhetoric",
+  "ipa": "/ˈret.ər.ɪk/",
+  "pos": "noun",
+  "definition": "language designed to persuade, often regarded as insincere",
+  "example": "Voters want action, not empty rhetoric.",
+  "vi": "lời lẽ hoa mỹ, thuật hùng biện",
+  "exampleVi": "Cử tri muốn hành động, chứ không phải những lời lẽ hoa mỹ sáo rỗng."
+ },
+ {
+  "word": "nascent",
+  "ipa": "/ˈnæs.ənt/",
+  "pos": "adjective",
+  "definition": "just beginning to exist and showing signs of future potential",
+  "example": "The country's nascent tech industry is growing quickly.",
+  "vi": "mới hình thành, non trẻ",
+  "exampleVi": "Ngành công nghệ non trẻ của đất nước đang phát triển nhanh chóng."
+ },
+ {
+  "word": "gratitude",
+  "ipa": "/ˈɡrætɪtjuːd/",
+  "pos": "noun",
+  "definition": "the feeling of being thankful",
+  "example": "I want to express my gratitude for your help.",
+  "vi": "lòng biết ơn",
+  "exampleVi": "Tôi muốn bày tỏ lòng biết ơn vì sự giúp đỡ của bạn."
+ },
+ {
+  "word": "conceive",
+  "ipa": "/kənˈsiːv/",
+  "pos": "verb",
+  "definition": "to form an idea or plan in the mind",
+  "example": "The project was conceived as a way to help local artists.",
+  "vi": "hình thành, nghĩ ra",
+  "exampleVi": "Dự án được hình thành như một cách để hỗ trợ các nghệ sĩ địa phương."
+ },
+ {
+  "word": "verbose",
+  "ipa": "/vɜːˈbəʊs/",
+  "pos": "adjective",
+  "definition": "using more words than are needed",
+  "example": "The report was verbose and hard to follow.",
+  "vi": "dài dòng",
+  "exampleVi": "Bản báo cáo dài dòng và khó theo dõi."
+ },
+ {
+  "word": "synergy",
+  "ipa": "/ˈsɪn.ə.dʒi/",
+  "pos": "noun",
+  "definition": "combined effect that is greater than the sum of separate parts",
+  "example": "The merger created strong synergy between the two firms.",
+  "vi": "sự cộng hưởng, hiệp lực",
+  "exampleVi": "Việc sáp nhập đã tạo ra sự cộng hưởng mạnh mẽ giữa hai công ty."
+ },
+ {
+  "word": "negligible",
+  "ipa": "/ˈneɡ.lɪ.dʒə.bəl/",
+  "pos": "adjective",
+  "definition": "so small or unimportant that it is not worth considering",
+  "example": "The cost difference between the two options is negligible.",
+  "vi": "không đáng kể",
+  "exampleVi": "Chênh lệch chi phí giữa hai phương án là không đáng kể."
+ },
+ {
+  "word": "rigorous",
+  "ipa": "/ˈrɪɡ.ər.əs/",
+  "pos": "adjective",
+  "definition": "extremely thorough, careful, and strict",
+  "example": "All products undergo rigorous testing.",
+  "vi": "nghiêm ngặt, chặt chẽ",
+  "exampleVi": "Tất cả sản phẩm đều trải qua quá trình kiểm tra nghiêm ngặt."
+ },
+ {
+  "word": "concede",
+  "ipa": "/kənˈsiːd/",
+  "pos": "verb",
+  "definition": "to admit, often unwillingly, that something is true",
+  "example": "He conceded that he had been wrong.",
+  "vi": "thừa nhận, nhượng bộ",
+  "exampleVi": "Anh ấy thừa nhận rằng mình đã sai."
+ },
+ {
+  "word": "apathy",
+  "ipa": "/ˈæpəθi/",
+  "pos": "noun",
+  "definition": "lack of interest, enthusiasm, or concern",
+  "example": "Voter apathy led to a very low turnout.",
+  "vi": "sự thờ ơ, lãnh đạm",
+  "exampleVi": "Sự thờ ơ của cử tri dẫn đến tỷ lệ đi bầu rất thấp."
+ },
+ {
+  "word": "ominous",
+  "ipa": "/ˈɒm.ɪ.nəs/",
+  "pos": "adjective",
+  "definition": "giving the impression that something bad is going to happen",
+  "example": "Dark, ominous clouds gathered over the city.",
+  "vi": "đáng ngại, điềm xấu",
+  "exampleVi": "Những đám mây đen đáng ngại kéo đến bao phủ thành phố."
+ },
+ {
+  "word": "paradigm",
+  "ipa": "/ˈpær.ə.daɪm/",
+  "pos": "noun",
+  "definition": "a typical model or pattern of something; a framework of ideas",
+  "example": "The internet created a new paradigm for communication.",
+  "vi": "mô hình, hệ tư tưởng",
+  "exampleVi": "Internet đã tạo ra một mô hình giao tiếp mới."
+ },
+ {
+  "word": "bewildered",
+  "ipa": "/bɪˈwɪldəd/",
+  "pos": "adjective",
+  "definition": "very confused and unable to understand",
+  "example": "The tourists looked bewildered by the subway map.",
+  "vi": "bối rối, hoang mang",
+  "exampleVi": "Những du khách trông bối rối trước bản đồ tàu điện ngầm."
+ },
+ {
+  "word": "haphazard",
+  "ipa": "/hæpˈhæzəd/",
+  "pos": "adjective",
+  "definition": "lacking order or planning; random",
+  "example": "The files were stored in a haphazard way.",
+  "vi": "bừa bãi, tùy tiện",
+  "exampleVi": "Các tập hồ sơ được lưu trữ một cách bừa bãi."
+ },
+ {
+  "word": "concise",
+  "ipa": "/kənˈsaɪs/",
+  "pos": "adjective",
+  "definition": "giving information clearly in few words",
+  "example": "Please keep your answers concise.",
+  "vi": "ngắn gọn, súc tích",
+  "exampleVi": "Vui lòng trả lời ngắn gọn."
+ },
+ {
+  "word": "prevalent",
+  "ipa": "/ˈprev.əl.ənt/",
+  "pos": "adjective",
+  "definition": "widespread in a particular area or at a particular time",
+  "example": "Remote work has become prevalent since 2020.",
+  "vi": "phổ biến, thịnh hành",
+  "exampleVi": "Làm việc từ xa đã trở nên phổ biến kể từ năm 2020."
+ },
+ {
+  "word": "exhaustive",
+  "ipa": "/ɪɡˈzɔːstɪv/",
+  "pos": "adjective",
+  "definition": "including everything possible; very thorough",
+  "example": "The police conducted an exhaustive search.",
+  "vi": "toàn diện, thấu đáo",
+  "exampleVi": "Cảnh sát đã tiến hành một cuộc tìm kiếm toàn diện."
+ },
+ {
+  "word": "contingency",
+  "ipa": "/kənˈtɪndʒənsi/",
+  "pos": "noun",
+  "definition": "a possible future event that must be prepared for",
+  "example": "We need a contingency plan in case it rains.",
+  "vi": "tình huống bất ngờ, dự phòng",
+  "exampleVi": "Chúng ta cần một kế hoạch dự phòng phòng khi trời mưa."
+ },
+ {
+  "word": "invaluable",
+  "ipa": "/ɪnˈvæljuəbl/",
+  "pos": "adjective",
+  "definition": "extremely useful or valuable",
+  "example": "Your advice has been invaluable to me.",
+  "vi": "vô giá, cực kỳ hữu ích",
+  "exampleVi": "Lời khuyên của bạn vô cùng quý giá đối với tôi."
+ },
+ {
+  "word": "rapport",
+  "ipa": "/ræˈpɔːr/",
+  "pos": "noun",
+  "definition": "a close relationship of mutual understanding",
+  "example": "She quickly built a good rapport with her clients.",
+  "vi": "mối quan hệ hòa hợp",
+  "exampleVi": "Cô ấy nhanh chóng xây dựng được mối quan hệ hòa hợp với khách hàng."
+ },
+ {
+  "word": "skeptical",
+  "ipa": "/ˈskep.tɪ.kəl/",
+  "pos": "adjective",
+  "definition": "not easily convinced; having doubts",
+  "example": "Many experts remain skeptical about the claims.",
+  "vi": "hoài nghi",
+  "exampleVi": "Nhiều chuyên gia vẫn hoài nghi về những tuyên bố đó."
+ },
+ {
+  "word": "plausible",
+  "ipa": "/ˈplɔː.zə.bəl/",
+  "pos": "adjective",
+  "definition": "seeming reasonable or probable",
+  "example": "She gave a plausible explanation for her absence.",
+  "vi": "hợp lý, có vẻ đúng",
+  "exampleVi": "Cô ấy đưa ra một lời giải thích hợp lý cho việc vắng mặt."
+ },
+ {
+  "word": "compelling",
+  "ipa": "/kəmˈpelɪŋ/",
+  "pos": "adjective",
+  "definition": "very interesting or convincing",
+  "example": "She made a compelling case for change.",
+  "vi": "thuyết phục, hấp dẫn",
+  "exampleVi": "Cô ấy đã đưa ra những lập luận thuyết phục cho sự thay đổi."
+ },
+ {
+  "word": "eminent",
+  "ipa": "/ˈemɪnənt/",
+  "pos": "adjective",
+  "definition": "famous and respected within a particular field",
+  "example": "He is an eminent scientist in genetics.",
+  "vi": "lỗi lạc, nổi tiếng",
+  "exampleVi": "Ông ấy là một nhà khoa học lỗi lạc trong lĩnh vực di truyền học."
+ },
+ {
+  "word": "frugal",
+  "ipa": "/ˈfruːɡl/",
+  "pos": "adjective",
+  "definition": "careful to spend little money",
+  "example": "He lives a frugal life to save for retirement.",
+  "vi": "tiết kiệm, đạm bạc",
+  "exampleVi": "Anh ấy sống tiết kiệm để dành dụm cho tuổi nghỉ hưu."
+ },
+ {
+  "word": "vigilant",
+  "ipa": "/ˈvɪdʒ.ɪ.lənt/",
+  "pos": "adjective",
+  "definition": "keeping careful watch for possible danger or problems",
+  "example": "Stay vigilant against phishing emails.",
+  "vi": "cảnh giác",
+  "exampleVi": "Hãy luôn cảnh giác với các email lừa đảo."
+ },
+ {
+  "word": "elicit",
+  "ipa": "/iˈlɪsɪt/",
+  "pos": "verb",
+  "definition": "to draw out a response or information from someone",
+  "example": "The question failed to elicit a clear answer.",
+  "vi": "gợi ra, khơi gợi",
+  "exampleVi": "Câu hỏi không khơi gợi được một câu trả lời rõ ràng."
+ },
+ {
+  "word": "hostile",
+  "ipa": "/ˈhɒstaɪl/",
+  "pos": "adjective",
+  "definition": "unfriendly and aggressive; opposed",
+  "example": "The proposal met with a hostile reaction.",
+  "vi": "thù địch, chống đối",
+  "exampleVi": "Đề xuất vấp phải phản ứng thù địch."
+ },
+ {
+  "word": "forthcoming",
+  "ipa": "/ˌfɔːθˈkʌmɪŋ/",
+  "pos": "adjective",
+  "definition": "about to happen; willing to give information",
+  "example": "Details will be announced in a forthcoming report.",
+  "vi": "sắp tới; cởi mở",
+  "exampleVi": "Chi tiết sẽ được công bố trong một báo cáo sắp tới."
+ },
+ {
+  "word": "controversial",
+  "ipa": "/ˌkɒntrəˈvɜːʃl/",
+  "pos": "adjective",
+  "definition": "causing disagreement or public debate",
+  "example": "The new law is highly controversial.",
+  "vi": "gây tranh cãi",
+  "exampleVi": "Luật mới gây rất nhiều tranh cãi."
+ },
+ {
+  "word": "exacerbate",
+  "ipa": "/ɪɡˈzæsəbeɪt/",
+  "pos": "verb",
+  "definition": "to make a problem or bad situation worse",
+  "example": "The drought exacerbated food shortages.",
+  "vi": "làm trầm trọng thêm",
+  "exampleVi": "Hạn hán đã làm tình trạng thiếu lương thực trầm trọng thêm."
+ },
+ {
+  "word": "humble",
+  "ipa": "/ˈhʌmbl/",
+  "pos": "adjective",
+  "definition": "not proud; having a modest view of one's importance",
+  "example": "Despite his success, he remained humble.",
+  "vi": "khiêm tốn",
+  "exampleVi": "Dù thành công, anh ấy vẫn luôn khiêm tốn."
+ },
+ {
+  "word": "breakthrough",
+  "ipa": "/ˈbreɪkθruː/",
+  "pos": "noun",
+  "definition": "an important discovery or development",
+  "example": "Scientists have made a major breakthrough in cancer research.",
+  "vi": "bước đột phá",
+  "exampleVi": "Các nhà khoa học đã đạt được bước đột phá lớn trong nghiên cứu ung thư."
+ },
+ {
+  "word": "notion",
+  "ipa": "/ˈnəʊ.ʃən/",
+  "pos": "noun",
+  "definition": "a belief, idea, or understanding about something",
+  "example": "He rejected the notion that money brings happiness.",
+  "vi": "khái niệm, ý niệm",
+  "exampleVi": "Anh ấy bác bỏ ý niệm rằng tiền mang lại hạnh phúc."
+ },
+ {
+  "word": "adverse",
+  "ipa": "/ˈædvɜːs/",
+  "pos": "adjective",
+  "definition": "harmful or unfavourable",
+  "example": "The drug has no known adverse side effects.",
+  "vi": "bất lợi, có hại",
+  "exampleVi": "Loại thuốc này không có tác dụng phụ bất lợi nào được biết đến."
+ },
+ {
+  "word": "perseverance",
+  "ipa": "/ˌpɜː.sɪˈvɪə.rəns/",
+  "pos": "noun",
+  "definition": "continued effort to achieve something despite difficulties",
+  "example": "Her perseverance finally paid off when she passed the exam.",
+  "vi": "sự kiên trì, bền bỉ",
+  "exampleVi": "Sự kiên trì của cô ấy cuối cùng đã được đền đáp khi cô thi đỗ."
+ },
+ {
+  "word": "nominal",
+  "ipa": "/ˈnɒm.ɪ.nəl/",
+  "pos": "adjective",
+  "definition": "very small in amount; existing in name only",
+  "example": "Members pay only a nominal fee to join.",
+  "vi": "danh nghĩa, tượng trưng",
+  "exampleVi": "Thành viên chỉ phải trả một khoản phí tượng trưng để tham gia."
+ },
+ {
+  "word": "abstract",
+  "ipa": "/ˈæbstrækt/",
+  "pos": "adjective",
+  "definition": "existing as an idea rather than a physical or concrete thing",
+  "example": "Justice is an abstract concept that is hard to define.",
+  "vi": "trừu tượng",
+  "exampleVi": "Công lý là một khái niệm trừu tượng, khó định nghĩa."
+ },
+ {
+  "word": "comply",
+  "ipa": "/kəmˈplaɪ/",
+  "pos": "verb",
+  "definition": "to act according to a rule, order, or request",
+  "example": "All products must comply with safety standards.",
+  "vi": "tuân thủ, chấp hành",
+  "exampleVi": "Tất cả sản phẩm phải tuân thủ các tiêu chuẩn an toàn."
+ },
+ {
+  "word": "indifferent",
+  "ipa": "/ɪnˈdɪfrənt/",
+  "pos": "adjective",
+  "definition": "having no interest or concern",
+  "example": "He seemed indifferent to the outcome.",
+  "vi": "thờ ơ, dửng dưng",
+  "exampleVi": "Anh ấy có vẻ thờ ơ với kết quả."
+ },
+ {
+  "word": "daunting",
+  "ipa": "/ˈdɔːntɪŋ/",
+  "pos": "adjective",
+  "definition": "seeming difficult or intimidating",
+  "example": "Starting a new job can be a daunting experience.",
+  "vi": "đáng sợ, gây nản lòng",
+  "exampleVi": "Bắt đầu một công việc mới có thể là một trải nghiệm gây nản lòng."
+ },
+ {
+  "word": "spearhead",
+  "ipa": "/ˈspɪə.hed/",
+  "pos": "verb",
+  "definition": "to lead an attack, movement, or initiative",
+  "example": "She spearheaded the company's digital transformation.",
+  "vi": "dẫn đầu, đi tiên phong",
+  "exampleVi": "Cô ấy đã dẫn đầu công cuộc chuyển đổi số của công ty."
+ },
+ {
+  "word": "jargon",
+  "ipa": "/ˈdʒɑːɡən/",
+  "pos": "noun",
+  "definition": "special words used by a particular group that are hard for others to understand",
+  "example": "The report is full of legal jargon.",
+  "vi": "thuật ngữ chuyên ngành, biệt ngữ",
+  "exampleVi": "Bản báo cáo đầy rẫy thuật ngữ pháp lý."
+ },
+ {
+  "word": "accessible",
+  "ipa": "/əkˈsesəbl/",
+  "pos": "adjective",
+  "definition": "easy to reach, enter, use, or understand",
+  "example": "The museum is fully accessible to wheelchair users.",
+  "vi": "dễ tiếp cận, dễ sử dụng",
+  "exampleVi": "Bảo tàng hoàn toàn dễ tiếp cận đối với người sử dụng xe lăn."
+ },
+ {
+  "word": "embrace",
+  "ipa": "/ɪmˈbreɪs/",
+  "pos": "verb",
+  "definition": "to accept an idea or change willingly and enthusiastically",
+  "example": "The company embraced new technology early.",
+  "vi": "đón nhận, chấp nhận",
+  "exampleVi": "Công ty đã sớm đón nhận công nghệ mới."
+ },
+ {
+  "word": "entail",
+  "ipa": "/ɪnˈteɪl/",
+  "pos": "verb",
+  "definition": "to involve something as a necessary part or result",
+  "example": "The job entails a lot of travel.",
+  "vi": "đòi hỏi, kéo theo",
+  "exampleVi": "Công việc này đòi hỏi phải đi công tác nhiều."
+ },
+ {
+  "word": "capable",
+  "ipa": "/ˈkeɪpəbl/",
+  "pos": "adjective",
+  "definition": "having the ability or skill to do something",
+  "example": "She is a highly capable manager.",
+  "vi": "có năng lực, có khả năng",
+  "exampleVi": "Cô ấy là một nhà quản lý rất có năng lực."
+ },
+ {
+  "word": "precarious",
+  "ipa": "/prɪˈkeə.ri.əs/",
+  "pos": "adjective",
+  "definition": "not securely held or in position; dangerously uncertain",
+  "example": "The company is in a precarious financial position.",
+  "vi": "bấp bênh, mong manh",
+  "exampleVi": "Công ty đang ở trong tình trạng tài chính bấp bênh."
+ },
+ {
+  "word": "aesthetic",
+  "ipa": "/iːsˈθetɪk/",
+  "pos": "adjective",
+  "definition": "relating to beauty or the appreciation of beauty",
+  "example": "The building has great aesthetic appeal.",
+  "vi": "thẩm mỹ",
+  "exampleVi": "Tòa nhà có sức hấp dẫn thẩm mỹ tuyệt vời."
+ },
+ {
+  "word": "inadvertent",
+  "ipa": "/ˌɪnədˈvɜːtənt/",
+  "pos": "adjective",
+  "definition": "not intentional; happening by accident",
+  "example": "The error was inadvertent.",
+  "vi": "vô ý, sơ suất",
+  "exampleVi": "Lỗi đó là do vô ý."
+ },
+ {
+  "word": "stagnant",
+  "ipa": "/ˈstæɡ.nənt/",
+  "pos": "adjective",
+  "definition": "not flowing or growing; showing no activity or development",
+  "example": "Wages have remained stagnant for years.",
+  "vi": "trì trệ, đình trệ",
+  "exampleVi": "Tiền lương đã trì trệ suốt nhiều năm."
+ },
+ {
+  "word": "advocate",
+  "ipa": "/ˈædvəkeɪt/",
+  "pos": "verb",
+  "definition": "to publicly support or recommend a cause or policy",
+  "example": "The group advocates stricter environmental laws.",
+  "vi": "ủng hộ, chủ trương",
+  "exampleVi": "Nhóm này ủng hộ các luật môi trường nghiêm ngặt hơn."
+ },
+ {
+  "word": "holistic",
+  "ipa": "/həʊˈlɪstɪk/",
+  "pos": "adjective",
+  "definition": "considering the whole of something rather than just its parts",
+  "example": "The school takes a holistic approach to education.",
+  "vi": "toàn diện, tổng thể",
+  "exampleVi": "Trường áp dụng phương pháp giáo dục toàn diện."
+ },
+ {
+  "word": "legitimate",
+  "ipa": "/lɪˈdʒɪtɪmət/",
+  "pos": "adjective",
+  "definition": "allowed by law; reasonable and acceptable",
+  "example": "She had a legitimate reason for being absent.",
+  "vi": "hợp pháp, chính đáng",
+  "exampleVi": "Cô ấy có lý do chính đáng để vắng mặt."
+ },
+ {
+  "word": "cautious",
+  "ipa": "/ˈkɔːʃəs/",
+  "pos": "adjective",
+  "definition": "careful to avoid risks or danger",
+  "example": "Investors remain cautious about the market.",
+  "vi": "thận trọng",
+  "exampleVi": "Các nhà đầu tư vẫn thận trọng với thị trường."
+ },
+ {
+  "word": "substantiate",
+  "ipa": "/səbˈstæn.ʃi.eɪt/",
+  "pos": "verb",
+  "definition": "to provide evidence to support or prove a claim",
+  "example": "He could not substantiate his allegations.",
+  "vi": "chứng minh, xác minh",
+  "exampleVi": "Anh ta không thể chứng minh được những cáo buộc của mình."
+ },
+ {
+  "word": "warrant",
+  "ipa": "/ˈwɒr.ənt/",
+  "pos": "verb",
+  "definition": "to justify or make something necessary",
+  "example": "The situation does not warrant such drastic measures.",
+  "vi": "biện minh, đáng để",
+  "exampleVi": "Tình hình không đáng để áp dụng những biện pháp quyết liệt như vậy."
+ },
+ {
+  "word": "meticulous",
+  "ipa": "/məˈtɪk.jə.ləs/",
+  "pos": "adjective",
+  "definition": "showing great attention to detail; very careful and precise",
+  "example": "She kept meticulous records of every expense.",
+  "vi": "tỉ mỉ, kỹ lưỡng",
+  "exampleVi": "Cô ấy ghi chép tỉ mỉ mọi khoản chi tiêu."
+ },
+ {
+  "word": "flourish",
+  "ipa": "/ˈflʌrɪʃ/",
+  "pos": "verb",
+  "definition": "to grow or develop successfully",
+  "example": "Small businesses flourished in the area.",
+  "vi": "phát triển mạnh, thịnh vượng",
+  "exampleVi": "Các doanh nghiệp nhỏ phát triển mạnh trong khu vực."
+ },
+ {
+  "word": "facilitate",
+  "ipa": "/fəˈsɪlɪteɪt/",
+  "pos": "verb",
+  "definition": "to make an action or process easier",
+  "example": "The new software will facilitate communication.",
+  "vi": "tạo điều kiện thuận lợi",
+  "exampleVi": "Phần mềm mới sẽ tạo điều kiện thuận lợi cho việc giao tiếp."
+ },
+ {
+  "word": "eccentric",
+  "ipa": "/ɪkˈsentrɪk/",
+  "pos": "adjective",
+  "definition": "unusual and slightly strange in behaviour",
+  "example": "My eccentric uncle collects antique clocks.",
+  "vi": "lập dị, kỳ quặc",
+  "exampleVi": "Ông chú lập dị của tôi sưu tầm đồng hồ cổ."
+ },
+ {
+  "word": "maverick",
+  "ipa": "/ˈmæv.ər.ɪk/",
+  "pos": "noun",
+  "definition": "an independent person who does not follow usual rules or customs",
+  "example": "She is known as a maverick in the tech industry.",
+  "vi": "người độc lập, người khác người",
+  "exampleVi": "Cô ấy được biết đến là một người khác người trong ngành công nghệ."
+ },
+ {
+  "word": "obsolete",
+  "ipa": "/ˈɒb.səl.iːt/",
+  "pos": "adjective",
+  "definition": "no longer produced or used; out of date",
+  "example": "Fax machines have become largely obsolete.",
+  "vi": "lỗi thời, lạc hậu",
+  "exampleVi": "Máy fax phần lớn đã trở nên lỗi thời."
+ },
+ {
+  "word": "outspoken",
+  "ipa": "/ˌaʊtˈspəʊ.kən/",
+  "pos": "adjective",
+  "definition": "frank and direct in stating one's opinions",
+  "example": "She is an outspoken advocate for climate action.",
+  "vi": "thẳng thắn, bộc trực",
+  "exampleVi": "Cô ấy là người thẳng thắn ủng hộ hành động vì khí hậu."
+ },
+ {
+  "word": "competent",
+  "ipa": "/ˈkɒmpɪtənt/",
+  "pos": "adjective",
+  "definition": "having the necessary skill or knowledge to do something well",
+  "example": "He is a competent and reliable engineer.",
+  "vi": "có năng lực, thành thạo",
+  "exampleVi": "Anh ấy là một kỹ sư có năng lực và đáng tin cậy."
+ },
+ {
+  "word": "attain",
+  "ipa": "/əˈteɪn/",
+  "pos": "verb",
+  "definition": "to succeed in achieving something after effort",
+  "example": "He attained the rank of colonel.",
+  "vi": "đạt được",
+  "exampleVi": "Ông ấy đã đạt được cấp bậc đại tá."
+ },
+ {
+  "word": "relentless",
+  "ipa": "/rɪˈlent.ləs/",
+  "pos": "adjective",
+  "definition": "continuing without stopping or weakening",
+  "example": "Her relentless pursuit of excellence inspired the team.",
+  "vi": "không ngừng, không nao núng",
+  "exampleVi": "Sự theo đuổi không ngừng nghỉ sự xuất sắc của cô ấy đã truyền cảm hứng cho cả đội."
+ },
+ {
+  "word": "liable",
+  "ipa": "/ˈlaɪəbl/",
+  "pos": "adjective",
+  "definition": "legally responsible; likely to do or experience something",
+  "example": "The company is liable for any damage caused.",
+  "vi": "chịu trách nhiệm pháp lý; có khả năng",
+  "exampleVi": "Công ty phải chịu trách nhiệm pháp lý đối với mọi thiệt hại gây ra."
+ },
+ {
+  "word": "complement",
+  "ipa": "/ˈkɒmplɪment/",
+  "pos": "verb",
+  "definition": "to add to something in a way that improves it",
+  "example": "The wine complements the meal perfectly.",
+  "vi": "bổ sung, làm hoàn thiện",
+  "exampleVi": "Rượu vang bổ sung hoàn hảo cho bữa ăn."
+ },
+ {
+  "word": "banal",
+  "ipa": "/bəˈnɑːl/",
+  "pos": "adjective",
+  "definition": "boring and ordinary; lacking originality",
+  "example": "The film's dialogue was banal and predictable.",
+  "vi": "tầm thường, nhàm chán",
+  "exampleVi": "Lời thoại của bộ phim tầm thường và dễ đoán."
+ },
+ {
+  "word": "oversight",
+  "ipa": "/ˈəʊ.və.saɪt/",
+  "pos": "noun",
+  "definition": "an unintentional failure to notice something; also supervision",
+  "example": "The error was due to a simple oversight.",
+  "vi": "sự sơ suất; sự giám sát",
+  "exampleVi": "Lỗi đó là do một sơ suất đơn giản."
+ },
+ {
+  "word": "innovative",
+  "ipa": "/ˈɪnəveɪtɪv/",
+  "pos": "adjective",
+  "definition": "introducing new ideas or methods",
+  "example": "The company is known for its innovative products.",
+  "vi": "đổi mới, sáng tạo",
+  "exampleVi": "Công ty nổi tiếng với những sản phẩm sáng tạo."
+ },
+ {
+  "word": "predicament",
+  "ipa": "/prɪˈdɪk.ə.mənt/",
+  "pos": "noun",
+  "definition": "a difficult, unpleasant, or embarrassing situation",
+  "example": "He found himself in a financial predicament.",
+  "vi": "tình thế khó khăn",
+  "exampleVi": "Anh ấy rơi vào tình thế khó khăn về tài chính."
+ },
+ {
+  "word": "amend",
+  "ipa": "/əˈmend/",
+  "pos": "verb",
+  "definition": "to make changes to a text, law, or statement to improve it",
+  "example": "Parliament voted to amend the constitution.",
+  "vi": "sửa đổi, bổ sung",
+  "exampleVi": "Quốc hội đã bỏ phiếu sửa đổi hiến pháp."
+ },
+ {
+  "word": "poignant",
+  "ipa": "/ˈpɔɪ.njənt/",
+  "pos": "adjective",
+  "definition": "evoking a keen sense of sadness or regret",
+  "example": "The film ends with a poignant farewell scene.",
+  "vi": "cảm động, xót xa",
+  "exampleVi": "Bộ phim kết thúc bằng một cảnh chia tay đầy xót xa."
+ },
+ {
+  "word": "heed",
+  "ipa": "/hiːd/",
+  "pos": "verb",
+  "definition": "to pay careful attention to advice or a warning",
+  "example": "She failed to heed her doctor's advice.",
+  "vi": "lưu ý, nghe theo",
+  "exampleVi": "Cô ấy đã không nghe theo lời khuyên của bác sĩ."
+ },
+ {
+  "word": "yearn",
+  "ipa": "/jɜːn/",
+  "pos": "verb",
+  "definition": "to have an intense feeling of longing for something",
+  "example": "After years abroad, he yearned to return home.",
+  "vi": "khao khát, mong mỏi",
+  "exampleVi": "Sau nhiều năm sống ở nước ngoài, anh ấy khao khát được trở về quê nhà."
+ },
+ {
+  "word": "deteriorate",
+  "ipa": "/dɪˈtɪəriəreɪt/",
+  "pos": "verb",
+  "definition": "to become progressively worse",
+  "example": "His health deteriorated rapidly.",
+  "vi": "xấu đi, suy giảm",
+  "exampleVi": "Sức khỏe của ông ấy suy giảm nhanh chóng."
+ },
+ {
+  "word": "sanction",
+  "ipa": "/ˈsæŋk.ʃən/",
+  "pos": "noun",
+  "definition": "an official penalty or permission for an action",
+  "example": "The country faces economic sanctions.",
+  "vi": "lệnh trừng phạt; sự phê chuẩn",
+  "exampleVi": "Đất nước này đang phải đối mặt với các lệnh trừng phạt kinh tế."
+ },
+ {
+  "word": "adamant",
+  "ipa": "/ˈædəmənt/",
+  "pos": "adjective",
+  "definition": "refusing to change one's opinion or decision",
+  "example": "She was adamant that she would not resign.",
+  "vi": "kiên quyết, cương quyết",
+  "exampleVi": "Cô ấy kiên quyết không từ chức."
+ },
+ {
+  "word": "burden",
+  "ipa": "/ˈbɜːdn/",
+  "pos": "noun",
+  "definition": "a heavy responsibility or duty that causes worry",
+  "example": "He didn't want to be a burden to his family.",
+  "vi": "gánh nặng",
+  "exampleVi": "Anh ấy không muốn trở thành gánh nặng cho gia đình."
+ },
+ {
+  "word": "compatible",
+  "ipa": "/kəmˈpætəbl/",
+  "pos": "adjective",
+  "definition": "able to exist or work together without problems",
+  "example": "This software is compatible with most devices.",
+  "vi": "tương thích, hợp nhau",
+  "exampleVi": "Phần mềm này tương thích với hầu hết các thiết bị."
+ },
+ {
+  "word": "lucid",
+  "ipa": "/ˈluːsɪd/",
+  "pos": "adjective",
+  "definition": "expressed clearly and easy to understand",
+  "example": "She gave a lucid explanation of the theory.",
+  "vi": "rõ ràng, minh bạch",
+  "exampleVi": "Cô ấy đã giải thích lý thuyết một cách rõ ràng."
+ },
+ {
+  "word": "mitigate",
+  "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+  "pos": "verb",
+  "definition": "to make something bad less severe, serious, or painful",
+  "example": "The company took steps to mitigate the risks of the merger.",
+  "vi": "giảm nhẹ, làm dịu bớt",
+  "exampleVi": "Công ty đã thực hiện các bước để giảm nhẹ rủi ro của việc sáp nhập."
+ },
+ {
+  "word": "pervasive",
+  "ipa": "/pəˈveɪ.sɪv/",
+  "pos": "adjective",
+  "definition": "spreading widely throughout an area or group",
+  "example": "Social media has a pervasive influence on young people.",
+  "vi": "lan tràn, phổ biến khắp nơi",
+  "exampleVi": "Mạng xã hội có ảnh hưởng lan tràn đến giới trẻ."
+ },
+ {
+  "word": "comprehensive",
+  "ipa": "/ˌkɒmprɪˈhensɪv/",
+  "pos": "adjective",
+  "definition": "including all or nearly all aspects of something",
+  "example": "The book offers a comprehensive guide to the city.",
+  "vi": "toàn diện, bao quát",
+  "exampleVi": "Cuốn sách cung cấp một cẩm nang toàn diện về thành phố."
+ },
+ {
+  "word": "hypocrisy",
+  "ipa": "/hɪˈpɒkrəsi/",
+  "pos": "noun",
+  "definition": "claiming to have standards or beliefs one does not follow",
+  "example": "The politician was accused of hypocrisy.",
+  "vi": "sự đạo đức giả",
+  "exampleVi": "Chính trị gia đó bị cáo buộc là đạo đức giả."
+ },
+ {
+  "word": "trepidation",
+  "ipa": "/ˌtrep.ɪˈdeɪ.ʃən/",
+  "pos": "noun",
+  "definition": "a feeling of fear or anxiety about something that may happen",
+  "example": "She approached the interview with some trepidation.",
+  "vi": "sự lo sợ, run sợ",
+  "exampleVi": "Cô ấy bước vào buổi phỏng vấn với đôi chút lo sợ."
+ },
+ {
+  "word": "myriad",
+  "ipa": "/ˈmɪr.i.əd/",
+  "pos": "noun",
+  "definition": "a very large number of something",
+  "example": "The city offers a myriad of dining options.",
+  "vi": "vô số",
+  "exampleVi": "Thành phố có vô số lựa chọn ăn uống."
+ },
+ {
+  "word": "adjacent",
+  "ipa": "/əˈdʒeɪsnt/",
+  "pos": "adjective",
+  "definition": "next to or very near something",
+  "example": "The car park is adjacent to the main building.",
+  "vi": "liền kề, kế bên",
+  "exampleVi": "Bãi đỗ xe nằm liền kề tòa nhà chính."
+ },
+ {
+  "word": "conscientious",
+  "ipa": "/ˌkɒnʃiˈenʃəs/",
+  "pos": "adjective",
+  "definition": "careful to do one's work well and thoroughly",
+  "example": "She is a conscientious student who never misses a deadline.",
+  "vi": "tận tâm, chu đáo",
+  "exampleVi": "Cô ấy là một học sinh tận tâm, không bao giờ trễ hạn."
+ },
+ {
+  "word": "insight",
+  "ipa": "/ˈɪnsaɪt/",
+  "pos": "noun",
+  "definition": "a deep and accurate understanding of something",
+  "example": "The book offers fascinating insights into Chinese culture.",
+  "vi": "sự thấu hiểu, cái nhìn sâu sắc",
+  "exampleVi": "Cuốn sách mang đến những hiểu biết sâu sắc thú vị về văn hóa Trung Quốc."
+ },
+ {
+  "word": "vocation",
+  "ipa": "/vəʊˈkeɪ.ʃən/",
+  "pos": "noun",
+  "definition": "a strong feeling of suitability for a particular career",
+  "example": "Teaching is more than a job; it is her vocation.",
+  "vi": "thiên hướng, nghề nghiệp",
+  "exampleVi": "Dạy học không chỉ là một công việc; đó là thiên hướng của cô ấy."
+ },
+ {
+  "word": "enthusiastic",
+  "ipa": "/ɪnˌθjuːziˈæstɪk/",
+  "pos": "adjective",
+  "definition": "showing intense enjoyment, interest, or approval",
+  "example": "The audience gave an enthusiastic response.",
+  "vi": "nhiệt tình, hăng hái",
+  "exampleVi": "Khán giả đã hưởng ứng nhiệt tình."
+ },
+ {
+  "word": "trajectory",
+  "ipa": "/trəˈdʒek.tər.i/",
+  "pos": "noun",
+  "definition": "the path or course of development of something",
+  "example": "Her career has followed an upward trajectory.",
+  "vi": "quỹ đạo, chiều hướng",
+  "exampleVi": "Sự nghiệp của cô ấy đi theo chiều hướng đi lên."
+ },
+ {
+  "word": "inquisitive",
+  "ipa": "/ɪnˈkwɪzətɪv/",
+  "pos": "adjective",
+  "definition": "eager to learn or ask questions; curious",
+  "example": "Children are naturally inquisitive.",
+  "vi": "ham học hỏi, tò mò",
+  "exampleVi": "Trẻ em vốn tò mò, ham học hỏi."
+ },
+ {
+  "word": "justify",
+  "ipa": "/ˈdʒʌstɪfaɪ/",
+  "pos": "verb",
+  "definition": "to show or prove that something is right or reasonable",
+  "example": "How can you justify spending so much money?",
+  "vi": "biện minh, chứng minh là đúng",
+  "exampleVi": "Làm sao bạn có thể biện minh cho việc tiêu nhiều tiền như vậy?"
+ },
+ {
+  "word": "reciprocate",
+  "ipa": "/rɪˈsɪp.rə.keɪt/",
+  "pos": "verb",
+  "definition": "to respond to an action or feeling with a similar one",
+  "example": "He helped me, so I was happy to reciprocate.",
+  "vi": "đáp lại, đền đáp",
+  "exampleVi": "Anh ấy đã giúp tôi, nên tôi rất vui được đáp lại."
+ },
+ {
+  "word": "optimal",
+  "ipa": "/ˈɒp.tɪ.məl/",
+  "pos": "adjective",
+  "definition": "best or most effective possible",
+  "example": "We need to find the optimal balance between cost and quality.",
+  "vi": "tối ưu",
+  "exampleVi": "Chúng ta cần tìm sự cân bằng tối ưu giữa chi phí và chất lượng."
+ },
+ {
+  "word": "quandary",
+  "ipa": "/ˈkwɒn.dər.i/",
+  "pos": "noun",
+  "definition": "a state of uncertainty over what to do in a difficult situation",
+  "example": "I'm in a quandary about which job offer to accept.",
+  "vi": "tình thế khó xử",
+  "exampleVi": "Tôi đang ở thế khó xử không biết nên nhận lời mời làm việc nào."
+ },
+ {
+  "word": "deplete",
+  "ipa": "/dɪˈpliːt/",
+  "pos": "verb",
+  "definition": "to reduce the amount of something until little remains",
+  "example": "Overfishing has depleted fish stocks.",
+  "vi": "làm cạn kiệt",
+  "exampleVi": "Việc đánh bắt quá mức đã làm cạn kiệt nguồn cá."
+ },
+ {
+  "word": "cumbersome",
+  "ipa": "/ˈkʌmbəsəm/",
+  "pos": "adjective",
+  "definition": "large, heavy, or slow and complicated",
+  "example": "The approval process is cumbersome and outdated.",
+  "vi": "cồng kềnh, rườm rà",
+  "exampleVi": "Quy trình phê duyệt rườm rà và lỗi thời."
+ },
+ {
+  "word": "accountable",
+  "ipa": "/əˈkaʊntəbl/",
+  "pos": "adjective",
+  "definition": "responsible for one's actions and expected to explain them",
+  "example": "Managers are accountable for their team's performance.",
+  "vi": "chịu trách nhiệm",
+  "exampleVi": "Các nhà quản lý phải chịu trách nhiệm về hiệu suất của nhóm mình."
+ },
+ {
+  "word": "threshold",
+  "ipa": "/ˈθreʃ.həʊld/",
+  "pos": "noun",
+  "definition": "the level at which something starts to happen or change",
+  "example": "Income above this threshold is taxed at a higher rate.",
+  "vi": "ngưỡng",
+  "exampleVi": "Thu nhập vượt ngưỡng này sẽ bị đánh thuế ở mức cao hơn."
+ },
+ {
+  "word": "fundamental",
+  "ipa": "/ˌfʌndəˈmentl/",
+  "pos": "adjective",
+  "definition": "forming the necessary base or core; essential",
+  "example": "There are fundamental differences between the two plans.",
+  "vi": "cơ bản, nền tảng",
+  "exampleVi": "Có những khác biệt cơ bản giữa hai kế hoạch."
+ },
+ {
+  "word": "overhaul",
+  "ipa": "/ˌəʊ.vəˈhɔːl/",
+  "pos": "verb",
+  "definition": "to examine and improve something thoroughly",
+  "example": "The government plans to overhaul the tax system.",
+  "vi": "cải tổ, đại tu",
+  "exampleVi": "Chính phủ có kế hoạch cải tổ hệ thống thuế."
+ },
+ {
+  "word": "convey",
+  "ipa": "/kənˈveɪ/",
+  "pos": "verb",
+  "definition": "to communicate or express an idea or feeling",
+  "example": "Words cannot convey how grateful I am.",
+  "vi": "truyền đạt, diễn tả",
+  "exampleVi": "Lời nói không thể diễn tả hết lòng biết ơn của tôi."
+ },
+ {
+  "word": "hierarchy",
+  "ipa": "/ˈhaɪərɑːki/",
+  "pos": "noun",
+  "definition": "a system in which people or things are ranked by importance",
+  "example": "She quickly rose through the company hierarchy.",
+  "vi": "hệ thống cấp bậc, thứ bậc",
+  "exampleVi": "Cô ấy nhanh chóng thăng tiến trong hệ thống cấp bậc của công ty."
+ },
+ {
+  "word": "vindicate",
+  "ipa": "/ˈvɪn.dɪ.keɪt/",
+  "pos": "verb",
+  "definition": "to show that someone or something is right or justified",
+  "example": "The results vindicated her controversial decision.",
+  "vi": "chứng minh là đúng, minh oan",
+  "exampleVi": "Kết quả đã chứng minh quyết định gây tranh cãi của cô ấy là đúng."
+ },
+ {
+  "word": "compensate",
+  "ipa": "/ˈkɒmpenseɪt/",
+  "pos": "verb",
+  "definition": "to pay or make up for loss, damage, or effort",
+  "example": "The company will compensate customers for the delay.",
+  "vi": "bồi thường, bù đắp",
+  "exampleVi": "Công ty sẽ bồi thường cho khách hàng vì sự chậm trễ."
+ },
+ {
+  "word": "gauge",
+  "ipa": "/ɡeɪdʒ/",
+  "pos": "verb",
+  "definition": "to estimate or judge something",
+  "example": "It's hard to gauge how people will react.",
+  "vi": "đánh giá, ước lượng",
+  "exampleVi": "Thật khó để ước lượng mọi người sẽ phản ứng thế nào."
+ },
+ {
+  "word": "eligible",
+  "ipa": "/ˈelɪdʒəbl/",
+  "pos": "adjective",
+  "definition": "meeting the requirements to do or receive something",
+  "example": "You are eligible to apply for the scholarship.",
+  "vi": "đủ điều kiện, đủ tư cách",
+  "exampleVi": "Bạn đủ điều kiện nộp đơn xin học bổng."
+ },
+ {
+  "word": "ponder",
+  "ipa": "/ˈpɒn.dər/",
+  "pos": "verb",
+  "definition": "to think about something carefully before reaching a conclusion",
+  "example": "She pondered the offer for several days.",
+  "vi": "suy ngẫm, cân nhắc",
+  "exampleVi": "Cô ấy đã suy ngẫm về lời đề nghị suốt mấy ngày."
+ },
+ {
+  "word": "utilize",
+  "ipa": "/ˈjuː.tɪ.laɪz/",
+  "pos": "verb",
+  "definition": "to make practical and effective use of something",
+  "example": "We must utilize our resources more efficiently.",
+  "vi": "tận dụng, sử dụng",
+  "exampleVi": "Chúng ta phải tận dụng nguồn lực hiệu quả hơn."
+ },
+ {
+  "word": "milestone",
+  "ipa": "/ˈmaɪl.stəʊn/",
+  "pos": "noun",
+  "definition": "an important event or stage in development or progress",
+  "example": "Launching the product was a major milestone for the startup.",
+  "vi": "cột mốc quan trọng",
+  "exampleVi": "Ra mắt sản phẩm là một cột mốc quan trọng đối với công ty khởi nghiệp."
+ },
+ {
+  "word": "surpass",
+  "ipa": "/səˈpɑːs/",
+  "pos": "verb",
+  "definition": "to exceed or be better than",
+  "example": "Sales this quarter surpassed all expectations.",
+  "vi": "vượt qua, vượt trội",
+  "exampleVi": "Doanh số quý này đã vượt qua mọi kỳ vọng."
+ },
+ {
+  "word": "quaint",
+  "ipa": "/kweɪnt/",
+  "pos": "adjective",
+  "definition": "attractively unusual or old-fashioned",
+  "example": "We stayed in a quaint little village by the sea.",
+  "vi": "cổ kính, lạ mà duyên",
+  "exampleVi": "Chúng tôi ở trong một ngôi làng nhỏ cổ kính bên bờ biển."
+ },
+ {
+  "word": "meritocracy",
+  "ipa": "/ˌmer.ɪˈtɒk.rə.si/",
+  "pos": "noun",
+  "definition": "a system in which people advance based on ability and achievement",
+  "example": "The firm prides itself on being a true meritocracy.",
+  "vi": "chế độ trọng dụng nhân tài",
+  "exampleVi": "Công ty tự hào là nơi thực sự trọng dụng nhân tài."
+ },
+ {
+  "word": "steadfast",
+  "ipa": "/ˈsted.fɑːst/",
+  "pos": "adjective",
+  "definition": "firm and unwavering in purpose or loyalty",
+  "example": "She remained steadfast in her commitment to the cause.",
+  "vi": "kiên định, trung thành",
+  "exampleVi": "Cô ấy vẫn kiên định với cam kết vì sự nghiệp chung."
+ },
+ {
+  "word": "hinder",
+  "ipa": "/ˈhɪndə(r)/",
+  "pos": "verb",
+  "definition": "to make it difficult for something to happen",
+  "example": "Lack of funding hindered the research.",
+  "vi": "cản trở, gây trở ngại",
+  "exampleVi": "Việc thiếu kinh phí đã cản trở nghiên cứu."
+ },
+ {
+  "word": "lenient",
+  "ipa": "/ˈliːniənt/",
+  "pos": "adjective",
+  "definition": "not as strict or severe as expected",
+  "example": "The judge was criticised for being too lenient.",
+  "vi": "khoan dung, dễ dãi",
+  "exampleVi": "Thẩm phán bị chỉ trích vì quá khoan dung."
+ },
+ {
+  "word": "intuitive",
+  "ipa": "/ɪnˈtjuːɪtɪv/",
+  "pos": "adjective",
+  "definition": "easy to use or understand without instruction; based on feeling",
+  "example": "The app has an intuitive interface.",
+  "vi": "trực quan, theo trực giác",
+  "exampleVi": "Ứng dụng có giao diện trực quan."
+ },
+ {
+  "word": "consistent",
+  "ipa": "/kənˈsɪstənt/",
+  "pos": "adjective",
+  "definition": "always behaving or happening in the same way",
+  "example": "Her work has been consistent in quality.",
+  "vi": "nhất quán, kiên định",
+  "exampleVi": "Công việc của cô ấy luôn có chất lượng nhất quán."
+ },
+ {
+  "word": "connotation",
+  "ipa": "/ˌkɒnəˈteɪʃn/",
+  "pos": "noun",
+  "definition": "a feeling or idea suggested by a word beyond its literal meaning",
+  "example": "The word 'cheap' has negative connotations.",
+  "vi": "hàm ý, nghĩa bóng",
+  "exampleVi": "Từ 'cheap' mang hàm ý tiêu cực."
+ },
+ {
+  "word": "wield",
+  "ipa": "/wiːld/",
+  "pos": "verb",
+  "definition": "to have and use power or influence",
+  "example": "Large tech firms wield enormous influence.",
+  "vi": "nắm giữ, sử dụng (quyền lực)",
+  "exampleVi": "Các công ty công nghệ lớn nắm giữ tầm ảnh hưởng to lớn."
+ },
+ {
+  "word": "yardstick",
+  "ipa": "/ˈjɑːd.stɪk/",
+  "pos": "noun",
+  "definition": "a standard used to judge or measure something",
+  "example": "Profit is not the only yardstick of success.",
+  "vi": "thước đo, tiêu chuẩn",
+  "exampleVi": "Lợi nhuận không phải là thước đo duy nhất của thành công."
+ },
+ {
+  "word": "tumultuous",
+  "ipa": "/tʃuːˈmʌl.tʃu.əs/",
+  "pos": "adjective",
+  "definition": "full of confusion, disorder, or excitement",
+  "example": "The country went through a tumultuous period of change.",
+  "vi": "hỗn loạn, náo động",
+  "exampleVi": "Đất nước đã trải qua một giai đoạn thay đổi đầy hỗn loạn."
+ },
+ {
+  "word": "acknowledge",
+  "ipa": "/əkˈnɒlɪdʒ/",
+  "pos": "verb",
+  "definition": "to accept or admit that something exists or is true",
+  "example": "He acknowledged that he had made a mistake.",
+  "vi": "thừa nhận, công nhận",
+  "exampleVi": "Anh ấy thừa nhận rằng mình đã mắc sai lầm."
+ },
+ {
+  "word": "disparity",
+  "ipa": "/dɪˈspærəti/",
+  "pos": "noun",
+  "definition": "a large difference, often seen as unfair",
+  "example": "The disparity between rich and poor is growing.",
+  "vi": "sự chênh lệch, bất bình đẳng",
+  "exampleVi": "Sự chênh lệch giàu nghèo ngày càng gia tăng."
+ },
+ {
+  "word": "infer",
+  "ipa": "/ɪnˈfɜː(r)/",
+  "pos": "verb",
+  "definition": "to reach a conclusion from evidence or reasoning",
+  "example": "From his tone, I inferred that he was upset.",
+  "vi": "suy ra, luận ra",
+  "exampleVi": "Từ giọng điệu của anh ấy, tôi suy ra rằng anh ấy đang buồn bực."
+ },
+ {
+  "word": "fervent",
+  "ipa": "/ˈfɜːvənt/",
+  "pos": "adjective",
+  "definition": "having or showing very strong feelings",
+  "example": "He is a fervent supporter of the local team.",
+  "vi": "nhiệt thành, sôi nổi",
+  "exampleVi": "Anh ấy là một cổ động viên nhiệt thành của đội bóng địa phương."
+ },
+ {
+  "word": "magnanimous",
+  "ipa": "/mæɡˈnæn.ɪ.məs/",
+  "pos": "adjective",
+  "definition": "generous and forgiving, especially toward a rival",
+  "example": "She was magnanimous in victory and praised her opponent.",
+  "vi": "cao thượng, hào hiệp",
+  "exampleVi": "Cô ấy tỏ ra cao thượng khi chiến thắng và khen ngợi đối thủ của mình."
+ },
+ {
+  "word": "acute",
+  "ipa": "/əˈkjuːt/",
+  "pos": "adjective",
+  "definition": "very serious or severe; also sharp and perceptive",
+  "example": "There is an acute shortage of nurses in the city.",
+  "vi": "nghiêm trọng, sâu sắc",
+  "exampleVi": "Thành phố đang thiếu hụt y tá nghiêm trọng."
+ },
+ {
+  "word": "streamline",
+  "ipa": "/ˈstriːm.laɪn/",
+  "pos": "verb",
+  "definition": "to make a process simpler and more efficient",
+  "example": "We streamlined the approval process to save time.",
+  "vi": "tinh giản, hợp lý hóa",
+  "exampleVi": "Chúng tôi đã tinh giản quy trình phê duyệt để tiết kiệm thời gian."
+ },
+ {
+  "word": "sporadic",
+  "ipa": "/spəˈræd.ɪk/",
+  "pos": "adjective",
+  "definition": "occurring at irregular intervals or only in a few places",
+  "example": "There were sporadic outbreaks of rain all day.",
+  "vi": "lác đác, rời rạc",
+  "exampleVi": "Cả ngày có những cơn mưa lác đác."
+ },
+ {
+  "word": "aspire",
+  "ipa": "/əˈspaɪə(r)/",
+  "pos": "verb",
+  "definition": "to have a strong desire to achieve something",
+  "example": "She aspires to become a surgeon.",
+  "vi": "khao khát, mong muốn",
+  "exampleVi": "Cô ấy khao khát trở thành bác sĩ phẫu thuật."
+ },
+ {
+  "word": "phenomenon",
+  "ipa": "/fəˈnɒm.ɪ.nən/",
+  "pos": "noun",
+  "definition": "a fact or situation that is observed to exist or happen",
+  "example": "Global warming is a well-documented phenomenon.",
+  "vi": "hiện tượng",
+  "exampleVi": "Sự nóng lên toàn cầu là một hiện tượng đã được ghi nhận rõ ràng."
+ },
+ {
+  "word": "lucrative",
+  "ipa": "/ˈluːkrətɪv/",
+  "pos": "adjective",
+  "definition": "producing a lot of money or profit",
+  "example": "He left to take a more lucrative job.",
+  "vi": "sinh lời, béo bở",
+  "exampleVi": "Anh ấy nghỉ việc để nhận một công việc béo bở hơn."
+ },
+ {
+  "word": "adapt",
+  "ipa": "/əˈdæpt/",
+  "pos": "verb",
+  "definition": "to change in order to suit new conditions",
+  "example": "Companies must adapt quickly to changing markets.",
+  "vi": "thích nghi, điều chỉnh",
+  "exampleVi": "Các công ty phải nhanh chóng thích nghi với thị trường đang thay đổi."
+ },
+ {
+  "word": "omnipresent",
+  "ipa": "/ˌɒm.nɪˈprez.ənt/",
+  "pos": "adjective",
+  "definition": "present or found everywhere",
+  "example": "Smartphones have become omnipresent in modern life.",
+  "vi": "có mặt khắp nơi",
+  "exampleVi": "Điện thoại thông minh đã có mặt khắp nơi trong cuộc sống hiện đại."
+ },
+ {
+  "word": "ostensibly",
+  "ipa": "/ɒˈsten.sə.bli/",
+  "pos": "adverb",
+  "definition": "apparently or seemingly, but perhaps not actually",
+  "example": "He left early, ostensibly to catch a train.",
+  "vi": "bề ngoài thì, có vẻ như",
+  "exampleVi": "Anh ấy về sớm, bề ngoài thì là để kịp chuyến tàu."
+ },
+ {
+  "word": "leverage",
+  "ipa": "/ˈliːvərɪdʒ/",
+  "pos": "verb",
+  "definition": "to use something to maximum advantage",
+  "example": "We can leverage our experience to win new clients.",
+  "vi": "tận dụng, phát huy",
+  "exampleVi": "Chúng ta có thể tận dụng kinh nghiệm của mình để giành được khách hàng mới."
+ },
+ {
+  "word": "revitalize",
+  "ipa": "/ˌriːˈvaɪ.təl.aɪz/",
+  "pos": "verb",
+  "definition": "to give new life and energy to something",
+  "example": "The project aims to revitalize the old downtown area.",
+  "vi": "phục hồi, tiếp thêm sức sống",
+  "exampleVi": "Dự án nhằm phục hồi khu trung tâm cũ của thành phố."
+ },
+ {
+  "word": "brevity",
+  "ipa": "/ˈbrevəti/",
+  "pos": "noun",
+  "definition": "the quality of using few words; shortness of time",
+  "example": "The speech was praised for its brevity.",
+  "vi": "sự ngắn gọn, súc tích",
+  "exampleVi": "Bài phát biểu được khen ngợi vì sự ngắn gọn."
+ },
+ {
+  "word": "mutual",
+  "ipa": "/ˈmjuː.tʃu.əl/",
+  "pos": "adjective",
+  "definition": "felt or done by each of two or more parties toward the other",
+  "example": "The partnership is based on mutual trust.",
+  "vi": "lẫn nhau, chung",
+  "exampleVi": "Mối quan hệ đối tác này được xây dựng trên sự tin tưởng lẫn nhau."
+ },
+ {
+  "word": "consensus",
+  "ipa": "/kənˈsensəs/",
+  "pos": "noun",
+  "definition": "general agreement among a group",
+  "example": "There is a growing consensus that action is needed.",
+  "vi": "sự đồng thuận",
+  "exampleVi": "Ngày càng có sự đồng thuận rằng cần phải hành động."
+ },
+ {
+  "word": "enigma",
+  "ipa": "/ɪˈnɪɡmə/",
+  "pos": "noun",
+  "definition": "a person or thing that is mysterious or hard to understand",
+  "example": "His motives remain an enigma.",
+  "vi": "điều bí ẩn",
+  "exampleVi": "Động cơ của anh ta vẫn là một điều bí ẩn."
+ },
+ {
+  "word": "ubiquitous",
+  "ipa": "/juːˈbɪk.wɪ.təs/",
+  "pos": "adjective",
+  "definition": "present, appearing, or found everywhere",
+  "example": "Coffee shops are ubiquitous in Ho Chi Minh City.",
+  "vi": "có mặt khắp nơi",
+  "exampleVi": "Quán cà phê có mặt khắp nơi ở Thành phố Hồ Chí Minh."
+ },
+ {
+  "word": "assess",
+  "ipa": "/əˈses/",
+  "pos": "verb",
+  "definition": "to judge or evaluate the quality, value, or importance of something",
+  "example": "The teacher will assess each student's progress.",
+  "vi": "đánh giá",
+  "exampleVi": "Giáo viên sẽ đánh giá sự tiến bộ của từng học sinh."
+ },
+ {
+  "word": "resonate",
+  "ipa": "/ˈrez.ən.eɪt/",
+  "pos": "verb",
+  "definition": "to evoke a feeling of shared emotion or belief",
+  "example": "Her speech resonated with young voters.",
+  "vi": "gây đồng cảm, vang vọng",
+  "exampleVi": "Bài phát biểu của cô ấy đã gây được sự đồng cảm với cử tri trẻ."
+ },
+ {
+  "word": "reiterate",
+  "ipa": "/riˈɪt.ər.eɪt/",
+  "pos": "verb",
+  "definition": "to say something again for emphasis or clarity",
+  "example": "Let me reiterate the key points of the proposal.",
+  "vi": "nhắc lại, nhấn mạnh lại",
+  "exampleVi": "Cho phép tôi nhắc lại những điểm chính của đề xuất."
+ },
+ {
+  "word": "onerous",
+  "ipa": "/ˈəʊ.nər.əs/",
+  "pos": "adjective",
+  "definition": "involving heavy effort or burden",
+  "example": "Small businesses find the paperwork onerous.",
+  "vi": "nặng nề, khó nhọc",
+  "exampleVi": "Các doanh nghiệp nhỏ thấy thủ tục giấy tờ thật nặng nề."
+ },
+ {
+  "word": "disrupt",
+  "ipa": "/dɪsˈrʌpt/",
+  "pos": "verb",
+  "definition": "to interrupt or disturb normal activity",
+  "example": "The strike disrupted train services nationwide.",
+  "vi": "làm gián đoạn, phá vỡ",
+  "exampleVi": "Cuộc đình công đã làm gián đoạn dịch vụ đường sắt trên toàn quốc."
+ },
+ {
+  "word": "irrelevant",
+  "ipa": "/ɪˈreləvənt/",
+  "pos": "adjective",
+  "definition": "not connected with or important to the matter",
+  "example": "His age is irrelevant to the job.",
+  "vi": "không liên quan",
+  "exampleVi": "Tuổi tác của anh ấy không liên quan gì đến công việc."
+ },
+ {
+  "word": "expedite",
+  "ipa": "/ˈekspədaɪt/",
+  "pos": "verb",
+  "definition": "to make a process happen more quickly",
+  "example": "We paid extra to expedite the delivery.",
+  "vi": "đẩy nhanh, xúc tiến",
+  "exampleVi": "Chúng tôi đã trả thêm tiền để đẩy nhanh việc giao hàng."
+ },
+ {
+  "word": "rudimentary",
+  "ipa": "/ˌruː.dɪˈmen.tər.i/",
+  "pos": "adjective",
+  "definition": "involving only basic principles; undeveloped",
+  "example": "I have only a rudimentary knowledge of French.",
+  "vi": "sơ đẳng, cơ bản",
+  "exampleVi": "Tôi chỉ có kiến thức sơ đẳng về tiếng Pháp."
+ },
+ {
+  "word": "orchestrate",
+  "ipa": "/ˈɔː.kɪ.streɪt/",
+  "pos": "verb",
+  "definition": "to plan and coordinate something carefully",
+  "example": "She orchestrated a successful product launch.",
+  "vi": "dàn dựng, điều phối",
+  "exampleVi": "Cô ấy đã điều phối một buổi ra mắt sản phẩm thành công."
+ },
+ {
+  "word": "lament",
+  "ipa": "/ləˈment/",
+  "pos": "verb",
+  "definition": "to express sorrow or regret about something",
+  "example": "Many people lament the loss of traditional values.",
+  "vi": "than thở, tiếc thương",
+  "exampleVi": "Nhiều người than thở về sự mai một của các giá trị truyền thống."
+ },
+ {
+  "word": "wane",
+  "ipa": "/weɪn/",
+  "pos": "verb",
+  "definition": "to decrease gradually in strength or importance",
+  "example": "Public interest in the story began to wane.",
+  "vi": "suy giảm, phai nhạt",
+  "exampleVi": "Sự quan tâm của công chúng đối với câu chuyện bắt đầu suy giảm."
+ },
+ {
+  "word": "spontaneous",
+  "ipa": "/spɒnˈteɪ.ni.əs/",
+  "pos": "adjective",
+  "definition": "happening naturally without planning or external cause",
+  "example": "The audience broke into spontaneous applause.",
+  "vi": "tự phát, ngẫu hứng",
+  "exampleVi": "Khán giả bỗng vỗ tay một cách tự phát."
+ },
+ {
+  "word": "opaque",
+  "ipa": "/əʊˈpeɪk/",
+  "pos": "adjective",
+  "definition": "not transparent; difficult to understand",
+  "example": "The decision-making process was opaque to employees.",
+  "vi": "mờ đục, khó hiểu",
+  "exampleVi": "Quy trình ra quyết định rất khó hiểu đối với nhân viên."
+ },
+ {
+  "word": "bureaucracy",
+  "ipa": "/bjʊəˈrɒkrəsi/",
+  "pos": "noun",
+  "definition": "a complex system of rules and officials, often seen as slow",
+  "example": "Small businesses complain about excessive bureaucracy.",
+  "vi": "bộ máy quan liêu, thủ tục hành chính",
+  "exampleVi": "Các doanh nghiệp nhỏ phàn nàn về thủ tục hành chính quá rườm rà."
+ },
+ {
+  "word": "coincide",
+  "ipa": "/ˌkəʊɪnˈsaɪd/",
+  "pos": "verb",
+  "definition": "to happen at the same time as something else",
+  "example": "The festival coincides with the school holidays.",
+  "vi": "trùng khớp, xảy ra đồng thời",
+  "exampleVi": "Lễ hội trùng với kỳ nghỉ của học sinh."
+ },
+ {
+  "word": "imminent",
+  "ipa": "/ˈɪmɪnənt/",
+  "pos": "adjective",
+  "definition": "about to happen very soon",
+  "example": "The storm's arrival is imminent.",
+  "vi": "sắp xảy ra, cận kề",
+  "exampleVi": "Cơn bão sắp đổ bộ."
+ },
+ {
+  "word": "zealous",
+  "ipa": "/ˈzel.əs/",
+  "pos": "adjective",
+  "definition": "having or showing great energy or enthusiasm for a cause",
+  "example": "She is a zealous supporter of animal rights.",
+  "vi": "nhiệt thành, hăng hái",
+  "exampleVi": "Cô ấy là người nhiệt thành ủng hộ quyền động vật."
+ },
+ {
+  "word": "elaborate",
+  "ipa": "/ɪˈlæbərət/",
+  "pos": "adjective",
+  "definition": "very detailed and complicated",
+  "example": "They made elaborate preparations for the wedding.",
+  "vi": "công phu, tỉ mỉ",
+  "exampleVi": "Họ đã chuẩn bị công phu cho đám cưới."
+ },
+ {
+  "word": "wholesome",
+  "ipa": "/ˈhəʊl.səm/",
+  "pos": "adjective",
+  "definition": "good for physical or moral well-being",
+  "example": "The show offers wholesome family entertainment.",
+  "vi": "lành mạnh, bổ ích",
+  "exampleVi": "Chương trình mang đến hình thức giải trí lành mạnh cho gia đình."
+ },
+ {
+  "word": "quintessential",
+  "ipa": "/ˌkwɪn.tɪˈsen.ʃəl/",
+  "pos": "adjective",
+  "definition": "representing the most perfect or typical example of something",
+  "example": "Pho is the quintessential Vietnamese dish.",
+  "vi": "tinh túy, điển hình",
+  "exampleVi": "Phở là món ăn điển hình nhất của Việt Nam."
+ },
+ {
+  "word": "unwavering",
+  "ipa": "/ʌnˈweɪ.vər.ɪŋ/",
+  "pos": "adjective",
+  "definition": "steady and resolute; not changing",
+  "example": "Thank you for your unwavering support.",
+  "vi": "không lay chuyển, kiên định",
+  "exampleVi": "Cảm ơn bạn vì sự ủng hộ không lay chuyển."
+ },
+ {
+  "word": "query",
+  "ipa": "/ˈkwɪə.ri/",
+  "pos": "noun",
+  "definition": "a question, especially one expressing doubt or seeking information",
+  "example": "Please send any queries to our support team.",
+  "vi": "câu hỏi, thắc mắc",
+  "exampleVi": "Vui lòng gửi mọi thắc mắc đến đội ngũ hỗ trợ của chúng tôi."
+ },
+ {
+  "word": "thorough",
+  "ipa": "/ˈθʌr.ə/",
+  "pos": "adjective",
+  "definition": "complete and careful with attention to every detail",
+  "example": "The auditors conducted a thorough review.",
+  "vi": "kỹ lưỡng, cẩn thận",
+  "exampleVi": "Các kiểm toán viên đã tiến hành một cuộc rà soát kỹ lưỡng."
+ },
+ {
+  "word": "proactive",
+  "ipa": "/ˌprəʊˈæk.tɪv/",
+  "pos": "adjective",
+  "definition": "taking action to prevent problems rather than reacting to them",
+  "example": "Be proactive and address issues before they escalate.",
+  "vi": "chủ động",
+  "exampleVi": "Hãy chủ động giải quyết vấn đề trước khi chúng leo thang."
+ },
+ {
+  "word": "prospective",
+  "ipa": "/prəˈspek.tɪv/",
+  "pos": "adjective",
+  "definition": "expected or likely to happen or become something in the future",
+  "example": "We are meeting with prospective clients next week.",
+  "vi": "tiềm năng, triển vọng",
+  "exampleVi": "Tuần tới chúng tôi sẽ gặp gỡ các khách hàng tiềm năng."
+ },
+ {
+  "word": "galvanize",
+  "ipa": "/ˈɡælvənaɪz/",
+  "pos": "verb",
+  "definition": "to shock or excite someone into taking action",
+  "example": "The tragedy galvanized the community into action.",
+  "vi": "khích lệ, thôi thúc",
+  "exampleVi": "Thảm kịch đã thôi thúc cộng đồng hành động."
+ },
+ {
+  "word": "articulate",
+  "ipa": "/ɑːˈtɪkjələt/",
+  "pos": "adjective",
+  "definition": "able to express ideas clearly and effectively",
+  "example": "He is an articulate speaker who connects with audiences.",
+  "vi": "diễn đạt lưu loát, rành mạch",
+  "exampleVi": "Anh ấy là một diễn giả ăn nói lưu loát, dễ kết nối với khán giả."
+ },
+ {
+  "word": "knack",
+  "ipa": "/næk/",
+  "pos": "noun",
+  "definition": "a natural skill or ability to do something well",
+  "example": "He has a knack for making people laugh.",
+  "vi": "sở trường, tài khéo",
+  "exampleVi": "Anh ấy có biệt tài chọc cười người khác."
+ },
+ {
+  "word": "garner",
+  "ipa": "/ˈɡɑːnə(r)/",
+  "pos": "verb",
+  "definition": "to gather or collect, especially support or praise",
+  "example": "The film garnered widespread critical acclaim.",
+  "vi": "thu được, giành được",
+  "exampleVi": "Bộ phim đã giành được sự khen ngợi rộng rãi từ giới phê bình."
+ },
+ {
+  "word": "fluctuate",
+  "ipa": "/ˈflʌktʃueɪt/",
+  "pos": "verb",
+  "definition": "to change frequently in level or amount",
+  "example": "Oil prices fluctuate from day to day.",
+  "vi": "dao động, biến động",
+  "exampleVi": "Giá dầu dao động từng ngày."
+ },
+ {
+  "word": "obstinate",
+  "ipa": "/ˈɒb.stɪ.nət/",
+  "pos": "adjective",
+  "definition": "stubbornly refusing to change one's opinion or action",
+  "example": "He remained obstinate despite all the evidence.",
+  "vi": "bướng bỉnh, cố chấp",
+  "exampleVi": "Anh ta vẫn cố chấp bất chấp mọi bằng chứng."
+ },
+ {
+  "word": "testament",
+  "ipa": "/ˈtes.tə.mənt/",
+  "pos": "noun",
+  "definition": "something that serves as clear proof of a fact or quality",
+  "example": "The award is a testament to the team's hard work.",
+  "vi": "minh chứng",
+  "exampleVi": "Giải thưởng là minh chứng cho sự chăm chỉ của cả đội."
+ },
+ {
+  "word": "rejuvenate",
+  "ipa": "/rɪˈdʒuː.vən.eɪt/",
+  "pos": "verb",
+  "definition": "to make someone or something look or feel younger or more lively",
+  "example": "A week at the beach rejuvenated her.",
+  "vi": "làm trẻ lại, hồi sinh",
+  "exampleVi": "Một tuần ở bãi biển đã giúp cô ấy trẻ lại."
+ },
+ {
+  "word": "shrewd",
+  "ipa": "/ʃruːd/",
+  "pos": "adjective",
+  "definition": "having sharp judgment, especially in practical matters",
+  "example": "She is a shrewd negotiator.",
+  "vi": "sắc sảo, khôn ngoan",
+  "exampleVi": "Cô ấy là một nhà đàm phán sắc sảo."
+ },
+ {
+  "word": "notorious",
+  "ipa": "/nəʊˈtɔː.ri.əs/",
+  "pos": "adjective",
+  "definition": "famous for something bad",
+  "example": "The area is notorious for traffic jams.",
+  "vi": "khét tiếng, tai tiếng",
+  "exampleVi": "Khu vực này khét tiếng về nạn kẹt xe."
+ },
+ {
+  "word": "empirical",
+  "ipa": "/ɪmˈpɪrɪkl/",
+  "pos": "adjective",
+  "definition": "based on observation or experiment rather than theory",
+  "example": "There is little empirical evidence for the theory.",
+  "vi": "thực nghiệm",
+  "exampleVi": "Có rất ít bằng chứng thực nghiệm cho lý thuyết này."
+ },
+ {
+  "word": "collaborate",
+  "ipa": "/kəˈlæbəreɪt/",
+  "pos": "verb",
+  "definition": "to work together with others to achieve something",
+  "example": "The two companies collaborated on the new design.",
+  "vi": "hợp tác, cộng tác",
+  "exampleVi": "Hai công ty đã hợp tác trong thiết kế mới."
+ },
+ {
+  "word": "inhibit",
+  "ipa": "/ɪnˈhɪbɪt/",
+  "pos": "verb",
+  "definition": "to prevent or slow down a process or action",
+  "example": "Fear can inhibit learning.",
+  "vi": "kìm hãm, ngăn chặn",
+  "exampleVi": "Nỗi sợ hãi có thể kìm hãm việc học."
+ },
+ {
+  "word": "morale",
+  "ipa": "/məˈrɑːl/",
+  "pos": "noun",
+  "definition": "the confidence and enthusiasm of a person or group",
+  "example": "Team morale improved after the successful launch.",
+  "vi": "tinh thần, nhuệ khí",
+  "exampleVi": "Tinh thần của đội đã được cải thiện sau buổi ra mắt thành công."
+ },
+ {
+  "word": "manifest",
+  "ipa": "/ˈmæn.ɪ.fest/",
+  "pos": "verb",
+  "definition": "to show something clearly through signs or actions",
+  "example": "Stress can manifest itself in physical symptoms.",
+  "vi": "biểu lộ, thể hiện",
+  "exampleVi": "Căng thẳng có thể biểu hiện qua các triệu chứng thể chất."
+ },
+ {
+  "word": "lethargic",
+  "ipa": "/ləˈθɑːdʒɪk/",
+  "pos": "adjective",
+  "definition": "lacking energy or enthusiasm",
+  "example": "The heat made everyone feel lethargic.",
+  "vi": "uể oải, lờ đờ",
+  "exampleVi": "Cái nóng khiến mọi người cảm thấy uể oải."
+ },
+ {
+  "word": "viable",
+  "ipa": "/ˈvaɪ.ə.bəl/",
+  "pos": "adjective",
+  "definition": "capable of working successfully; feasible",
+  "example": "Solar power is a viable alternative to coal.",
+  "vi": "khả thi",
+  "exampleVi": "Năng lượng mặt trời là một giải pháp thay thế khả thi cho than đá."
+ },
+ {
+  "word": "erratic",
+  "ipa": "/ɪˈrætɪk/",
+  "pos": "adjective",
+  "definition": "unpredictable and irregular",
+  "example": "His behaviour has become increasingly erratic.",
+  "vi": "thất thường, bất thường",
+  "exampleVi": "Hành vi của anh ta ngày càng thất thường."
+ },
+ {
+  "word": "debilitate",
+  "ipa": "/dɪˈbɪlɪteɪt/",
+  "pos": "verb",
+  "definition": "to make someone or something weak",
+  "example": "The long illness debilitated him severely.",
+  "vi": "làm suy yếu",
+  "exampleVi": "Căn bệnh kéo dài đã làm anh ấy suy yếu nghiêm trọng."
+ },
+ {
+  "word": "redundant",
+  "ipa": "/rɪˈdʌn.dənt/",
+  "pos": "adjective",
+  "definition": "no longer needed or useful; superfluous",
+  "example": "Remove any redundant words from your essay.",
+  "vi": "thừa, dư thừa",
+  "exampleVi": "Hãy loại bỏ những từ thừa trong bài luận của bạn."
+ },
+ {
+  "word": "diplomatic",
+  "ipa": "/ˌdɪpləˈmætɪk/",
+  "pos": "adjective",
+  "definition": "tactful and sensitive in dealing with people",
+  "example": "She gave a diplomatic answer to avoid conflict.",
+  "vi": "khéo léo, tế nhị",
+  "exampleVi": "Cô ấy đưa ra một câu trả lời khéo léo để tránh xung đột."
+ },
+ {
+  "word": "implicit",
+  "ipa": "/ɪmˈplɪsɪt/",
+  "pos": "adjective",
+  "definition": "suggested but not directly expressed",
+  "example": "There was an implicit threat in his words.",
+  "vi": "ngầm, ẩn ý",
+  "exampleVi": "Trong lời nói của anh ta có một lời đe dọa ngầm."
+ },
+ {
+  "word": "apparent",
+  "ipa": "/əˈpærənt/",
+  "pos": "adjective",
+  "definition": "clearly visible or understood; seeming real",
+  "example": "It soon became apparent that the plan would fail.",
+  "vi": "rõ ràng, hiển nhiên",
+  "exampleVi": "Chẳng bao lâu sau, rõ ràng là kế hoạch sẽ thất bại."
+ },
+ {
+  "word": "deduce",
+  "ipa": "/dɪˈdjuːs/",
+  "pos": "verb",
+  "definition": "to reach a conclusion by reasoning from evidence",
+  "example": "From the clues, she deduced who the thief was.",
+  "vi": "suy ra, suy luận",
+  "exampleVi": "Từ các manh mối, cô ấy suy ra được ai là kẻ trộm."
+ },
+ {
+  "word": "credible",
+  "ipa": "/ˈkredəbl/",
+  "pos": "adjective",
+  "definition": "able to be believed or trusted",
+  "example": "There is no credible evidence to support the claim.",
+  "vi": "đáng tin cậy",
+  "exampleVi": "Không có bằng chứng đáng tin cậy nào ủng hộ tuyên bố đó."
+ },
+ {
+  "word": "dubious",
+  "ipa": "/ˈdjuːbiəs/",
+  "pos": "adjective",
+  "definition": "doubtful or not to be trusted",
+  "example": "The claim seems dubious to me.",
+  "vi": "đáng ngờ, mơ hồ",
+  "exampleVi": "Tôi thấy tuyên bố đó có vẻ đáng ngờ."
+ },
+ {
+  "word": "versatile",
+  "ipa": "/ˈvɜː.sə.taɪl/",
+  "pos": "adjective",
+  "definition": "able to adapt to many different functions or activities",
+  "example": "He is a versatile actor who can play any role.",
+  "vi": "đa năng, linh hoạt",
+  "exampleVi": "Anh ấy là một diễn viên đa năng, có thể đóng bất kỳ vai nào."
+ },
+ {
+  "word": "yield",
+  "ipa": "/jiːld/",
+  "pos": "verb",
+  "definition": "to produce or provide a result; or to give way",
+  "example": "The investment yielded a strong return.",
+  "vi": "mang lại; nhượng bộ",
+  "exampleVi": "Khoản đầu tư đã mang lại lợi nhuận cao."
+ },
+ {
+  "word": "conspicuous",
+  "ipa": "/kənˈspɪkjuəs/",
+  "pos": "adjective",
+  "definition": "easy to see or notice; attracting attention",
+  "example": "He felt conspicuous in his bright red suit.",
+  "vi": "dễ thấy, nổi bật",
+  "exampleVi": "Anh ấy cảm thấy mình quá nổi bật trong bộ vest đỏ chói."
+ },
+ {
+  "word": "replenish",
+  "ipa": "/rɪˈplen.ɪʃ/",
+  "pos": "verb",
+  "definition": "to fill something up again",
+  "example": "We need to replenish our office supplies.",
+  "vi": "bổ sung, làm đầy lại",
+  "exampleVi": "Chúng ta cần bổ sung văn phòng phẩm."
+ },
+ {
+  "word": "endure",
+  "ipa": "/ɪnˈdjʊə(r)/",
+  "pos": "verb",
+  "definition": "to suffer something difficult patiently; to last",
+  "example": "They endured years of hardship.",
+  "vi": "chịu đựng, tồn tại lâu dài",
+  "exampleVi": "Họ đã chịu đựng nhiều năm gian khổ."
+ },
+ {
+  "word": "reluctant",
+  "ipa": "/rɪˈlʌk.tənt/",
+  "pos": "adjective",
+  "definition": "unwilling and hesitant",
+  "example": "He was reluctant to share his personal opinions.",
+  "vi": "miễn cưỡng, ngần ngại",
+  "exampleVi": "Anh ấy ngần ngại chia sẻ quan điểm cá nhân."
+ },
+ {
+  "word": "foster",
+  "ipa": "/ˈfɒstə(r)/",
+  "pos": "verb",
+  "definition": "to encourage the development of something",
+  "example": "The programme aims to foster creativity.",
+  "vi": "thúc đẩy, nuôi dưỡng",
+  "exampleVi": "Chương trình nhằm nuôi dưỡng sự sáng tạo."
+ },
+ {
+  "word": "indispensable",
+  "ipa": "/ˌɪndɪˈspensəbl/",
+  "pos": "adjective",
+  "definition": "absolutely necessary",
+  "example": "Mobile phones have become indispensable.",
+  "vi": "không thể thiếu",
+  "exampleVi": "Điện thoại di động đã trở nên không thể thiếu."
+ },
+ {
+  "word": "oblivious",
+  "ipa": "/əˈblɪv.i.əs/",
+  "pos": "adjective",
+  "definition": "not aware of what is happening around one",
+  "example": "He seemed oblivious to the tension in the room.",
+  "vi": "không hay biết, lãng quên",
+  "exampleVi": "Anh ấy dường như không hay biết gì về bầu không khí căng thẳng trong phòng."
+ },
+ {
+  "word": "blunt",
+  "ipa": "/blʌnt/",
+  "pos": "adjective",
+  "definition": "saying exactly what one thinks without trying to be polite",
+  "example": "To be blunt, your proposal isn't good enough.",
+  "vi": "thẳng thừng, thẳng thắn",
+  "exampleVi": "Nói thẳng ra thì đề xuất của bạn chưa đủ tốt."
+ },
+ {
+  "word": "contradict",
+  "ipa": "/ˌkɒntrəˈdɪkt/",
+  "pos": "verb",
+  "definition": "to say the opposite of what someone else has said",
+  "example": "The evidence contradicts his statement.",
+  "vi": "mâu thuẫn, phản bác",
+  "exampleVi": "Bằng chứng mâu thuẫn với lời khai của anh ta."
+ },
+ {
+  "word": "superfluous",
+  "ipa": "/suːˈpɜː.flu.əs/",
+  "pos": "adjective",
+  "definition": "unnecessary, especially through being more than enough",
+  "example": "Delete any superfluous details from the slide.",
+  "vi": "thừa thãi, không cần thiết",
+  "exampleVi": "Hãy xóa mọi chi tiết thừa thãi khỏi trang trình chiếu."
+ },
+ {
+  "word": "depict",
+  "ipa": "/dɪˈpɪkt/",
+  "pos": "verb",
+  "definition": "to represent or show something in words or pictures",
+  "example": "The painting depicts a village at sunset.",
+  "vi": "miêu tả, khắc họa",
+  "exampleVi": "Bức tranh miêu tả một ngôi làng lúc hoàng hôn."
+ },
+ {
+  "word": "astute",
+  "ipa": "/əˈstjuːt/",
+  "pos": "adjective",
+  "definition": "clever at understanding situations and using them to one's advantage",
+  "example": "She is an astute businesswoman.",
+  "vi": "sắc sảo, tinh khôn",
+  "exampleVi": "Cô ấy là một nữ doanh nhân sắc sảo."
+ },
+ {
+  "word": "keen",
+  "ipa": "/kiːn/",
+  "pos": "adjective",
+  "definition": "very interested or eager; sharp",
+  "example": "She is keen to learn new skills.",
+  "vi": "hăng hái, say mê",
+  "exampleVi": "Cô ấy rất hăng hái học hỏi những kỹ năng mới."
+ },
+ {
+  "word": "scrutinize",
+  "ipa": "/ˈskruː.tɪ.naɪz/",
+  "pos": "verb",
+  "definition": "to examine or inspect closely and thoroughly",
+  "example": "Investors will scrutinize the company's financial reports.",
+  "vi": "xem xét kỹ lưỡng",
+  "exampleVi": "Các nhà đầu tư sẽ xem xét kỹ lưỡng báo cáo tài chính của công ty."
+ },
+ {
+  "word": "hypothesis",
+  "ipa": "/haɪˈpɒθəsɪs/",
+  "pos": "noun",
+  "definition": "a proposed explanation that has not yet been proven",
+  "example": "The experiment was designed to test the hypothesis.",
+  "vi": "giả thuyết",
+  "exampleVi": "Thí nghiệm được thiết kế để kiểm chứng giả thuyết."
+ },
+ {
+  "word": "chronic",
+  "ipa": "/ˈkrɒnɪk/",
+  "pos": "adjective",
+  "definition": "lasting for a long time or constantly recurring",
+  "example": "He suffers from chronic back pain.",
+  "vi": "mãn tính, kinh niên",
+  "exampleVi": "Anh ấy bị đau lưng mãn tính."
+ },
+ {
+  "word": "punctual",
+  "ipa": "/ˈpʌŋk.tʃu.əl/",
+  "pos": "adjective",
+  "definition": "happening or doing something at the agreed or proper time",
+  "example": "She is always punctual for meetings.",
+  "vi": "đúng giờ",
+  "exampleVi": "Cô ấy luôn đến họp đúng giờ."
+ },
+ {
+  "word": "contemplate",
+  "ipa": "/ˈkɒntəmpleɪt/",
+  "pos": "verb",
+  "definition": "to think carefully about something for a long time",
+  "example": "She contemplated moving abroad.",
+  "vi": "suy ngẫm, cân nhắc",
+  "exampleVi": "Cô ấy đã cân nhắc việc chuyển ra nước ngoài sinh sống."
+ },
+ {
+  "word": "coherent",
+  "ipa": "/kəʊˈhɪərənt/",
+  "pos": "adjective",
+  "definition": "logical and consistent; easy to understand",
+  "example": "She presented a coherent argument.",
+  "vi": "mạch lạc, chặt chẽ",
+  "exampleVi": "Cô ấy đưa ra một lập luận mạch lạc."
+ },
+ {
+  "word": "wary",
+  "ipa": "/ˈweə.ri/",
+  "pos": "adjective",
+  "definition": "cautious about possible dangers or problems",
+  "example": "Be wary of offers that seem too good to be true.",
+  "vi": "thận trọng, dè chừng",
+  "exampleVi": "Hãy dè chừng những lời mời chào nghe có vẻ quá tốt để là sự thật."
+ },
+ {
+  "word": "cynical",
+  "ipa": "/ˈsɪnɪkl/",
+  "pos": "adjective",
+  "definition": "believing that people are motivated mainly by self-interest",
+  "example": "Many voters have become cynical about politicians.",
+  "vi": "hoài nghi, yếm thế",
+  "exampleVi": "Nhiều cử tri đã trở nên hoài nghi về các chính trị gia."
+ },
+ {
+  "word": "dispel",
+  "ipa": "/dɪˈspel/",
+  "pos": "verb",
+  "definition": "to make a doubt, fear, or belief disappear",
+  "example": "The report should dispel any doubts about safety.",
+  "vi": "xua tan, loại bỏ",
+  "exampleVi": "Bản báo cáo sẽ xua tan mọi nghi ngờ về độ an toàn."
+ },
+ {
+  "word": "vulnerable",
+  "ipa": "/ˈvʌl.nər.ə.bəl/",
+  "pos": "adjective",
+  "definition": "exposed to the possibility of being harmed or attacked",
+  "example": "Older systems are vulnerable to cyberattacks.",
+  "vi": "dễ bị tổn thương",
+  "exampleVi": "Các hệ thống cũ dễ bị tấn công mạng."
+ },
+ {
+  "word": "salient",
+  "ipa": "/ˈseɪ.li.ənt/",
+  "pos": "adjective",
+  "definition": "most noticeable or important",
+  "example": "She summarized the salient points of the report.",
+  "vi": "nổi bật, chủ yếu",
+  "exampleVi": "Cô ấy đã tóm tắt những điểm nổi bật của bản báo cáo."
+ },
+ {
+  "word": "grievance",
+  "ipa": "/ˈɡriːvəns/",
+  "pos": "noun",
+  "definition": "a complaint about unfair treatment",
+  "example": "Workers filed a grievance with management.",
+  "vi": "sự bất bình, lời than phiền",
+  "exampleVi": "Công nhân đã gửi đơn khiếu nại bày tỏ sự bất bình lên ban quản lý."
+ },
+ {
+  "word": "ambiguous",
+  "ipa": "/æmˈbɪɡjuəs/",
+  "pos": "adjective",
+  "definition": "having more than one possible meaning; unclear",
+  "example": "The wording of the contract is ambiguous.",
+  "vi": "mơ hồ, không rõ ràng",
+  "exampleVi": "Cách diễn đạt trong hợp đồng còn mơ hồ."
+ },
+ {
+  "word": "dogmatic",
+  "ipa": "/dɒɡˈmætɪk/",
+  "pos": "adjective",
+  "definition": "insisting that one's beliefs are right without considering others",
+  "example": "He is too dogmatic to accept criticism.",
+  "vi": "giáo điều, cứng nhắc",
+  "exampleVi": "Anh ta quá giáo điều để có thể chấp nhận lời phê bình."
+ },
+ {
+  "word": "mediate",
+  "ipa": "/ˈmiː.di.eɪt/",
+  "pos": "verb",
+  "definition": "to try to bring about an agreement between parties in a dispute",
+  "example": "A neutral party was brought in to mediate the conflict.",
+  "vi": "hòa giải, làm trung gian",
+  "exampleVi": "Một bên trung lập đã được mời đến để hòa giải xung đột."
+ },
+ {
+  "word": "profound",
+  "ipa": "/prəˈfaʊnd/",
+  "pos": "adjective",
+  "definition": "very great or intense; showing deep insight",
+  "example": "The discovery had a profound impact on medicine.",
+  "vi": "sâu sắc, sâu rộng",
+  "exampleVi": "Khám phá này đã có tác động sâu sắc đến y học."
+ },
+ {
+  "word": "transient",
+  "ipa": "/ˈtræn.zi.ənt/",
+  "pos": "adjective",
+  "definition": "lasting only for a short time",
+  "example": "The side effects of the drug are usually transient.",
+  "vi": "nhất thời, thoáng qua",
+  "exampleVi": "Các tác dụng phụ của thuốc thường chỉ là nhất thời."
+ },
+ {
+  "word": "authentic",
+  "ipa": "/ɔːˈθentɪk/",
+  "pos": "adjective",
+  "definition": "real or genuine; not fake",
+  "example": "The restaurant serves authentic Italian food.",
+  "vi": "đích thực, chính gốc",
+  "exampleVi": "Nhà hàng phục vụ món Ý chính gốc."
+ },
+ {
+  "word": "formidable",
+  "ipa": "/ˈfɔːmɪdəbl/",
+  "pos": "adjective",
+  "definition": "impressive and powerful, causing fear or respect",
+  "example": "She faced a formidable opponent in the final.",
+  "vi": "đáng gờm, ghê gớm",
+  "exampleVi": "Cô ấy đối mặt với một đối thủ đáng gờm trong trận chung kết."
+ },
+ {
+  "word": "misconception",
+  "ipa": "/ˌmɪs.kənˈsep.ʃən/",
+  "pos": "noun",
+  "definition": "a mistaken belief or idea based on faulty understanding",
+  "example": "It is a common misconception that bats are blind.",
+  "vi": "quan niệm sai lầm",
+  "exampleVi": "Việc cho rằng dơi bị mù là một quan niệm sai lầm phổ biến."
+ },
+ {
+  "word": "evident",
+  "ipa": "/ˈevɪdənt/",
+  "pos": "adjective",
+  "definition": "clear and easy to see or understand",
+  "example": "It was evident that she was nervous.",
+  "vi": "rõ ràng, hiển nhiên",
+  "exampleVi": "Rõ ràng là cô ấy đang lo lắng."
+ },
+ {
+  "word": "accomplish",
+  "ipa": "/əˈkʌmplɪʃ/",
+  "pos": "verb",
+  "definition": "to succeed in doing or completing something",
+  "example": "We accomplished all our goals ahead of schedule.",
+  "vi": "hoàn thành, đạt được",
+  "exampleVi": "Chúng tôi đã hoàn thành mọi mục tiêu trước thời hạn."
+ },
+ {
+  "word": "persuasive",
+  "ipa": "/pəˈsweɪ.sɪv/",
+  "pos": "adjective",
+  "definition": "good at convincing someone to do or believe something",
+  "example": "He made a persuasive case for the new strategy.",
+  "vi": "có sức thuyết phục",
+  "exampleVi": "Anh ấy đưa ra những lập luận đầy sức thuyết phục cho chiến lược mới."
+ },
+ {
+  "word": "irony",
+  "ipa": "/ˈaɪrəni/",
+  "pos": "noun",
+  "definition": "a situation that is strange because it is the opposite of what is expected",
+  "example": "The irony is that the fire station burned down.",
+  "vi": "sự trớ trêu, mỉa mai",
+  "exampleVi": "Điều trớ trêu là chính trạm cứu hỏa lại bị cháy rụi."
+ },
+ {
+  "word": "discrepancy",
+  "ipa": "/dɪˈskrepənsi/",
+  "pos": "noun",
+  "definition": "a difference between things that should be the same",
+  "example": "There is a discrepancy between the two reports.",
+  "vi": "sự chênh lệch, sai lệch",
+  "exampleVi": "Có sự sai lệch giữa hai bản báo cáo."
+ },
+ {
+  "word": "confide",
+  "ipa": "/kənˈfaɪd/",
+  "pos": "verb",
+  "definition": "to tell someone a secret or private matter",
+  "example": "She confided in her sister about her worries.",
+  "vi": "tâm sự, giãi bày",
+  "exampleVi": "Cô ấy tâm sự với chị gái về những nỗi lo lắng của mình."
+ },
+ {
+  "word": "xenophobia",
+  "ipa": "/ˌzen.əˈfəʊ.bi.ə/",
+  "pos": "noun",
+  "definition": "dislike of or prejudice against people from other countries",
+  "example": "The campaign aims to combat xenophobia.",
+  "vi": "sự bài ngoại",
+  "exampleVi": "Chiến dịch nhằm chống lại sự bài ngoại."
+ },
+ {
+  "word": "curb",
+  "ipa": "/kɜːb/",
+  "pos": "verb",
+  "definition": "to control or limit something, especially something bad",
+  "example": "The government introduced measures to curb inflation.",
+  "vi": "kiềm chế, hạn chế",
+  "exampleVi": "Chính phủ đã đưa ra các biện pháp để kiềm chế lạm phát."
+ },
+ {
+  "word": "empower",
+  "ipa": "/ɪmˈpaʊə(r)/",
+  "pos": "verb",
+  "definition": "to give someone the power or confidence to do something",
+  "example": "Education empowers women to make their own choices.",
+  "vi": "trao quyền",
+  "exampleVi": "Giáo dục trao quyền cho phụ nữ để họ tự đưa ra lựa chọn của mình."
+ },
+ {
+  "word": "autonomy",
+  "ipa": "/ɔːˈtɒnəmi/",
+  "pos": "noun",
+  "definition": "the freedom to make one's own decisions",
+  "example": "Employees are given considerable autonomy in their work.",
+  "vi": "quyền tự chủ",
+  "exampleVi": "Nhân viên được trao quyền tự chủ đáng kể trong công việc."
+ },
+ {
+  "word": "pragmatic",
+  "ipa": "/præɡˈmæt.ɪk/",
+  "pos": "adjective",
+  "definition": "dealing with things sensibly and realistically",
+  "example": "We need a pragmatic approach to this budget problem.",
+  "vi": "thực tế, thực dụng",
+  "exampleVi": "Chúng ta cần một cách tiếp cận thực tế cho vấn đề ngân sách này."
+ },
+ {
+  "word": "uncanny",
+  "ipa": "/ʌnˈkæn.i/",
+  "pos": "adjective",
+  "definition": "strange or mysterious in a way that is hard to explain",
+  "example": "She has an uncanny ability to predict market trends.",
+  "vi": "kỳ lạ, khó lý giải",
+  "exampleVi": "Cô ấy có khả năng dự đoán xu hướng thị trường một cách kỳ lạ."
+ },
+ {
+  "word": "efficient",
+  "ipa": "/ɪˈfɪʃnt/",
+  "pos": "adjective",
+  "definition": "working well without wasting time or resources",
+  "example": "The new system is much more efficient.",
+  "vi": "hiệu quả, năng suất",
+  "exampleVi": "Hệ thống mới hiệu quả hơn nhiều."
+ },
+ {
+  "word": "judicious",
+  "ipa": "/dʒuˈdɪʃəs/",
+  "pos": "adjective",
+  "definition": "showing good judgement",
+  "example": "The judicious use of resources saved the project.",
+  "vi": "sáng suốt, khôn ngoan",
+  "exampleVi": "Việc sử dụng nguồn lực một cách sáng suốt đã cứu được dự án."
+ },
+ {
+  "word": "accelerate",
+  "ipa": "/əkˈseləreɪt/",
+  "pos": "verb",
+  "definition": "to make something happen faster or earlier",
+  "example": "The new policy is designed to accelerate economic growth.",
+  "vi": "thúc đẩy, tăng tốc",
+  "exampleVi": "Chính sách mới được thiết kế để thúc đẩy tăng trưởng kinh tế."
+ },
+ {
+  "word": "evaluate",
+  "ipa": "/ɪˈvæljueɪt/",
+  "pos": "verb",
+  "definition": "to judge the value, quality, or importance of something",
+  "example": "We need to evaluate the results carefully.",
+  "vi": "đánh giá, thẩm định",
+  "exampleVi": "Chúng ta cần đánh giá kết quả một cách cẩn thận."
+ },
+ {
+  "word": "sophisticated",
+  "ipa": "/səˈfɪs.tɪ.keɪ.tɪd/",
+  "pos": "adjective",
+  "definition": "highly developed and complex; or worldly and refined",
+  "example": "The bank uses sophisticated software to detect fraud.",
+  "vi": "tinh vi, phức tạp; sành điệu",
+  "exampleVi": "Ngân hàng sử dụng phần mềm tinh vi để phát hiện gian lận."
+ },
+ {
+  "word": "trivial",
+  "ipa": "/ˈtrɪv.i.əl/",
+  "pos": "adjective",
+  "definition": "of little value or importance",
+  "example": "Don't waste time arguing about trivial matters.",
+  "vi": "tầm thường, vặt vãnh",
+  "exampleVi": "Đừng lãng phí thời gian tranh cãi về những chuyện vặt vãnh."
+ },
+ {
+  "word": "vibrant",
+  "ipa": "/ˈvaɪ.brənt/",
+  "pos": "adjective",
+  "definition": "full of energy and life",
+  "example": "Hanoi has a vibrant street food culture.",
+  "vi": "sôi động, rực rỡ",
+  "exampleVi": "Hà Nội có nền văn hóa ẩm thực đường phố sôi động."
+ },
+ {
+  "word": "venture",
+  "ipa": "/ˈven.tʃər/",
+  "pos": "noun",
+  "definition": "a risky or daring undertaking, especially a new business",
+  "example": "Their joint venture expanded into three new markets.",
+  "vi": "dự án kinh doanh mạo hiểm",
+  "exampleVi": "Liên doanh của họ đã mở rộng sang ba thị trường mới."
+ },
+ {
+  "word": "essential",
+  "ipa": "/ɪˈsenʃl/",
+  "pos": "adjective",
+  "definition": "absolutely necessary; extremely important",
+  "example": "Water is essential for life.",
+  "vi": "thiết yếu, cần thiết",
+  "exampleVi": "Nước là thứ thiết yếu cho sự sống."
+ },
+ {
+  "word": "denounce",
+  "ipa": "/dɪˈnaʊns/",
+  "pos": "verb",
+  "definition": "to publicly criticise something as wrong",
+  "example": "Leaders around the world denounced the attack.",
+  "vi": "lên án, tố cáo",
+  "exampleVi": "Các nhà lãnh đạo trên khắp thế giới đã lên án vụ tấn công."
+ },
+ {
+  "word": "discreet",
+  "ipa": "/dɪˈskriːt/",
+  "pos": "adjective",
+  "definition": "careful not to attract attention or reveal private information",
+  "example": "You can rely on him to be discreet.",
+  "vi": "kín đáo, thận trọng",
+  "exampleVi": "Bạn có thể tin tưởng rằng anh ấy sẽ kín đáo."
+ },
+ {
+  "word": "unanimous",
+  "ipa": "/juːˈnæn.ɪ.məs/",
+  "pos": "adjective",
+  "definition": "fully agreed on by everyone involved",
+  "example": "The board reached a unanimous decision.",
+  "vi": "nhất trí",
+  "exampleVi": "Hội đồng quản trị đã đi đến một quyết định nhất trí."
+ },
+ {
+  "word": "validate",
+  "ipa": "/ˈvæl.ɪ.deɪt/",
+  "pos": "verb",
+  "definition": "to check or prove that something is correct or acceptable",
+  "example": "We need more data to validate the hypothesis.",
+  "vi": "xác nhận, kiểm chứng",
+  "exampleVi": "Chúng ta cần thêm dữ liệu để kiểm chứng giả thuyết."
+ },
+ {
+  "word": "obscure",
+  "ipa": "/əbˈskjʊər/",
+  "pos": "adjective",
+  "definition": "not well known or not clearly understood",
+  "example": "The poem contains many obscure references.",
+  "vi": "ít người biết, tối nghĩa",
+  "exampleVi": "Bài thơ chứa nhiều điển tích ít người biết đến."
+ },
+ {
+  "word": "hectic",
+  "ipa": "/ˈhektɪk/",
+  "pos": "adjective",
+  "definition": "full of busy and confusing activity",
+  "example": "It's been a hectic week at the office.",
+  "vi": "bận rộn, hối hả",
+  "exampleVi": "Tuần này ở văn phòng thật bận rộn."
+ },
+ {
+  "word": "mediocre",
+  "ipa": "/ˌmiː.diˈəʊ.kər/",
+  "pos": "adjective",
+  "definition": "of only average or fairly low quality",
+  "example": "The film received mediocre reviews.",
+  "vi": "tầm thường, xoàng",
+  "exampleVi": "Bộ phim nhận được những đánh giá tầm thường."
+ },
+ {
+  "word": "perpetuate",
+  "ipa": "/pəˈpetʃ.u.eɪt/",
+  "pos": "verb",
+  "definition": "to cause something, often bad, to continue indefinitely",
+  "example": "Such films perpetuate harmful stereotypes.",
+  "vi": "duy trì, kéo dài mãi",
+  "exampleVi": "Những bộ phim như vậy duy trì mãi các định kiến có hại."
+ },
+ {
+  "word": "nonchalant",
+  "ipa": "/ˈnɒn.ʃəl.ənt/",
+  "pos": "adjective",
+  "definition": "appearing calm and relaxed, not showing anxiety or interest",
+  "example": "He was surprisingly nonchalant about losing his job.",
+  "vi": "thờ ơ, bình thản",
+  "exampleVi": "Anh ấy bình thản một cách đáng ngạc nhiên khi bị mất việc."
+ },
+ {
+  "word": "devise",
+  "ipa": "/dɪˈvaɪz/",
+  "pos": "verb",
+  "definition": "to plan or invent something carefully",
+  "example": "Engineers devised a new method for testing.",
+  "vi": "nghĩ ra, sáng chế",
+  "exampleVi": "Các kỹ sư đã nghĩ ra một phương pháp kiểm thử mới."
+ },
+ {
+  "word": "resilient",
+  "ipa": "/rɪˈzɪl.i.ənt/",
+  "pos": "adjective",
+  "definition": "able to recover quickly from difficulties",
+  "example": "Children are often more resilient than adults expect.",
+  "vi": "kiên cường, có khả năng phục hồi",
+  "exampleVi": "Trẻ em thường kiên cường hơn so với người lớn nghĩ."
+ },
+ {
+  "word": "sustainable",
+  "ipa": "/səˈsteɪ.nə.bəl/",
+  "pos": "adjective",
+  "definition": "able to be maintained without harming the environment or depleting resources",
+  "example": "The company is committed to sustainable growth.",
+  "vi": "bền vững",
+  "exampleVi": "Công ty cam kết tăng trưởng bền vững."
+ },
+ {
+  "word": "serendipity",
+  "ipa": "/ˌser.ənˈdɪp.ə.ti/",
+  "pos": "noun",
+  "definition": "the occurrence of fortunate events by chance",
+  "example": "By pure serendipity, they met on the same flight.",
+  "vi": "sự tình cờ may mắn",
+  "exampleVi": "Thật tình cờ may mắn, họ gặp nhau trên cùng một chuyến bay."
+ },
+ {
+  "word": "exemplify",
+  "ipa": "/ɪɡˈzemplɪfaɪ/",
+  "pos": "verb",
+  "definition": "to be a typical example of something",
+  "example": "Her work exemplifies the company's values.",
+  "vi": "minh họa, là điển hình của",
+  "exampleVi": "Công việc của cô ấy là điển hình cho các giá trị của công ty."
+ },
+ {
+  "word": "tentative",
+  "ipa": "/ˈten.tə.tɪv/",
+  "pos": "adjective",
+  "definition": "not certain or fixed; provisional",
+  "example": "We have a tentative agreement to meet on Friday.",
+  "vi": "tạm thời, chưa chắc chắn",
+  "exampleVi": "Chúng tôi đã tạm thời thống nhất sẽ gặp nhau vào thứ Sáu."
+ },
+ {
+  "word": "qualm",
+  "ipa": "/kwɑːm/",
+  "pos": "noun",
+  "definition": "a feeling of doubt or unease, especially about one's conduct",
+  "example": "She had no qualms about speaking up.",
+  "vi": "sự e ngại, băn khoăn",
+  "exampleVi": "Cô ấy không hề e ngại khi lên tiếng."
+ },
+ {
+  "word": "kindle",
+  "ipa": "/ˈkɪndl/",
+  "pos": "verb",
+  "definition": "to arouse or inspire an emotion or interest",
+  "example": "The trip kindled her interest in history.",
+  "vi": "khơi dậy, nhen nhóm",
+  "exampleVi": "Chuyến đi đã khơi dậy niềm yêu thích lịch sử trong cô ấy."
+ },
+ {
+  "word": "utmost",
+  "ipa": "/ˈʌt.məʊst/",
+  "pos": "adjective",
+  "definition": "greatest; most extreme",
+  "example": "This matter is of the utmost importance.",
+  "vi": "tột bậc, hết sức",
+  "exampleVi": "Vấn đề này có tầm quan trọng tột bậc."
+ },
+ {
+  "word": "nimble",
+  "ipa": "/ˈnɪm.bəl/",
+  "pos": "adjective",
+  "definition": "quick and light in movement or thinking",
+  "example": "Small companies are often more nimble than large corporations.",
+  "vi": "nhanh nhẹn, linh hoạt",
+  "exampleVi": "Các công ty nhỏ thường linh hoạt hơn các tập đoàn lớn."
+ },
+ {
+  "word": "durable",
+  "ipa": "/ˈdjʊərəbl/",
+  "pos": "adjective",
+  "definition": "able to last a long time without breaking",
+  "example": "These boots are made of durable leather.",
+  "vi": "bền, lâu bền",
+  "exampleVi": "Đôi bốt này được làm bằng da bền."
+ },
+ {
+  "word": "sentiment",
+  "ipa": "/ˈsen.tɪ.mənt/",
+  "pos": "noun",
+  "definition": "a view, opinion, or feeling about something",
+  "example": "Market sentiment turned negative after the announcement.",
+  "vi": "tâm lý, quan điểm, tình cảm",
+  "exampleVi": "Tâm lý thị trường chuyển sang tiêu cực sau thông báo."
+ },
+ {
+  "word": "assumption",
+  "ipa": "/əˈsʌmpʃn/",
+  "pos": "noun",
+  "definition": "something accepted as true without proof",
+  "example": "Your argument is based on a false assumption.",
+  "vi": "giả định, sự cho rằng",
+  "exampleVi": "Lập luận của bạn dựa trên một giả định sai lầm."
+ },
+ {
+  "word": "gruelling",
+  "ipa": "/ˈɡruːəlɪŋ/",
+  "pos": "adjective",
+  "definition": "extremely tiring and demanding",
+  "example": "The marathon was a gruelling test of endurance.",
+  "vi": "mệt nhọc, khắc nghiệt",
+  "exampleVi": "Cuộc chạy marathon là một thử thách sức bền khắc nghiệt."
+ },
+ {
+  "word": "gist",
+  "ipa": "/dʒɪst/",
+  "pos": "noun",
+  "definition": "the main or general meaning of something",
+  "example": "I didn't understand every word, but I got the gist.",
+  "vi": "ý chính, đại ý",
+  "exampleVi": "Tôi không hiểu hết từng từ, nhưng tôi nắm được ý chính."
+ },
+ {
+  "word": "conventional",
+  "ipa": "/kənˈvenʃənl/",
+  "pos": "adjective",
+  "definition": "following traditional or accepted standards",
+  "example": "She chose a conventional career in banking.",
+  "vi": "truyền thống, thông thường",
+  "exampleVi": "Cô ấy chọn một sự nghiệp truyền thống trong ngành ngân hàng."
+ },
+ {
+  "word": "emphasize",
+  "ipa": "/ˈemfəsaɪz/",
+  "pos": "verb",
+  "definition": "to give special importance to something",
+  "example": "The report emphasizes the need for reform.",
+  "vi": "nhấn mạnh",
+  "exampleVi": "Báo cáo nhấn mạnh sự cần thiết của cải cách."
+ },
+ {
+  "word": "jeopardize",
+  "ipa": "/ˈdʒepədaɪz/",
+  "pos": "verb",
+  "definition": "to put something at risk of being harmed or lost",
+  "example": "One mistake could jeopardize your career.",
+  "vi": "gây nguy hiểm, đe dọa",
+  "exampleVi": "Chỉ một sai lầm cũng có thể đe dọa sự nghiệp của bạn."
+ },
+ {
+  "word": "blatant",
+  "ipa": "/ˈbleɪtnt/",
+  "pos": "adjective",
+  "definition": "very obvious and done openly without shame",
+  "example": "It was a blatant attempt to avoid paying taxes.",
+  "vi": "trắng trợn, lộ liễu",
+  "exampleVi": "Đó là một nỗ lực trốn thuế trắng trợn."
+ },
+ {
+  "word": "acquire",
+  "ipa": "/əˈkwaɪə(r)/",
+  "pos": "verb",
+  "definition": "to obtain or gain something, such as a skill or property",
+  "example": "She acquired fluent French while working in Paris.",
+  "vi": "đạt được, thu được",
+  "exampleVi": "Cô ấy đã đạt được khả năng nói tiếng Pháp trôi chảy khi làm việc ở Paris."
+ },
+ {
+  "word": "assert",
+  "ipa": "/əˈsɜːt/",
+  "pos": "verb",
+  "definition": "to state something confidently and forcefully",
+  "example": "He asserted that the claims were false.",
+  "vi": "khẳng định, quả quyết",
+  "exampleVi": "Anh ấy khẳng định rằng những cáo buộc đó là sai sự thật."
+ },
+ {
+  "word": "overt",
+  "ipa": "/əʊˈvɜːt/",
+  "pos": "adjective",
+  "definition": "done or shown openly; not secret",
+  "example": "There was overt hostility between the two teams.",
+  "vi": "công khai, rõ ràng",
+  "exampleVi": "Giữa hai đội có sự thù địch công khai."
+ },
+ {
+  "word": "paramount",
+  "ipa": "/ˈpær.ə.maʊnt/",
+  "pos": "adjective",
+  "definition": "more important than anything else",
+  "example": "Customer safety is of paramount importance.",
+  "vi": "tối quan trọng",
+  "exampleVi": "Sự an toàn của khách hàng là điều tối quan trọng."
+ },
+ {
+  "word": "commodity",
+  "ipa": "/kəˈmɒdəti/",
+  "pos": "noun",
+  "definition": "a product or raw material that can be bought and sold",
+  "example": "Oil is one of the world's most traded commodities.",
+  "vi": "hàng hóa",
+  "exampleVi": "Dầu mỏ là một trong những loại hàng hóa được giao dịch nhiều nhất thế giới."
+ },
+ {
+  "word": "nostalgia",
+  "ipa": "/nɒsˈtæl.dʒə/",
+  "pos": "noun",
+  "definition": "a wistful longing for a period in the past",
+  "example": "The old photos filled her with nostalgia.",
+  "vi": "nỗi hoài niệm",
+  "exampleVi": "Những bức ảnh cũ khiến cô ấy tràn ngập nỗi hoài niệm."
+ },
+ {
+  "word": "fathom",
+  "ipa": "/ˈfæðəm/",
+  "pos": "verb",
+  "definition": "to understand something difficult after thinking carefully",
+  "example": "I can't fathom why he quit his job.",
+  "vi": "thấu hiểu, hiểu thấu",
+  "exampleVi": "Tôi không thể hiểu thấu vì sao anh ấy lại nghỉ việc."
+ },
+ {
+  "word": "equitable",
+  "ipa": "/ˈekwɪtəbl/",
+  "pos": "adjective",
+  "definition": "fair and impartial",
+  "example": "We need a more equitable distribution of wealth.",
+  "vi": "công bằng, hợp lý",
+  "exampleVi": "Chúng ta cần một sự phân phối của cải công bằng hơn."
+ },
+ {
+  "word": "meander",
+  "ipa": "/miˈæn.dər/",
+  "pos": "verb",
+  "definition": "to follow a winding course or move aimlessly",
+  "example": "The river meanders through the valley.",
+  "vi": "uốn khúc, đi lang thang",
+  "exampleVi": "Dòng sông uốn khúc qua thung lũng."
+ },
+ {
+  "word": "tenable",
+  "ipa": "/ˈten.ə.bəl/",
+  "pos": "adjective",
+  "definition": "able to be maintained or defended against criticism",
+  "example": "His argument is no longer tenable given the new evidence.",
+  "vi": "có thể bảo vệ được, vững",
+  "exampleVi": "Với bằng chứng mới, lập luận của anh ta không còn đứng vững được nữa."
+ },
+ {
+  "word": "tangible",
+  "ipa": "/ˈtæn.dʒə.bəl/",
+  "pos": "adjective",
+  "definition": "real and able to be shown, touched, or measured",
+  "example": "The training produced tangible results.",
+  "vi": "hữu hình, cụ thể",
+  "exampleVi": "Khóa đào tạo đã mang lại những kết quả cụ thể."
+ },
+ {
+  "word": "impeccable",
+  "ipa": "/ɪmˈpekəbl/",
+  "pos": "adjective",
+  "definition": "without any faults; perfect",
+  "example": "She has impeccable manners.",
+  "vi": "hoàn hảo, không chê vào đâu được",
+  "exampleVi": "Cô ấy có cách cư xử hoàn hảo, không chê vào đâu được."
+ },
+ {
+  "word": "complacent",
+  "ipa": "/kəmˈpleɪsnt/",
+  "pos": "adjective",
+  "definition": "too satisfied with oneself to see risks or need for improvement",
+  "example": "We can't afford to become complacent after one success.",
+  "vi": "tự mãn",
+  "exampleVi": "Chúng ta không thể tự mãn chỉ sau một thành công."
+ },
+ {
+  "word": "monotonous",
+  "ipa": "/məˈnɒt.ən.əs/",
+  "pos": "adjective",
+  "definition": "dull because of being unchanging and repetitive",
+  "example": "The work on the assembly line was monotonous.",
+  "vi": "đơn điệu, nhàm chán",
+  "exampleVi": "Công việc trên dây chuyền lắp ráp thật đơn điệu."
+ },
+ {
+  "word": "feasible",
+  "ipa": "/ˈfiːzəbl/",
+  "pos": "adjective",
+  "definition": "possible and practical to do",
+  "example": "It is not feasible to finish the project by Friday.",
+  "vi": "khả thi",
+  "exampleVi": "Việc hoàn thành dự án trước thứ Sáu là không khả thi."
+ },
+ {
+  "word": "thrive",
+  "ipa": "/θraɪv/",
+  "pos": "verb",
+  "definition": "to grow, develop, or succeed well",
+  "example": "Some people thrive under pressure.",
+  "vi": "phát triển mạnh, thịnh vượng",
+  "exampleVi": "Một số người làm việc rất tốt khi chịu áp lực."
+ },
+ {
+  "word": "ascertain",
+  "ipa": "/ˌæsəˈteɪn/",
+  "pos": "verb",
+  "definition": "to find out something for certain",
+  "example": "Police are trying to ascertain the cause of the fire.",
+  "vi": "xác định, làm rõ",
+  "exampleVi": "Cảnh sát đang cố gắng xác định nguyên nhân vụ cháy."
+ },
+ {
+  "word": "imply",
+  "ipa": "/ɪmˈplaɪ/",
+  "pos": "verb",
+  "definition": "to suggest something without saying it directly",
+  "example": "Are you implying that I'm lying?",
+  "vi": "ngụ ý, ám chỉ",
+  "exampleVi": "Bạn đang ngụ ý rằng tôi nói dối sao?"
+ },
+ {
+  "word": "whimsical",
+  "ipa": "/ˈwɪm.zɪ.kəl/",
+  "pos": "adjective",
+  "definition": "playfully quaint or fanciful, especially in an appealing way",
+  "example": "The café is decorated in a whimsical style.",
+  "vi": "kỳ quặc, ngộ nghĩnh",
+  "exampleVi": "Quán cà phê được trang trí theo phong cách ngộ nghĩnh."
+ },
+ {
+  "word": "ambitious",
+  "ipa": "/æmˈbɪʃəs/",
+  "pos": "adjective",
+  "definition": "having a strong desire for success; requiring great effort",
+  "example": "They have set an ambitious target for next year.",
+  "vi": "đầy tham vọng",
+  "exampleVi": "Họ đã đặt ra một mục tiêu đầy tham vọng cho năm tới."
+ },
+ {
+  "word": "compromise",
+  "ipa": "/ˈkɒmprəmaɪz/",
+  "pos": "noun",
+  "definition": "an agreement in which each side gives up something",
+  "example": "After hours of talks, they reached a compromise.",
+  "vi": "sự thỏa hiệp",
+  "exampleVi": "Sau nhiều giờ đàm phán, họ đã đạt được một thỏa hiệp."
+ },
+ {
+  "word": "dynamic",
+  "ipa": "/daɪˈnæmɪk/",
+  "pos": "adjective",
+  "definition": "full of energy and new ideas; constantly changing",
+  "example": "She is a dynamic and inspiring leader.",
+  "vi": "năng động, sôi nổi",
+  "exampleVi": "Cô ấy là một nhà lãnh đạo năng động và truyền cảm hứng."
+ },
+ {
+  "word": "frivolous",
+  "ipa": "/ˈfrɪvələs/",
+  "pos": "adjective",
+  "definition": "not serious; silly or wasteful",
+  "example": "The court dismissed the frivolous lawsuit.",
+  "vi": "phù phiếm, vớ vẩn",
+  "exampleVi": "Tòa án đã bác bỏ vụ kiện vớ vẩn."
+ },
+ {
+  "word": "circumvent",
+  "ipa": "/ˌsɜːkəmˈvent/",
+  "pos": "verb",
+  "definition": "to find a way around a rule or obstacle",
+  "example": "They tried to circumvent the regulations.",
+  "vi": "lách, né tránh",
+  "exampleVi": "Họ đã tìm cách lách các quy định."
+ },
+ {
+  "word": "impede",
+  "ipa": "/ɪmˈpiːd/",
+  "pos": "verb",
+  "definition": "to slow down or block progress",
+  "example": "Heavy traffic impeded our journey.",
+  "vi": "cản trở, ngăn cản",
+  "exampleVi": "Giao thông đông đúc đã cản trở hành trình của chúng tôi."
+ },
+ {
+  "word": "aggravate",
+  "ipa": "/ˈæɡrəveɪt/",
+  "pos": "verb",
+  "definition": "to make a problem or situation worse",
+  "example": "Stress can aggravate many health conditions.",
+  "vi": "làm trầm trọng thêm",
+  "exampleVi": "Căng thẳng có thể làm trầm trọng thêm nhiều bệnh lý."
+ },
+ {
+  "word": "endorse",
+  "ipa": "/ɪnˈdɔːs/",
+  "pos": "verb",
+  "definition": "to publicly approve or support someone or something",
+  "example": "The plan was endorsed by the board.",
+  "vi": "tán thành, ủng hộ",
+  "exampleVi": "Kế hoạch đã được hội đồng quản trị tán thành."
+ },
+ {
+  "word": "malleable",
+  "ipa": "/ˈmæl.i.ə.bəl/",
+  "pos": "adjective",
+  "definition": "easily influenced, shaped, or changed",
+  "example": "Young children have remarkably malleable minds.",
+  "vi": "dễ uốn nắn, dễ thay đổi",
+  "exampleVi": "Trẻ nhỏ có tâm trí dễ uốn nắn một cách đáng kinh ngạc."
+ },
+ {
+  "word": "empathy",
+  "ipa": "/ˈempəθi/",
+  "pos": "noun",
+  "definition": "the ability to understand and share another person's feelings",
+  "example": "Good doctors show empathy towards their patients.",
+  "vi": "sự đồng cảm",
+  "exampleVi": "Bác sĩ giỏi luôn thể hiện sự đồng cảm với bệnh nhân."
+ },
+ {
+  "word": "demeanour",
+  "ipa": "/dɪˈmiːnə(r)/",
+  "pos": "noun",
+  "definition": "the way a person behaves or appears to others",
+  "example": "Her calm demeanour reassured the patients.",
+  "vi": "phong thái, thái độ",
+  "exampleVi": "Phong thái điềm tĩnh của cô ấy khiến bệnh nhân yên tâm."
+ },
+ {
+  "word": "ephemeral",
+  "ipa": "/ɪˈfemərəl/",
+  "pos": "adjective",
+  "definition": "lasting for a very short time",
+  "example": "Fame on social media is often ephemeral.",
+  "vi": "phù du, chóng tàn",
+  "exampleVi": "Sự nổi tiếng trên mạng xã hội thường chóng tàn."
+ },
+ {
+  "word": "emerge",
+  "ipa": "/iˈmɜːdʒ/",
+  "pos": "verb",
+  "definition": "to appear or become known",
+  "example": "New evidence has emerged in the case.",
+  "vi": "xuất hiện, nổi lên",
+  "exampleVi": "Bằng chứng mới đã xuất hiện trong vụ án."
+ },
+ {
+  "word": "longevity",
+  "ipa": "/lɒnˈdʒevəti/",
+  "pos": "noun",
+  "definition": "long life or long duration",
+  "example": "The brand's longevity is due to its quality.",
+  "vi": "tuổi thọ, sự lâu bền",
+  "exampleVi": "Sự lâu bền của thương hiệu là nhờ vào chất lượng."
+ },
+ {
+  "word": "pivotal",
+  "ipa": "/ˈpɪv.ə.təl/",
+  "pos": "adjective",
+  "definition": "of crucial importance to the success or development of something",
+  "example": "She played a pivotal role in closing the deal.",
+  "vi": "then chốt, quan trọng",
+  "exampleVi": "Cô ấy đóng vai trò then chốt trong việc chốt thương vụ."
+ },
+ {
+  "word": "intrinsic",
+  "ipa": "/ɪnˈtrɪnsɪk/",
+  "pos": "adjective",
+  "definition": "belonging naturally to something; essential",
+  "example": "The ring has little intrinsic value.",
+  "vi": "nội tại, bản chất",
+  "exampleVi": "Chiếc nhẫn có rất ít giá trị nội tại."
+ },
+ {
+  "word": "preliminary",
+  "ipa": "/prɪˈlɪm.ɪ.nər.i/",
+  "pos": "adjective",
+  "definition": "coming before a more important action or event",
+  "example": "Preliminary results suggest the treatment is effective.",
+  "vi": "sơ bộ, mở đầu",
+  "exampleVi": "Kết quả sơ bộ cho thấy phương pháp điều trị có hiệu quả."
+ },
+ {
+  "word": "stringent",
+  "ipa": "/ˈstrɪn.dʒənt/",
+  "pos": "adjective",
+  "definition": "strict, precise, and exacting",
+  "example": "The industry is subject to stringent safety regulations.",
+  "vi": "nghiêm ngặt, khắt khe",
+  "exampleVi": "Ngành này phải tuân thủ các quy định an toàn nghiêm ngặt."
+ },
+ {
+  "word": "unravel",
+  "ipa": "/ʌnˈræv.əl/",
+  "pos": "verb",
+  "definition": "to solve or explain something complicated; or to fall apart",
+  "example": "Detectives worked to unravel the mystery.",
+  "vi": "làm sáng tỏ; tan rã",
+  "exampleVi": "Các thám tử đã nỗ lực làm sáng tỏ bí ẩn."
+ },
+ {
+  "word": "accurate",
+  "ipa": "/ˈækjərət/",
+  "pos": "adjective",
+  "definition": "correct and exact in every detail",
+  "example": "Please make sure the figures in the report are accurate.",
+  "vi": "chính xác",
+  "exampleVi": "Vui lòng đảm bảo các số liệu trong báo cáo là chính xác."
+ },
+ {
+  "word": "accommodate",
+  "ipa": "/əˈkɒmədeɪt/",
+  "pos": "verb",
+  "definition": "to provide space for; to adapt to someone's needs",
+  "example": "The hotel can accommodate up to 500 guests.",
+  "vi": "đáp ứng, chứa được",
+  "exampleVi": "Khách sạn có thể chứa được tới 500 khách."
+ },
+ {
+  "word": "cultivate",
+  "ipa": "/ˈkʌltɪveɪt/",
+  "pos": "verb",
+  "definition": "to develop a skill, relationship, or quality",
+  "example": "It takes time to cultivate trust with clients.",
+  "vi": "nuôi dưỡng, trau dồi",
+  "exampleVi": "Cần có thời gian để nuôi dưỡng lòng tin với khách hàng."
+ },
+ {
+  "word": "genuine",
+  "ipa": "/ˈdʒenjuɪn/",
+  "pos": "adjective",
+  "definition": "truly what it is said to be; sincere",
+  "example": "She showed genuine concern for others.",
+  "vi": "chân thành, thật sự",
+  "exampleVi": "Cô ấy thể hiện sự quan tâm chân thành đến người khác."
+ },
+ {
+  "word": "hazardous",
+  "ipa": "/ˈhæzədəs/",
+  "pos": "adjective",
+  "definition": "dangerous, especially to health or safety",
+  "example": "Workers must wear protective gear when handling hazardous materials.",
+  "vi": "nguy hiểm, độc hại",
+  "exampleVi": "Công nhân phải mặc đồ bảo hộ khi xử lý vật liệu nguy hiểm."
+ },
+ {
+  "word": "gullible",
+  "ipa": "/ˈɡʌləbl/",
+  "pos": "adjective",
+  "definition": "easily tricked into believing something",
+  "example": "Gullible people often fall for online scams.",
+  "vi": "cả tin, dễ bị lừa",
+  "exampleVi": "Những người cả tin thường dễ mắc bẫy lừa đảo trực tuyến."
+ },
+ {
+  "word": "scrupulous",
+  "ipa": "/ˈskruː.pjə.ləs/",
+  "pos": "adjective",
+  "definition": "very careful to be honest and do what is right",
+  "example": "He is scrupulous about keeping his promises.",
+  "vi": "cẩn trọng, liêm chính",
+  "exampleVi": "Anh ấy rất cẩn trọng trong việc giữ lời hứa."
+ },
+ {
+  "word": "brisk",
+  "ipa": "/brɪsk/",
+  "pos": "adjective",
+  "definition": "quick, energetic, and active",
+  "example": "We went for a brisk walk after dinner.",
+  "vi": "nhanh nhẹn, hoạt bát",
+  "exampleVi": "Chúng tôi đi bộ nhanh sau bữa tối."
+ },
+ {
+  "word": "vivid",
+  "ipa": "/ˈvɪv.ɪd/",
+  "pos": "adjective",
+  "definition": "producing strong, clear images in the mind; very bright",
+  "example": "She gave a vivid description of the festival.",
+  "vi": "sống động, rực rỡ",
+  "exampleVi": "Cô ấy đã miêu tả lễ hội một cách sống động."
+ },
+ {
+  "word": "arbitrary",
+  "ipa": "/ˈɑːbɪtrəri/",
+  "pos": "adjective",
+  "definition": "based on random choice or personal whim rather than reason",
+  "example": "The decision seemed completely arbitrary.",
+  "vi": "tùy tiện, độc đoán",
+  "exampleVi": "Quyết định đó có vẻ hoàn toàn tùy tiện."
+ },
+ {
+  "word": "pertinent",
+  "ipa": "/ˈpɜː.tɪ.nənt/",
+  "pos": "adjective",
+  "definition": "relevant or applicable to a particular matter",
+  "example": "Please keep your questions pertinent to the topic.",
+  "vi": "thích hợp, liên quan",
+  "exampleVi": "Vui lòng đặt những câu hỏi liên quan đến chủ đề."
+ },
+ {
+  "word": "robust",
+  "ipa": "/rəʊˈbʌst/",
+  "pos": "adjective",
+  "definition": "strong and able to withstand difficulties or pressure",
+  "example": "We need a robust system that can handle heavy traffic.",
+  "vi": "vững chắc, mạnh mẽ",
+  "exampleVi": "Chúng ta cần một hệ thống vững chắc có thể xử lý lưu lượng truy cập lớn."
+ },
+ {
+  "word": "innate",
+  "ipa": "/ɪˈneɪt/",
+  "pos": "adjective",
+  "definition": "existing from birth; natural",
+  "example": "She has an innate talent for music.",
+  "vi": "bẩm sinh",
+  "exampleVi": "Cô ấy có năng khiếu âm nhạc bẩm sinh."
+ },
+ {
+  "word": "refute",
+  "ipa": "/rɪˈfjuːt/",
+  "pos": "verb",
+  "definition": "to prove that a statement or theory is wrong",
+  "example": "The scientist refuted the claim with new data.",
+  "vi": "bác bỏ",
+  "exampleVi": "Nhà khoa học đã bác bỏ tuyên bố đó bằng dữ liệu mới."
+ },
+ {
+  "word": "benchmark",
+  "ipa": "/ˈbentʃmɑːk/",
+  "pos": "noun",
+  "definition": "a standard against which others can be measured",
+  "example": "This test is a benchmark for computer performance.",
+  "vi": "tiêu chuẩn, chuẩn mực",
+  "exampleVi": "Bài kiểm tra này là tiêu chuẩn đánh giá hiệu năng máy tính."
+ },
+ {
+  "word": "embark",
+  "ipa": "/ɪmˈbɑːk/",
+  "pos": "verb",
+  "definition": "to begin something new and important",
+  "example": "She embarked on a career in journalism.",
+  "vi": "bắt tay vào, khởi đầu",
+  "exampleVi": "Cô ấy bắt đầu sự nghiệp trong ngành báo chí."
+ },
+ {
+  "word": "conducive",
+  "ipa": "/kənˈdjuːsɪv/",
+  "pos": "adjective",
+  "definition": "providing the right conditions for something to happen",
+  "example": "A quiet room is conducive to studying.",
+  "vi": "có lợi cho, thuận lợi cho",
+  "exampleVi": "Một căn phòng yên tĩnh rất thuận lợi cho việc học."
+ },
+ {
+  "word": "delegate",
+  "ipa": "/ˈdelɪɡeɪt/",
+  "pos": "verb",
+  "definition": "to give part of one's work or authority to someone else",
+  "example": "A good manager knows how to delegate tasks.",
+  "vi": "ủy quyền, giao phó",
+  "exampleVi": "Một nhà quản lý giỏi biết cách giao phó công việc."
+ },
+ {
+  "word": "deficient",
+  "ipa": "/dɪˈfɪʃnt/",
+  "pos": "adjective",
+  "definition": "not having enough of something necessary",
+  "example": "His diet is deficient in vitamin D.",
+  "vi": "thiếu hụt",
+  "exampleVi": "Chế độ ăn của anh ấy bị thiếu hụt vitamin D."
+ },
+ {
+  "word": "hamper",
+  "ipa": "/ˈhæmpə(r)/",
+  "pos": "verb",
+  "definition": "to prevent something from progressing easily",
+  "example": "Bad weather hampered rescue efforts.",
+  "vi": "cản trở, gây khó khăn",
+  "exampleVi": "Thời tiết xấu đã cản trở các nỗ lực cứu hộ."
+ },
+ {
+  "word": "tenacious",
+  "ipa": "/təˈneɪ.ʃəs/",
+  "pos": "adjective",
+  "definition": "very determined; not giving up easily",
+  "example": "Her tenacious efforts eventually won the contract.",
+  "vi": "kiên trì, bền bỉ",
+  "exampleVi": "Những nỗ lực bền bỉ của cô ấy cuối cùng đã giành được hợp đồng."
+ },
+ {
+  "word": "retrospect",
+  "ipa": "/ˈret.rə.spekt/",
+  "pos": "noun",
+  "definition": "a review or consideration of past events",
+  "example": "In retrospect, I should have accepted the offer.",
+  "vi": "sự nhìn lại, hồi tưởng",
+  "exampleVi": "Nhìn lại, lẽ ra tôi nên chấp nhận lời đề nghị đó."
+ },
+ {
+  "word": "benign",
+  "ipa": "/bɪˈnaɪn/",
+  "pos": "adjective",
+  "definition": "gentle and kind; not harmful",
+  "example": "Fortunately, the tumour was benign.",
+  "vi": "lành tính, hiền hòa",
+  "exampleVi": "May mắn thay, khối u là lành tính."
+ },
+ {
+  "word": "deter",
+  "ipa": "/dɪˈtɜː(r)/",
+  "pos": "verb",
+  "definition": "to discourage someone from doing something",
+  "example": "High prices may deter customers.",
+  "vi": "ngăn cản, răn đe",
+  "exampleVi": "Giá cao có thể khiến khách hàng chùn bước."
+ },
+ {
+  "word": "integrity",
+  "ipa": "/ɪnˈteɡrəti/",
+  "pos": "noun",
+  "definition": "the quality of being honest and having strong moral principles",
+  "example": "He is a man of great integrity.",
+  "vi": "sự chính trực, liêm chính",
+  "exampleVi": "Anh ấy là một người vô cùng chính trực."
+ },
+ {
+  "word": "inherent",
+  "ipa": "/ɪnˈhɪərənt/",
+  "pos": "adjective",
+  "definition": "existing as a natural or permanent part of something",
+  "example": "There are risks inherent in any investment.",
+  "vi": "vốn có, cố hữu",
+  "exampleVi": "Mọi khoản đầu tư đều có những rủi ro vốn có."
+ },
+ {
+  "word": "voracious",
+  "ipa": "/vəˈreɪ.ʃəs/",
+  "pos": "adjective",
+  "definition": "having a very eager approach to an activity; very hungry",
+  "example": "He is a voracious reader of history books.",
+  "vi": "ham mê, phàm ăn",
+  "exampleVi": "Anh ấy là người ham mê đọc sách lịch sử."
+ },
+ {
+  "word": "consolidate",
+  "ipa": "/kənˈsɒlɪdeɪt/",
+  "pos": "verb",
+  "definition": "to make something stronger or combine into one",
+  "example": "The company plans to consolidate its offices.",
+  "vi": "củng cố, hợp nhất",
+  "exampleVi": "Công ty có kế hoạch hợp nhất các văn phòng."
+ },
+ {
+  "word": "fabricate",
+  "ipa": "/ˈfæbrɪkeɪt/",
+  "pos": "verb",
+  "definition": "to invent false information in order to deceive",
+  "example": "The journalist was fired for fabricating quotes.",
+  "vi": "bịa đặt, ngụy tạo",
+  "exampleVi": "Nhà báo bị sa thải vì bịa đặt các trích dẫn."
+ },
+ {
+  "word": "dilemma",
+  "ipa": "/dɪˈlemə/",
+  "pos": "noun",
+  "definition": "a situation requiring a difficult choice between options",
+  "example": "She faced a dilemma about whether to accept the offer.",
+  "vi": "tình thế khó xử, tiến thoái lưỡng nan",
+  "exampleVi": "Cô ấy rơi vào tình thế khó xử không biết có nên nhận lời đề nghị hay không."
+ },
+ {
+  "word": "procrastinate",
+  "ipa": "/prəˈkræs.tɪ.neɪt/",
+  "pos": "verb",
+  "definition": "to delay or postpone doing something",
+  "example": "I tend to procrastinate when a task feels overwhelming.",
+  "vi": "trì hoãn, chần chừ",
+  "exampleVi": "Tôi thường trì hoãn khi một nhiệm vụ có vẻ quá sức."
+ },
+ {
+  "word": "intricate",
+  "ipa": "/ˈɪntrɪkət/",
+  "pos": "adjective",
+  "definition": "very detailed and complicated",
+  "example": "The carpet has an intricate pattern.",
+  "vi": "phức tạp, rắc rối",
+  "exampleVi": "Tấm thảm có hoa văn phức tạp."
+ },
+ {
+  "word": "abandon",
+  "ipa": "/əˈbændən/",
+  "pos": "verb",
+  "definition": "to leave behind or give up completely",
+  "example": "The team had to abandon the project due to lack of funding.",
+  "vi": "từ bỏ, bỏ rơi",
+  "exampleVi": "Nhóm đã phải từ bỏ dự án do thiếu kinh phí."
+ }
+]

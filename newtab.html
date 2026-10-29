@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="text-scale" content="scale">
+  <title>New Tab</title>
+  <!-- First frame: theme, glass and a blurred photo from the last visit (before the CSS, so it never waits on it). -->
+  <script src="src/boot.js"></script>
+  <link rel="icon" href="icons/icon32.png" type="image/png">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <script type="module" src="src/newtab.js"></script>
+  <!-- The quote face is in the first view: have it ready before the quote is laid out (no reflow). -->
+  <link rel="preload" href="fonts/cormorant-garamond-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preconnect" href="https://images.unsplash.com">
+</head>
+<body>
+  <!-- Background layers: gradient (instant) → photo/video (fades in) → readability overlay -->
+  <div class="bg" aria-hidden="true">
+    <div class="bg-media" id="bg-media"></div>
+    <div class="bg-overlay"></div>
+  </div>
+
+  <div class="app" id="app">
+    <header class="topbar">
+      <div class="topbar-left" id="topbar-left"></div>
+      <nav class="toolbar" id="toolbar" aria-label="Controls"></nav>
+    </header>
+
+    <main class="stage">
+      <aside class="column column-left" id="col-left" aria-label="Left widgets"></aside>
+
+      <section class="center" aria-label="Clock">
+        <div class="date" id="date"></div>
+        <div class="clock" id="clock" aria-live="off"></div>
+        <div class="greeting" id="greeting"></div>
+        <div class="affirmation" id="affirmation" role="button" tabindex="0"></div>
+        <div class="footer-quote center-quote" id="quote"></div>
+      </section>
+
+      <aside class="column column-right" id="col-right" aria-label="Right widgets"></aside>
+    </main>
+
+    <footer class="footer">
+      <div class="signature" id="signature">
+        <span class="sig-more" id="sig-more" aria-hidden="true"></span>
+        <button class="sig-word" id="sig-settings" type="button" aria-label="Calm Tab. Open Settings">Calm Tab</button>
+        <span class="sig-line">Made with <svg class="sig-heart" viewBox="0 0 26 22" width="12" height="10" role="img" aria-label="love"><path pathLength="1" d="M13 20C6 15 2 11 2 6.5 2 3.5 4.5 2 7 2c2.6 0 4.6 1.8 6 4.2C14.4 3.8 16.4 2 19 2c2.5 0 5 1.5 5 4.5C24 11 20 15 13 20Z"/></svg> by <a class="sig-name" href="https://www.linkedin.com/in/quoctuansg/" target="_blank" rel="noopener noreferrer" title="Tom Tran on LinkedIn">Tom Tran</a></span>
+      </div>
+      <div class="footer-credit" id="bg-credit"></div>
+    </footer>
+  </div>
+
+  <div id="sound-popover" class="popover" popover aria-label="Ambient sound"></div>
+  <div id="settings-root"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="text-scale" content="scale">
+  <title>Stay focused</title>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/blocked.css">
+  <script type="module" src="src/blocked.js"></script>
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><div class="bg-overlay"></div></div>
+  <main class="blocked">
+    <div class="blocked-card">
+      <div class="blocked-eyebrow" id="eyebrow">Focus Mode</div>
+      <h1 id="headline">Stay with it.</h1>
+      <p id="message"></p>
+      <div class="blocked-actions">
+        <button class="pill-btn primary" id="back" type="button">Back to focus</button>
+        <button class="pill-btn" id="continue" type="button" hidden>Continue for 5 minutes</button>
+      </div>
+      <p class="muted small" id="until"></p>
+    </div>
+  </main>
+</body>
+</html>

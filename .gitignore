@@ -1,0 +1,4 @@
+# Build output (upload zips are attached to GitHub Releases instead)
+dist/
+.DS_Store
+node_modules/

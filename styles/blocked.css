@@ -1,0 +1,14 @@
+/* Focus Mode interstitial (blocked.html) */
+body { user-select: text; }
+.blocked { position: relative; z-index: 1; height: 100%; display: grid; place-items: center; padding: 2rem; }
+.blocked-card {
+  max-width: 32rem; text-align: center; padding: 3rem 2.5rem;
+  background: var(--glass); -webkit-backdrop-filter: blur(28px) saturate(170%); backdrop-filter: blur(28px) saturate(170%);
+  border: 1px solid var(--glass-border); border-radius: 24px; box-shadow: var(--shadow);
+  animation: fade-up 500ms var(--ease) both;
+}
+.blocked-eyebrow { font-size: 0.75rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-3); }
+.blocked h1 { margin: 0.75rem 0 0.5rem; font-size: 2.5rem; font-weight: 300; letter-spacing: -0.02em; }
+.blocked p { margin: 0 0 1.5rem; color: var(--text-2); line-height: 1.6; }
+.blocked-actions { display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 1rem; }
+.blocked-actions .pill-btn { padding: 0.5rem 1.125rem; font-size: 0.875rem; }

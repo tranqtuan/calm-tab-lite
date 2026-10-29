@@ -1,0 +1,31 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face { font-family: "Cormorant Garamond"; src: url("file:///Users/Tom_Tran/Developer/calm-tab-lite/fonts/cormorant-garamond-latin.woff2") format("woff2"); font-style: italic; font-weight: 300 700; }
+@font-face { font-family: "Cormorant Garamond"; src: url("file:///Users/Tom_Tran/Developer/calm-tab-lite/fonts/cormorant-garamond-vietnamese.woff2") format("woff2"); font-style: italic; font-weight: 300 700; unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB; }
+html,body{margin:0}
+.t{position:relative;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",sans-serif;color:#fff;
+ background: radial-gradient(120% 90% at 78% 12%, rgba(255,205,150,.55), transparent 55%), radial-gradient(90% 80% at 10% 100%, rgba(80,150,130,.45), transparent 60%), linear-gradient(165deg,#5f7f8b 0%,#2c4552 45%,#18252c 100%);}
+.t::after{content:"";position:absolute;left:0;right:0;bottom:0;height:38%;background:linear-gradient(transparent,rgba(10,16,20,.35))}
+.glass{position:relative;z-index:1;display:flex;align-items:center;background:rgba(24,26,32,.28);border:1px solid rgba(255,255,255,.16);backdrop-filter:blur(20px);box-shadow:0 10px 40px rgba(0,0,0,.25),inset 0 1px 0 rgba(255,255,255,.18)}
+.icon{border-radius:50%;box-shadow:0 6px 24px rgba(0,0,0,.3)}
+.word{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-weight:500;line-height:1;letter-spacing:.01em}
+.cap{font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.72)}
+.gold{color:#E8B04B}
+#small{width:440px;height:280px}
+#small .glass{position:absolute;left:28px;right:28px;top:50%;transform:translateY(-50%);padding:22px 24px;gap:18px;border-radius:22px}
+#small .icon{width:72px;height:72px}
+#small .word{font-size:40px}
+#small .cap{font-size:10.5px;margin-top:10px}
+#small .feat{font-size:13px;color:rgba(255,255,255,.86);margin-top:8px}
+#marquee{width:1400px;height:560px}
+#marquee .glass{position:absolute;left:110px;top:50%;transform:translateY(-50%);padding:44px 52px;gap:36px;border-radius:32px}
+#marquee .icon{width:150px;height:150px}
+#marquee .word{font-size:96px}
+#marquee .cap{font-size:15px;margin-top:18px}
+#marquee .feat{font-size:22px;color:rgba(255,255,255,.88);margin-top:14px}
+#marquee .clock{position:absolute;right:120px;top:50%;transform:translateY(-50%);z-index:1;text-align:right;font-weight:200;font-size:170px;line-height:1;letter-spacing:-.02em;text-shadow:0 2px 30px rgba(0,0,0,.25)}
+#marquee .clock small{display:block;font-size:22px;font-weight:400;letter-spacing:0;margin-top:14px;color:rgba(255,255,255,.8)}
+</style></head><body>
+<div class="t" id="small"><div class="glass"><img class="icon" src="file:///Users/Tom_Tran/Developer/calm-tab-lite/icons/icon128.png"><div><div class="word">Calm Tab</div><div class="cap">Lite · New Tab</div><div class="feat">Lịch Âm · Focus · Notes · Calm sounds</div></div></div></div>
+<div class="t" id="marquee"><div class="glass"><img class="icon" src="file:///Users/Tom_Tran/Developer/calm-tab-lite/icons/icon128.png"><div><div class="word">Calm Tab Lite</div><div class="cap">Made with <span class="gold">♥</span> by Tom Tran</div><div class="feat">A calm new tab with Lịch Âm, focus sessions,<br>notes, reminders and ambient sound</div></div></div>
+<div class="clock">9:41<small>Thứ Năm · 20/9 Âm lịch</small></div></div>
+</body></html>

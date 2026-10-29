@@ -1,0 +1,61 @@
+{
+  "manifest_version": 3,
+  "name": "Calm Tab Lite",
+  "short_name": "Calm Tab Lite",
+  "version": "1.1.0",
+  "description": "A calm, simple New Tab: clock, weather, lunar calendar, focus tools, news and daily inspiration in English and Vietnamese.",
+  "minimum_chrome_version": "138",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "background": {
+    "service_worker": "src/background/service-worker.js",
+    "type": "module"
+  },
+  "permissions": [
+    "storage",
+    "alarms",
+    "notifications",
+    "tabs",
+    "idle",
+    "offscreen",
+    "favicon",
+    "scripting"
+  ],
+  "optional_permissions": [
+    "history"
+  ],
+  "host_permissions": [
+    "https://vnexpress.net/*",
+    "https://tuoitre.vn/*",
+    "https://thanhnien.vn/*",
+    "https://dantri.com.vn/*",
+    "https://genk.vn/*",
+    "https://tinhte.vn/*",
+    "https://www.theverge.com/*",
+    "https://techcrunch.com/*",
+    "https://hnrss.org/*",
+    "https://api.producthunt.com/*",
+    "https://www.producthunt.com/*",
+    "https://www.technologyreview.com/*",
+    "https://arstechnica.com/*",
+    "https://openai.com/*",
+    "https://deepmind.google/*",
+    "https://blog.google/*",
+    "https://huggingface.co/*",
+    "https://engineering.fb.com/*",
+    "https://rss.arxiv.org/*"
+  ],
+  "optional_host_permissions": [
+    "https://*/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; script-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self' https: data: blob:; media-src 'self' https: blob:; connect-src 'self' https:; style-src 'self'; font-src 'self'"
+  }
+}

@@ -1,0 +1,2445 @@
+[
+  {
+    "id": "q-01",
+    "type": "question",
+    "title": {
+      "en": "Useless Talent",
+      "vi": "Tài lẻ \"vô dụng\""
+    },
+    "lines": {
+      "en": [
+        "What's the most useless talent you have?"
+      ],
+      "vi": [
+        "Tài lẻ \"vô dụng\" nhất của bạn là gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Go first yourself to set the tone.",
+      "vi": "Hãy kể tài lẻ của bạn trước để mọi người thấy thoải mái."
+    },
+    "keyPhrases": [
+      "I'm weirdly good at…",
+      "It's not useful at all, but…",
+      "Believe it or not,…"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "q-02",
+    "type": "question",
+    "title": {
+      "en": "One Snack Only",
+      "vi": "Chỉ một món ăn vặt"
+    },
+    "lines": {
+      "en": [
+        "If you could eat only one snack for a month,",
+        "what would it be?"
+      ],
+      "vi": [
+        "Nếu cả tháng chỉ được ăn một món ăn vặt,",
+        "bạn sẽ chọn món gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Keep it moving: one answer each, no debate (yet).",
+      "vi": "Giữ nhịp nhanh: mỗi người một câu, tranh luận để sau."
+    },
+    "keyPhrases": [
+      "I could eat … every day.",
+      "I'd go with…",
+      "Hands down,…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday",
+      "client"
+    ]
+  },
+  {
+    "id": "q-03",
+    "type": "question",
+    "title": {
+      "en": "Workday Superpower",
+      "vi": "Siêu năng lực công sở"
+    },
+    "lines": {
+      "en": [
+        "Which superpower would make your workday easier?"
+      ],
+      "vi": [
+        "Siêu năng lực nào sẽ giúp ngày làm việc của bạn nhẹ nhàng hơn?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask a follow-up: \"When would you use it first?\"",
+      "vi": "Hỏi thêm: \"Bạn sẽ dùng nó vào lúc nào đầu tiên?\""
+    },
+    "keyPhrases": [
+      "It would save me so much time.",
+      "I'd use it to…",
+      "If only I could…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "workshop",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "q-04",
+    "type": "question",
+    "title": {
+      "en": "Small Win",
+      "vi": "Chiến thắng nho nhỏ"
+    },
+    "lines": {
+      "en": [
+        "What's one small win from this week?",
+        "Big or tiny, it all counts."
+      ],
+      "vi": [
+        "Một chiến thắng nho nhỏ của bạn trong tuần này là gì?",
+        "Lớn hay nhỏ đều đáng kể."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Celebrate each answer briefly before moving on.",
+      "vi": "Ghi nhận ngắn gọn từng câu trả lời trước khi chuyển người."
+    },
+    "keyPhrases": [
+      "I'm proud that I…",
+      "A small win for me was…",
+      "It finally worked!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "friday",
+      "client"
+    ]
+  },
+  {
+    "id": "q-05",
+    "type": "question",
+    "title": {
+      "en": "Fictional Mentor",
+      "vi": "Mentor trong truyện"
+    },
+    "lines": {
+      "en": [
+        "Which fictional character would you want as a mentor?",
+        "What would you hope to learn from them?"
+      ],
+      "vi": [
+        "Bạn muốn nhân vật hư cấu nào làm mentor cho mình?",
+        "Bạn mong học được gì từ họ?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Any book, film, game or cartoon is fair game.",
+      "vi": "Nhân vật từ sách, phim, game hay hoạt hình đều được."
+    },
+    "keyPhrases": [
+      "I'd love to learn … from them.",
+      "They're great at…",
+      "I really admire how they…"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "clients"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "workshop",
+      "casual",
+      "weekly",
+      "client"
+    ]
+  },
+  {
+    "id": "q-06",
+    "type": "question",
+    "title": {
+      "en": "Unusual Task",
+      "vi": "Nhiệm vụ kỳ lạ"
+    },
+    "lines": {
+      "en": [
+        "What's the most unusual task you've ever been asked to do at work?"
+      ],
+      "vi": [
+        "Nhiệm vụ \"khó đỡ\" nhất bạn từng được giao ở chỗ làm là gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Remind people to keep names and clients out of the story.",
+      "vi": "Nhắc mọi người không nêu tên người hay khách hàng cụ thể."
+    },
+    "keyPhrases": [
+      "You won’t believe this, but…",
+      "It turned out to be…",
+      "Looking back, it was fun."
+    ],
+    "audience": [
+      "internal",
+      "new"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "q-07",
+    "type": "question",
+    "title": {
+      "en": "Feel-Good Song",
+      "vi": "Bài hát \"tiếp năng lượng\""
+    },
+    "lines": {
+      "en": [
+        "What's a song that always lifts your mood?"
+      ],
+      "vi": [
+        "Bài hát nào lúc nào nghe cũng khiến bạn vui lên?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Collect the answers into a team playlist afterwards.",
+      "vi": "Gom các bài lại thành playlist chung của nhóm sau buổi họp."
+    },
+    "keyPhrases": [
+      "It always puts me in a good mood.",
+      "I have it on repeat.",
+      "It's my go-to song."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "standup"
+    ]
+  },
+  {
+    "id": "q-08",
+    "type": "question",
+    "title": {
+      "en": "Time-Saving Trick",
+      "vi": "Mẹo tiết kiệm thời gian"
+    },
+    "lines": {
+      "en": [
+        "What's a small app, tool or trick that saves you time?"
+      ],
+      "vi": [
+        "Ứng dụng, công cụ hay mẹo nhỏ nào giúp bạn tiết kiệm thời gian?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask someone to note the tips and share them in the chat.",
+      "vi": "Nhờ một người ghi lại các mẹo và gửi vào nhóm chat."
+    },
+    "keyPhrases": [
+      "It saves me about … a day.",
+      "A handy shortcut is…",
+      "Have you tried…?"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "weekly",
+      "workshop",
+      "client",
+      "standup"
+    ]
+  },
+  {
+    "id": "q-09",
+    "type": "question",
+    "title": {
+      "en": "Morning Fuel",
+      "vi": "Nạp năng lượng buổi sáng"
+    },
+    "lines": {
+      "en": [
+        "Coffee, tea, or something else:",
+        "what kick-starts your day?"
+      ],
+      "vi": [
+        "Cà phê, trà hay thứ gì khác:",
+        "điều gì \"khởi động\" ngày mới của bạn?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Great as a warm-up for early meetings.",
+      "vi": "Rất hợp để khởi động cho các cuộc họp buổi sáng."
+    },
+    "keyPhrases": [
+      "I can't start my day without…",
+      "I'm more of a … person.",
+      "It wakes me right up."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "q-10",
+    "type": "question",
+    "title": {
+      "en": "Lunch Anywhere",
+      "vi": "Bữa trưa ở bất cứ đâu"
+    },
+    "lines": {
+      "en": [
+        "If you could teleport anywhere for lunch today,",
+        "where would you go?"
+      ],
+      "vi": [
+        "Nếu hôm nay được \"dịch chuyển tức thời\" đi ăn trưa ở bất cứ đâu,",
+        "bạn sẽ đến đâu?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask what they would order for a fun follow-up.",
+      "vi": "Hỏi thêm họ sẽ gọi món gì để câu chuyện thêm vui."
+    },
+    "keyPhrases": [
+      "I'd head straight to…",
+      "I've always wanted to try…",
+      "My order would be…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "client",
+      "standup"
+    ]
+  },
+  {
+    "id": "q-11",
+    "type": "question",
+    "title": {
+      "en": "Robot Helper",
+      "vi": "Robot giúp việc"
+    },
+    "lines": {
+      "en": [
+        "If a robot could take over one chore forever,",
+        "which one would you hand over?"
+      ],
+      "vi": [
+        "Nếu có một con robot làm giúp bạn một việc nhà mãi mãi,",
+        "bạn sẽ giao việc gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Expect lots of \"laundry\" — ask for runners-up.",
+      "vi": "Chắc sẽ nhiều người chọn \"giặt đồ\" — hỏi thêm lựa chọn thứ hai."
+    },
+    "keyPhrases": [
+      "I'd happily give up…",
+      "I never enjoy…",
+      "That would be a dream."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large",
+      "clients"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "standup",
+      "client"
+    ]
+  },
+  {
+    "id": "q-12",
+    "type": "question",
+    "title": {
+      "en": "Recent Laugh",
+      "vi": "Tiếng cười gần đây"
+    },
+    "lines": {
+      "en": [
+        "What's something that made you laugh recently?"
+      ],
+      "vi": [
+        "Gần đây có chuyện gì khiến bạn bật cười?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Keep it light and workplace-friendly; pass is always OK.",
+      "vi": "Giữ chuyện nhẹ nhàng, phù hợp công sở; ai muốn bỏ qua cũng được."
+    },
+    "keyPhrases": [
+      "It cracked me up.",
+      "You had to be there, but…",
+      "I laughed so hard when…"
+    ],
+    "audience": [
+      "internal",
+      "new"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "q-13",
+    "type": "question",
+    "title": {
+      "en": "Overnight Skill",
+      "vi": "Kỹ năng sau một đêm"
+    },
+    "lines": {
+      "en": [
+        "If you could master one skill overnight,",
+        "what would it be?"
+      ],
+      "vi": [
+        "Nếu có thể thành thạo một kỹ năng chỉ sau một đêm,",
+        "bạn sẽ chọn kỹ năng gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Note any work-relevant skills: they hint at learning goals.",
+      "vi": "Để ý những kỹ năng liên quan công việc — đó là gợi ý cho mục tiêu học tập."
+    },
+    "keyPhrases": [
+      "I've always wanted to learn…",
+      "It would help me…",
+      "I'd finally be able to…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "workshop",
+      "weekly",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "q-14",
+    "type": "question",
+    "title": {
+      "en": "Workday Theme Song",
+      "vi": "Nhạc nền ngày làm việc"
+    },
+    "lines": {
+      "en": [
+        "If your workday had a theme song,",
+        "what would it be today?"
+      ],
+      "vi": [
+        "Nếu ngày làm việc hôm nay có nhạc nền,",
+        "đó sẽ là bài gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Hum a few notes yourself to break the ice.",
+      "vi": "Tự ngân nga vài nốt trước để phá băng."
+    },
+    "keyPhrases": [
+      "Today feels like…",
+      "It's definitely a … kind of day.",
+      "Cue the music!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "q-15",
+    "type": "question",
+    "title": {
+      "en": "Worth Recommending",
+      "vi": "Đáng để giới thiệu"
+    },
+    "lines": {
+      "en": [
+        "What's a book, podcast or show you'd recommend to this group?",
+        "Tell us why in one sentence."
+      ],
+      "vi": [
+        "Bạn muốn giới thiệu cuốn sách, podcast hay chương trình nào cho cả nhóm?",
+        "Nói lý do trong một câu thôi."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Drop the titles in the chat so no one has to take notes.",
+      "vi": "Gửi tên vào chat để mọi người khỏi phải ghi chép."
+    },
+    "keyPhrases": [
+      "I highly recommend…",
+      "It's worth it because…",
+      "You might enjoy…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "weekly",
+      "workshop",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "q-16",
+    "type": "question",
+    "title": {
+      "en": "Three-Word View",
+      "vi": "Khung cảnh trong ba từ"
+    },
+    "lines": {
+      "en": [
+        "Describe the view from your workspace in exactly three words."
+      ],
+      "vi": [
+        "Hãy tả khung cảnh nơi bạn đang làm việc bằng đúng ba từ."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Count the words with your fingers to keep it playful.",
+      "vi": "Đếm từ bằng ngón tay cho vui."
+    },
+    "keyPhrases": [
+      "From where I sit,…",
+      "My view today is…",
+      "In three words:…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "q-17",
+    "type": "question",
+    "title": {
+      "en": "Someday Hobby",
+      "vi": "Sở thích \"để dành\""
+    },
+    "lines": {
+      "en": [
+        "What hobby would you love to try if you had more free time?"
+      ],
+      "vi": [
+        "Nếu có thêm thời gian rảnh, bạn muốn thử sở thích nào?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Look for overlaps: someone may already do it.",
+      "vi": "Tìm điểm chung: biết đâu có người đã chơi món đó rồi."
+    },
+    "keyPhrases": [
+      "I've always been curious about…",
+      "I'd love to give … a try.",
+      "Maybe one day I will."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "casual",
+      "weekly",
+      "client",
+      "friday"
+    ]
+  },
+  {
+    "id": "q-18",
+    "type": "question",
+    "title": {
+      "en": "Animal Coworker",
+      "vi": "Đồng nghiệp bốn chân"
+    },
+    "lines": {
+      "en": [
+        "If you could have any animal as a coworker,",
+        "which would you pick and why?"
+      ],
+      "vi": [
+        "Nếu được chọn một con vật làm đồng nghiệp,",
+        "bạn chọn con gì và vì sao?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask what job title the animal would have.",
+      "vi": "Hỏi thêm con vật đó sẽ giữ chức danh gì trong nhóm."
+    },
+    "keyPhrases": [
+      "They'd be great at…",
+      "I'd pick … because…",
+      "They would never miss a deadline."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large",
+      "clients"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "workshop",
+      "client"
+    ]
+  },
+  {
+    "id": "q-19",
+    "type": "question",
+    "title": {
+      "en": "Strange Food Combo",
+      "vi": "Món kết hợp \"lạ đời\""
+    },
+    "lines": {
+      "en": [
+        "What's a food combination you love that others find strange?"
+      ],
+      "vi": [
+        "Món ăn kết hợp nào bạn mê nhưng người khác thấy \"lạ đời\"?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Let the group react with a thumbs up or a confused face.",
+      "vi": "Để cả nhóm thả like hoặc biểu cảm \"ngơ ngác\" cho vui."
+    },
+    "keyPhrases": [
+      "Don't judge, but…",
+      "Trust me, it works.",
+      "You have to try it."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "standup"
+    ]
+  },
+  {
+    "id": "q-20",
+    "type": "question",
+    "title": {
+      "en": "Best Advice",
+      "vi": "Lời khuyên đáng giá"
+    },
+    "lines": {
+      "en": [
+        "What's the best piece of work advice you've ever received?"
+      ],
+      "vi": [
+        "Lời khuyên công việc hay nhất mà bạn từng nhận là gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Thank each person; this one often sparks real reflection.",
+      "vi": "Cảm ơn từng người; câu này thường gợi nhiều suy ngẫm thật sự."
+    },
+    "keyPhrases": [
+      "Someone once told me…",
+      "It really stuck with me.",
+      "I still use it today."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "workshop",
+      "weekly",
+      "client"
+    ]
+  },
+  {
+    "id": "q-21",
+    "type": "question",
+    "title": {
+      "en": "Overused Emoji",
+      "vi": "Emoji \"ruột\""
+    },
+    "lines": {
+      "en": [
+        "Which emoji do you use way too often?",
+        "Bonus: drop it in the chat."
+      ],
+      "vi": [
+        "Emoji nào bạn dùng \"hơi bị\" nhiều?",
+        "Thả luôn vào chat nhé."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Perfect for virtual calls: the chat fills up fast.",
+      "vi": "Rất hợp cho họp online: khung chat sẽ rộn ràng ngay."
+    },
+    "keyPhrases": [
+      "I use it for everything.",
+      "It says it all.",
+      "Guilty as charged!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "q-22",
+    "type": "question",
+    "title": {
+      "en": "Little-Known Fact",
+      "vi": "Điều ít ai biết"
+    },
+    "lines": {
+      "en": [
+        "Share a fun fact about you that most people here don’t know.",
+        "Keep it light!"
+      ],
+      "vi": [
+        "Chia sẻ một điều thú vị về bạn mà ít ai ở đây biết.",
+        "Nhẹ nhàng, vui vẻ thôi nhé!"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Offer examples (a skill, a place visited, a fun record) to help.",
+      "vi": "Gợi ý vài ví dụ (một kỹ năng, nơi từng đến, một \"kỷ lục\" vui) để mọi người dễ nghĩ."
+    },
+    "keyPhrases": [
+      "Not many people know that…",
+      "Fun fact:…",
+      "Funnily enough,…"
+    ],
+    "audience": [
+      "internal",
+      "new"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "workshop",
+      "casual",
+      "weekly"
+    ]
+  },
+  {
+    "id": "q-23",
+    "type": "question",
+    "title": {
+      "en": "Invent a Holiday",
+      "vi": "Sáng tạo ngày lễ"
+    },
+    "lines": {
+      "en": [
+        "If you could invent a new holiday,",
+        "what would we celebrate?"
+      ],
+      "vi": [
+        "Nếu được tạo ra một ngày lễ mới,",
+        "chúng ta sẽ kỷ niệm điều gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Vote on the best one; maybe celebrate it as a team.",
+      "vi": "Bình chọn ý hay nhất — biết đâu cả nhóm sẽ \"ăn mừng\" thật."
+    },
+    "keyPhrases": [
+      "I'd call it…",
+      "Everyone would get to…",
+      "Let's make it official."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "workshop",
+      "client"
+    ]
+  },
+  {
+    "id": "q-24",
+    "type": "question",
+    "title": {
+      "en": "Catchphrase",
+      "vi": "Câu cửa miệng"
+    },
+    "lines": {
+      "en": [
+        "What's a phrase you say at work all the time?"
+      ],
+      "vi": [
+        "Câu cửa miệng của bạn ở chỗ làm là gì?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Invite teammates to guess each other’s phrase first.",
+      "vi": "Cho đồng nghiệp đoán câu cửa miệng của nhau trước."
+    },
+    "keyPhrases": [
+      "I always end up saying…",
+      "I'm known for saying…",
+      "Guilty!"
+    ],
+    "audience": [
+      "internal",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "q-25",
+    "type": "question",
+    "title": {
+      "en": "Looking Forward",
+      "vi": "Điều đang mong chờ"
+    },
+    "lines": {
+      "en": [
+        "What's one thing you're looking forward to this week?"
+      ],
+      "vi": [
+        "Trong tuần này, điều gì khiến bạn mong chờ nhất?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Big or small: a meeting, a meal, a weekend plan.",
+      "vi": "Lớn hay nhỏ đều được: một cuộc họp, một bữa ăn, kế hoạch cuối tuần."
+    },
+    "keyPhrases": [
+      "I'm really looking forward to…",
+      "I can't wait for…",
+      "It should be fun."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "wyr-01",
+    "type": "wyr",
+    "title": {
+      "en": "Coffee vs. Email",
+      "vi": "Cà phê hay email"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have unlimited free coffee, or never attend a meeting that could've been an email?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "được uống cà phê miễn phí không giới hạn, hay không bao giờ phải dự một cuộc họp mà lẽ ra chỉ cần gửi email?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask for a show of hands, then hear one reason from each side.",
+      "vi": "Cho mọi người giơ tay chọn, rồi mời mỗi bên nói một lý do."
+    },
+    "keyPhrases": [
+      "I'd definitely pick…",
+      "That's a tough one.",
+      "No contest!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-02",
+    "type": "wyr",
+    "title": {
+      "en": "Beach or Mountains",
+      "vi": "Biển hay núi"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "work for a week from a beach hut, or from a cosy mountain cabin?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "làm việc một tuần ở căn chòi bên bờ biển, hay ở một căn nhà gỗ ấm cúng trên núi?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Let people answer in the chat with a wave or a mountain emoji.",
+      "vi": "Cho mọi người trả lời bằng emoji sóng biển hoặc ngọn núi trong chat."
+    },
+    "keyPhrases": [
+      "I'm more of a … person.",
+      "That sounds amazing.",
+      "Count me in for…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "client",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-03",
+    "type": "wyr",
+    "title": {
+      "en": "Pause Time or Skip Commute",
+      "vi": "Dừng thời gian hay bỏ đi lại"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "pause time for 10 minutes every day, or never have to commute again?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "mỗi ngày được dừng thời gian 10 phút, hay không bao giờ phải đi lại đến chỗ làm nữa?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask the pause-time fans what they would do with those 10 minutes.",
+      "vi": "Hỏi những người chọn dừng thời gian xem họ sẽ làm gì với 10 phút đó."
+    },
+    "keyPhrases": [
+      "I'd use the time to…",
+      "That would change everything.",
+      "Easy choice for me."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "wyr-04",
+    "type": "wyr",
+    "title": {
+      "en": "Early or Late",
+      "vi": "Đến sớm hay đến muộn"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "always be 10 minutes early, or always be exactly 2 minutes late?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "lúc nào cũng đến sớm 10 phút, hay lúc nào cũng trễ đúng 2 phút?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Keep it playful; nobody is being judged on punctuality!",
+      "vi": "Giữ không khí vui vẻ — không ai bị \"chấm điểm\" đúng giờ đâu!"
+    },
+    "keyPhrases": [
+      "I hate being late.",
+      "I'd rather be safe than sorry.",
+      "Fashionably late!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "casual"
+    ]
+  },
+  {
+    "id": "wyr-05",
+    "type": "wyr",
+    "title": {
+      "en": "Big Stage or Big Report",
+      "vi": "Sân khấu lớn hay báo cáo dày"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "present to 500 people, or write a 50-page report?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "thuyết trình trước 500 người, hay viết một bản báo cáo dài 50 trang?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "A fun way to learn who enjoys speaking vs. writing.",
+      "vi": "Cách vui để biết ai thích nói, ai thích viết."
+    },
+    "keyPhrases": [
+      "I'm more comfortable…",
+      "Public speaking is not my thing.",
+      "I'd take the … any day."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "workshop",
+      "weekly",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "wyr-06",
+    "type": "wyr",
+    "title": {
+      "en": "Emojis or Voice Notes",
+      "vi": "Emoji hay tin nhắn thoại"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "communicate only in emojis for a week, or only in voice messages?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "chỉ được giao tiếp bằng emoji trong một tuần, hay chỉ bằng tin nhắn thoại?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Challenge the emoji side to answer with emojis only.",
+      "vi": "Thử thách phe emoji trả lời bằng emoji thôi."
+    },
+    "keyPhrases": [
+      "That would be chaos.",
+      "I'd manage just fine.",
+      "Challenge accepted!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "standup"
+    ]
+  },
+  {
+    "id": "wyr-07",
+    "type": "wyr",
+    "title": {
+      "en": "Chef or Inbox Cleaner",
+      "vi": "Đầu bếp hay người dọn hộp thư"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have a personal chef, or someone who keeps your inbox at zero?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "có đầu bếp riêng, hay có người lo cho hộp thư của bạn luôn sạch bong?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Follow up: \"What would you do with the time saved?\"",
+      "vi": "Hỏi thêm: \"Bạn sẽ làm gì với thời gian tiết kiệm được?\""
+    },
+    "keyPhrases": [
+      "Inbox zero is the dream.",
+      "I would eat so well.",
+      "I can't decide!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "wyr-08",
+    "type": "wyr",
+    "title": {
+      "en": "Languages or Instruments",
+      "vi": "Ngôn ngữ hay nhạc cụ"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "speak every language fluently, or play every musical instrument?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "nói thành thạo mọi ngôn ngữ, hay chơi được mọi loại nhạc cụ?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask which language or instrument they would try first.",
+      "vi": "Hỏi họ sẽ thử ngôn ngữ hay nhạc cụ nào đầu tiên."
+    },
+    "keyPhrases": [
+      "I would love to be able to…",
+      "That's a hard choice.",
+      "It would open so many doors."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "workshop",
+      "client",
+      "casual",
+      "weekly"
+    ]
+  },
+  {
+    "id": "wyr-09",
+    "type": "wyr",
+    "title": {
+      "en": "Caps Lock or Backwards Mouse",
+      "vi": "Caps Lock hay chuột ngược"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have a keyboard stuck on CAPS LOCK, or a mouse that moves backwards?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "dùng bàn phím bị kẹt CAPS LOCK, hay dùng con chuột di chuyển ngược chiều?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Great for tech-heavy teams; expect groans and laughs.",
+      "vi": "Rất hợp với các nhóm hay làm việc với máy tính — chắc chắn có tiếng than lẫn tiếng cười."
+    },
+    "keyPhrases": [
+      "EVERYONE WOULD THINK I AM SHOUTING.",
+      "That would drive me crazy.",
+      "I'd adapt eventually."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "standup"
+    ]
+  },
+  {
+    "id": "wyr-10",
+    "type": "wyr",
+    "title": {
+      "en": "Four Long or Five Short",
+      "vi": "Bốn ngày dài hay năm ngày ngắn"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "work four longer days, or five shorter days?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "làm bốn ngày mỗi tuần nhưng mỗi ngày dài hơn, hay năm ngày nhưng mỗi ngày ngắn hơn?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Keep it hypothetical so it does not become a policy debate.",
+      "vi": "Giữ ở mức \"giả sử\" để không biến thành buổi tranh luận chính sách."
+    },
+    "keyPhrases": [
+      "A long weekend sounds great.",
+      "I prefer a steady pace.",
+      "It depends on the week."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "weekly",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-11",
+    "type": "wyr",
+    "title": {
+      "en": "Teleport or No Sleep",
+      "vi": "Dịch chuyển hay không cần ngủ"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "be able to teleport anywhere, or never need to sleep?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "có thể dịch chuyển tức thời đến bất cứ đâu, hay không bao giờ cần ngủ?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask the no-sleep side what they would do at 3 a.m.",
+      "vi": "Hỏi phe \"không cần ngủ\" xem họ sẽ làm gì lúc 3 giờ sáng."
+    },
+    "keyPhrases": [
+      "I'd travel everywhere.",
+      "I love my sleep too much.",
+      "Think of the possibilities!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "client",
+      "casual",
+      "workshop"
+    ]
+  },
+  {
+    "id": "wyr-12",
+    "type": "wyr",
+    "title": {
+      "en": "Music or Movies",
+      "vi": "Âm nhạc hay phim ảnh"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "give up music for a year, or give up films and shows for a year?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "bỏ nghe nhạc trong một năm, hay bỏ xem phim và chương trình truyền hình trong một năm?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask for the one song or show they would miss most.",
+      "vi": "Hỏi thêm bài hát hay bộ phim họ sẽ nhớ nhất."
+    },
+    "keyPhrases": [
+      "I couldn't live without…",
+      "I'd survive without…",
+      "That's harsh!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "client",
+      "standup"
+    ]
+  },
+  {
+    "id": "wyr-13",
+    "type": "wyr",
+    "title": {
+      "en": "Standing or Walking",
+      "vi": "Họp đứng hay họp đi bộ"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have every meeting standing up, or have every meeting as a walk?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "họp đứng trong mọi cuộc họp, hay vừa đi bộ vừa họp?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Try it: hold the rest of this stand-up literally standing.",
+      "vi": "Thử luôn: phần còn lại của buổi họp mọi người cùng đứng."
+    },
+    "keyPhrases": [
+      "Walking helps me think.",
+      "Meetings would be shorter.",
+      "Let's try it sometime."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "workshop"
+    ]
+  },
+  {
+    "id": "wyr-14",
+    "type": "wyr",
+    "title": {
+      "en": "Excel or PowerPoint",
+      "vi": "Excel hay PowerPoint"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "be the world’s best Excel wizard, or the world’s best slide designer?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "trở thành \"phù thủy\" Excel giỏi nhất thế giới, hay trở thành người thiết kế slide đỉnh nhất thế giới?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Expect strong opinions; let each side make a 10-second pitch.",
+      "vi": "Sẽ có nhiều ý kiến \"cháy\" — cho mỗi phe 10 giây để thuyết phục."
+    },
+    "keyPhrases": [
+      "Formulas are my happy place.",
+      "A good slide tells the story.",
+      "I'm team…"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "weekly",
+      "workshop",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-15",
+    "type": "wyr",
+    "title": {
+      "en": "Joke or Song",
+      "vi": "Kể chuyện cười hay hát"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "open the next all-hands with a joke, or with one line of a song?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "mở màn buổi họp toàn công ty tới bằng một câu chuyện cười, hay bằng một câu hát?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Purely hypothetical: make it clear nobody has to do it!",
+      "vi": "Chỉ là giả sử thôi — nói rõ không ai bị bắt làm thật đâu!"
+    },
+    "keyPhrases": [
+      "I'd go with a joke.",
+      "I'd rather sing.",
+      "Please don't make me!"
+    ],
+    "audience": [
+      "internal",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "wyr-16",
+    "type": "wyr",
+    "title": {
+      "en": "Early Bird or Night Owl",
+      "vi": "Cú đêm hay chim sớm"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "work 6 a.m. to 2 p.m., or noon to 8 p.m.?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "làm từ 6 giờ sáng đến 2 giờ chiều, hay từ 12 giờ trưa đến 8 giờ tối?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Useful for teams planning meeting times.",
+      "vi": "Hữu ích cho nhóm đang sắp xếp giờ họp chung."
+    },
+    "keyPhrases": [
+      "I'm a morning person.",
+      "I'm at my best in the evening.",
+      "Mornings are not for me."
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "client"
+    ]
+  },
+  {
+    "id": "wyr-17",
+    "type": "wyr",
+    "title": {
+      "en": "Phone or Keys",
+      "vi": "Điện thoại hay chìa khóa"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "lose your phone for a day, or lose your keys for a day?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "mất điện thoại một ngày, hay mất chìa khóa một ngày?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask how they would survive the day.",
+      "vi": "Hỏi họ sẽ \"sống sót\" qua ngày đó như thế nào."
+    },
+    "keyPhrases": [
+      "I would be completely lost.",
+      "I could handle that.",
+      "Nightmare scenario!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-18",
+    "type": "wyr",
+    "title": {
+      "en": "Sweet or Savoury",
+      "vi": "Ngọt hay mặn"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "only eat sweet snacks forever, or only savoury snacks forever?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "cả đời chỉ ăn đồ ăn vặt vị ngọt, hay chỉ ăn đồ ăn vặt vị mặn?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "A quick poll in the chat keeps it fast.",
+      "vi": "Làm khảo sát nhanh trong chat cho gọn."
+    },
+    "keyPhrases": [
+      "I've got a sweet tooth.",
+      "I'm all about savoury.",
+      "Why not both?"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "casual",
+      "friday",
+      "client"
+    ]
+  },
+  {
+    "id": "wyr-19",
+    "type": "wyr",
+    "title": {
+      "en": "Dragon or Unicorn",
+      "vi": "Rồng hay kỳ lân"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have a pet dragon, or a pet unicorn?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "nuôi một chú rồng, hay nuôi một chú kỳ lân?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask what they would name it.",
+      "vi": "Hỏi thêm họ sẽ đặt tên cho nó là gì."
+    },
+    "keyPhrases": [
+      "I'd name it…",
+      "Imagine the commute!",
+      "That would be epic."
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday"
+    ]
+  },
+  {
+    "id": "wyr-20",
+    "type": "wyr",
+    "title": {
+      "en": "Slide or Nap Pod",
+      "vi": "Cầu trượt hay buồng ngủ trưa"
+    },
+    "lines": {
+      "en": [
+        "Would you rather…",
+        "have a slide in the office, or a nap pod in the office?"
+      ],
+      "vi": [
+        "Bạn sẽ chọn…",
+        "có cầu trượt trong văn phòng, hay có buồng ngủ trưa trong văn phòng?"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Ask what other office upgrade they would add.",
+      "vi": "Hỏi thêm họ muốn văn phòng có thêm \"tiện ích\" gì nữa."
+    },
+    "keyPhrases": [
+      "That would make Mondays better.",
+      "I could really use a nap.",
+      "Best office ever!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "g-01",
+    "type": "game",
+    "title": {
+      "en": "Two Truths and a Lie",
+      "vi": "Hai thật một dối"
+    },
+    "lines": {
+      "en": [
+        "Share three short statements about yourself: two true, one made up.",
+        "Everyone guesses which one is the lie.",
+        "Reveal the answer, then pass to the next person."
+      ],
+      "vi": [
+        "Nói ba điều ngắn về bản thân: hai điều thật, một điều bịa.",
+        "Mọi người đoán đâu là điều bịa.",
+        "Công bố đáp án rồi chuyển lượt cho người tiếp theo."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Give people a minute to prepare; in large groups, vote in the chat.",
+      "vi": "Cho mọi người một phút chuẩn bị; nhóm đông thì bình chọn qua chat."
+    },
+    "keyPhrases": [
+      "I think number two is the lie.",
+      "No way, that has to be true!",
+      "You got me!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "workshop",
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "g-02",
+    "type": "game",
+    "title": {
+      "en": "One-Word Check-in",
+      "vi": "Check-in một từ"
+    },
+    "lines": {
+      "en": [
+        "In one word, how are you arriving today?",
+        "No explanations needed: just one word."
+      ],
+      "vi": [
+        "Dùng đúng một từ: hôm nay bạn đến buổi họp với tâm trạng thế nào?",
+        "Không cần giải thích, chỉ một từ thôi."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Go first yourself and keep the pace brisk.",
+      "vi": "Bạn nói trước và giữ nhịp thật nhanh."
+    },
+    "keyPhrases": [
+      "Focused.",
+      "I'd say… energised.",
+      "I'm feeling…"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "workshop",
+      "client"
+    ]
+  },
+  {
+    "id": "g-03",
+    "type": "game",
+    "title": {
+      "en": "Emoji Mood Check",
+      "vi": "Đo tâm trạng bằng emoji"
+    },
+    "lines": {
+      "en": [
+        "Drop one emoji in the chat that matches your mood right now.",
+        "The host picks two or three to ask about."
+      ],
+      "vi": [
+        "Thả một emoji vào chat thể hiện tâm trạng của bạn lúc này.",
+        "Người điều phối chọn hai, ba emoji để hỏi thêm."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Works great with big virtual groups; no one has to unmute.",
+      "vi": "Rất hợp cho nhóm online đông người, không ai phải bật mic."
+    },
+    "keyPhrases": [
+      "Mine says it all.",
+      "I'm feeling a bit…",
+      "Love that one!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "workshop",
+      "client",
+      "casual"
+    ]
+  },
+  {
+    "id": "g-04",
+    "type": "game",
+    "title": {
+      "en": "Rose, Bud, Thorn",
+      "vi": "Hoa, Nụ, Gai"
+    },
+    "lines": {
+      "en": [
+        "Rose: something going well.",
+        "Bud: something you’re excited about.",
+        "Thorn: something that’s been a challenge.",
+        "Share all three in under 30 seconds."
+      ],
+      "vi": [
+        "Hoa: một điều đang suôn sẻ.",
+        "Nụ: một điều bạn đang háo hức.",
+        "Gai: một điều đang gây khó khăn.",
+        "Kể cả ba trong vòng 30 giây."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Model a work-related thorn so people don’t overshare.",
+      "vi": "Làm mẫu bằng một \"cái gai\" liên quan công việc để mọi người không chia sẻ quá riêng tư."
+    },
+    "keyPhrases": [
+      "My rose this week is…",
+      "I'm excited about…",
+      "One challenge has been…"
+    ],
+    "audience": [
+      "internal",
+      "new"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "weekly",
+      "workshop",
+      "friday"
+    ]
+  },
+  {
+    "id": "g-05",
+    "type": "game",
+    "title": {
+      "en": "Desk-Item Show-and-Tell",
+      "vi": "Món đồ trên bàn làm việc"
+    },
+    "lines": {
+      "en": [
+        "Grab one object within arm’s reach.",
+        "Show it and share its story in 20 seconds."
+      ],
+      "vi": [
+        "Cầm lấy một món đồ trong tầm tay.",
+        "Giơ lên và kể câu chuyện về nó trong 20 giây."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Best on video calls; mugs and plants always win.",
+      "vi": "Hợp nhất khi họp có bật camera — cốc và cây xanh luôn \"thắng lớn\"."
+    },
+    "keyPhrases": [
+      "This is my…",
+      "I got it when…",
+      "It's been with me for years."
+    ],
+    "audience": [
+      "internal",
+      "new"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "casual",
+      "friday",
+      "weekly"
+    ]
+  },
+  {
+    "id": "g-06",
+    "type": "game",
+    "title": {
+      "en": "Three-Word Weekend",
+      "vi": "Cuối tuần trong ba từ"
+    },
+    "lines": {
+      "en": [
+        "Describe your weekend in exactly three words.",
+        "Past or upcoming, your choice."
+      ],
+      "vi": [
+        "Tả cuối tuần của bạn bằng đúng ba từ.",
+        "Cuối tuần vừa qua hay sắp tới đều được."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Perfect for Mondays and Fridays; hold people to three words!",
+      "vi": "Hợp nhất vào thứ Hai và thứ Sáu — nhớ giữ đúng ba từ nhé!"
+    },
+    "keyPhrases": [
+      "Relaxing, sunny, delicious.",
+      "In three words:…",
+      "Can't complain!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "friday",
+      "weekly",
+      "client"
+    ]
+  },
+  {
+    "id": "g-07",
+    "type": "game",
+    "title": {
+      "en": "Finish the Sentence",
+      "vi": "Hoàn thành câu nói"
+    },
+    "lines": {
+      "en": [
+        "Complete this sentence:",
+        "\"This week would be perfect if…\""
+      ],
+      "vi": [
+        "Hoàn thành câu sau:",
+        "\"Tuần này sẽ thật hoàn hảo nếu…\""
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Listen for real blockers you can help with later.",
+      "vi": "Lắng nghe những vướng mắc thật mà bạn có thể hỗ trợ sau đó."
+    },
+    "keyPhrases": [
+      "This week would be perfect if…",
+      "All I need is…",
+      "Fingers crossed!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "casual"
+    ]
+  },
+  {
+    "id": "g-08",
+    "type": "game",
+    "title": {
+      "en": "This or That",
+      "vi": "Cái này hay cái kia"
+    },
+    "lines": {
+      "en": [
+        "The host calls out quick pairs: coffee or tea? Mornings or evenings? Calls or chat?",
+        "Everyone answers with a hand raise or a reaction.",
+        "Five rounds, no thinking time!"
+      ],
+      "vi": [
+        "Người điều phối đọc nhanh từng cặp: cà phê hay trà? Sáng hay tối? Gọi điện hay nhắn tin?",
+        "Mọi người trả lời bằng cách giơ tay hoặc thả biểu cảm.",
+        "Năm vòng, không được nghĩ lâu!"
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Prepare your pairs in advance and keep a snappy rhythm.",
+      "vi": "Chuẩn bị sẵn các cặp lựa chọn và giữ nhịp thật nhanh."
+    },
+    "keyPhrases": [
+      "I'm team coffee.",
+      "Definitely the second one.",
+      "Next one!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "standup",
+      "workshop",
+      "casual",
+      "client",
+      "friday"
+    ]
+  },
+  {
+    "id": "g-09",
+    "type": "game",
+    "title": {
+      "en": "Weather Report",
+      "vi": "Bản tin thời tiết"
+    },
+    "lines": {
+      "en": [
+        "Describe your mood as a weather forecast.",
+        "For example: \"Sunny, with a small chance of deadlines.\""
+      ],
+      "vi": [
+        "Hãy tả tâm trạng của bạn như một bản tin dự báo thời tiết.",
+        "Ví dụ: \"Trời nắng đẹp, có khả năng xuất hiện vài cơn deadline rải rác.\""
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Give your own forecast first to show it can be playful.",
+      "vi": "Bạn \"phát sóng\" bản tin của mình trước để mọi người thấy có thể đùa vui."
+    },
+    "keyPhrases": [
+      "Mostly sunny today.",
+      "A bit cloudy, but clearing up.",
+      "Expect storms this afternoon!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "standup",
+      "weekly",
+      "casual"
+    ]
+  },
+  {
+    "id": "g-10",
+    "type": "game",
+    "title": {
+      "en": "Common Ground",
+      "vi": "Điểm chung bất ngờ"
+    },
+    "lines": {
+      "en": [
+        "In pairs or small breakout groups, find three things you all have in common.",
+        "Obvious ones (like working here) don’t count!",
+        "Each group shares its most surprising one."
+      ],
+      "vi": [
+        "Chia cặp hoặc nhóm nhỏ, tìm ba điểm chung của cả nhóm.",
+        "Những điểm hiển nhiên (như cùng làm ở đây) không được tính!",
+        "Mỗi nhóm chia sẻ điểm chung bất ngờ nhất."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Set a 3-minute timer; great for mixing new teams.",
+      "vi": "Đặt đồng hồ 3 phút; rất hợp để các nhóm mới làm quen."
+    },
+    "keyPhrases": [
+      "We both love…",
+      "What a coincidence!",
+      "Do you also…?"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large",
+      "clients"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "workshop",
+      "casual",
+      "client"
+    ]
+  },
+  {
+    "id": "g-11",
+    "type": "game",
+    "title": {
+      "en": "Energy Scale",
+      "vi": "Thang năng lượng"
+    },
+    "lines": {
+      "en": [
+        "On a scale of 1 to 10, how is your energy right now?",
+        "Show it with your fingers or type the number in the chat."
+      ],
+      "vi": [
+        "Trên thang từ 1 đến 10, năng lượng của bạn lúc này ở mức nào?",
+        "Giơ ngón tay hoặc gõ con số vào chat."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "If the average is low, consider a shorter agenda or a break.",
+      "vi": "Nếu điểm trung bình thấp, cân nhắc rút gọn nội dung hoặc nghỉ giải lao."
+    },
+    "keyPhrases": [
+      "I'm at a solid seven.",
+      "Running a bit low today.",
+      "Fully charged!"
+    ],
+    "audience": [
+      "internal",
+      "clients",
+      "new",
+      "large"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "standup",
+      "weekly",
+      "workshop",
+      "client"
+    ]
+  },
+  {
+    "id": "g-12",
+    "type": "game",
+    "title": {
+      "en": "Story Chain",
+      "vi": "Chuỗi câu chuyện"
+    },
+    "lines": {
+      "en": [
+        "The host starts: \"One morning, the office printer started talking…\"",
+        "Each person adds one sentence to continue the story.",
+        "The last person wraps it up."
+      ],
+      "vi": [
+        "Người điều phối mở đầu: \"Một buổi sáng, chiếc máy in trong văn phòng bỗng biết nói…\"",
+        "Mỗi người thêm một câu để kể tiếp.",
+        "Người cuối cùng kết thúc câu chuyện."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Announce the speaking order up front so no one freezes.",
+      "vi": "Thông báo thứ tự nói từ đầu để không ai bị bất ngờ."
+    },
+    "keyPhrases": [
+      "And then, suddenly…",
+      "Plot twist:…",
+      "In the end,…"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "casual",
+      "friday",
+      "workshop"
+    ]
+  },
+  {
+    "id": "g-13",
+    "type": "game",
+    "title": {
+      "en": "Shout-out Round",
+      "vi": "Vòng cảm ơn"
+    },
+    "lines": {
+      "en": [
+        "Give a quick shout-out to someone who helped you recently.",
+        "Say who and what they did, in one sentence."
+      ],
+      "vi": [
+        "Gửi lời cảm ơn nhanh đến một người đã giúp bạn gần đây.",
+        "Nói tên và việc họ đã làm, trong một câu."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Make sure everyone gets mentioned at least once over time.",
+      "vi": "Để ý sao cho lâu dần ai cũng được nhắc tên ít nhất một lần."
+    },
+    "keyPhrases": [
+      "A big thank-you to…",
+      "I really appreciated it when…",
+      "You saved my day!"
+    ],
+    "audience": [
+      "internal",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "weekly",
+      "friday",
+      "standup"
+    ]
+  },
+  {
+    "id": "g-14",
+    "type": "game",
+    "title": {
+      "en": "Headline of the Week",
+      "vi": "Tít báo của tuần"
+    },
+    "lines": {
+      "en": [
+        "Sum up your week as a newspaper headline.",
+        "For example: \"Local Analyst Tames Giant Spreadsheet.\""
+      ],
+      "vi": [
+        "Tóm tắt tuần của bạn bằng một tít báo.",
+        "Ví dụ: \"Chuyên viên phân tích thuần phục thành công bảng tính khổng lồ.\""
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Encourage dramatic, tabloid-style wording for laughs.",
+      "vi": "Khuyến khích viết kiểu \"giật tít\" cho vui."
+    },
+    "keyPhrases": [
+      "Breaking news:…",
+      "Here is my headline:…",
+      "Read all about it!"
+    ],
+    "audience": [
+      "internal",
+      "new",
+      "large"
+    ],
+    "length": "short",
+    "seconds": 45,
+    "meetings": [
+      "weekly",
+      "friday",
+      "casual"
+    ]
+  },
+  {
+    "id": "g-15",
+    "type": "game",
+    "title": {
+      "en": "Alliteration Names",
+      "vi": "Tên kèm tính từ"
+    },
+    "lines": {
+      "en": [
+        "Say your name with a positive adjective that starts with the same letter.",
+        "For example: \"Musical Minh\" or \"Curious Carla.\"",
+        "Bonus: repeat the names before yours."
+      ],
+      "vi": [
+        "Giới thiệu tên kèm một tính từ tích cực bắt đầu bằng cùng chữ cái.",
+        "Ví dụ: \"Minh Mạnh mẽ\" hay \"Lan Lạc quan\".",
+        "Thử thách: nhắc lại tên của những người nói trước."
+      ]
+    },
+    "punchline": null,
+    "tip": {
+      "en": "Great for new groups learning names; English or Vietnamese adjectives both work.",
+      "vi": "Rất hợp với nhóm mới cần nhớ tên nhau; dùng tính từ tiếng Anh hay tiếng Việt đều được."
+    },
+    "keyPhrases": [
+      "Nice to meet you, …",
+      "Let me try to remember…",
+      "Did I get everyone?"
+    ],
+    "audience": [
+      "new",
+      "large",
+      "internal"
+    ],
+    "length": "quick",
+    "seconds": 15,
+    "meetings": [
+      "workshop",
+      "casual"
+    ]
+  }
+]
